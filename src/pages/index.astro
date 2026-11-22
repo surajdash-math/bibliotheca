@@ -18,10 +18,10 @@ interface Book {
   links: { label: string; url: string }[];
 }
 
-const labels: Record<string, string> = shelfLabels;
+const labels: Record<string, string | null> = shelfLabels;
 const entries: Book[] = catalogue.entries.map(book => ({
   ...book,
-  genres: [...new Set(book.genres.map(genre => labels[genre] || genre))],
+  genres: [...new Set(book.genres.flatMap(genre => Object.hasOwn(labels, genre) ? (labels[genre] ? [labels[genre]!] : []) : [genre]))],
 }));
 const collator = new Intl.Collator("en", { sensitivity: "base", numeric: true });
 const byGenre = new Map<string, Book[]>();
