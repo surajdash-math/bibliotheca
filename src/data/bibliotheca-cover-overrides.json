@@ -1,0 +1,32 @@
+{
+  "2ce44a4243d181b28256d99334c21cd7": {
+    "src": "https://dynamic.indigoimages.ca/v1/books/books/1610394631/1.jpg",
+    "sourceUrl": "https://www.indigo.ca/en-ca/the-nazi-and-the-psychiatrist-hermann-g%C3%B6ring-dr.-douglas-m.-kelley-and-a-fatal-meeting-of-minds-at-the-end-of-wwii/9781610394635.html",
+    "alt": "Cover of The Nazi and the Psychiatrist by Jack El-Hai",
+    "sourceTitle": "The Nazi and the Psychiatrist",
+    "sourceAuthors": [
+      "Jack El-Hai"
+    ],
+    "sourceFingerprint": "2b4af6d64da4216067392bb803aa1b634cb62755d4e90fd80fd7c8044fd94f85"
+  },
+  "2ce44a4243d181e3845fea2aafff6525": {
+    "src": "https://dynamic.indigoimages.ca/v1/books/books/1610394631/1.jpg",
+    "sourceUrl": "https://www.indigo.ca/en-ca/the-nazi-and-the-psychiatrist-hermann-g%C3%B6ring-dr.-douglas-m.-kelley-and-a-fatal-meeting-of-minds-at-the-end-of-wwii/9781610394635.html",
+    "alt": "Cover of The Nazi and the Psychiatrist by Jack El-Hai",
+    "sourceTitle": "The Nazi and the Psychiatrist: Hermann Göring, Dr. Douglas M. Kelley, and a Fatal Meeting of Minds at the End of WWII",
+    "sourceAuthors": [
+      "Jack El-Hai"
+    ],
+    "sourceFingerprint": "7ff34a885197692287af64ce69bbddca84a5ab187b7afcc208889f2941a67fd6"
+  },
+  "2ce44a4243d18113bdd8e13eae5e74f4": {
+    "src": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/cc/6b/88/cc6b88ff-7800-ce00-d16d-cbf4fa2e60a2/9780465019922.jpg/1200x1200wz.jpg",
+    "sourceUrl": "https://books.apple.com/us/book/the-strangest-man/id1210011212",
+    "alt": "Cover of The Strangest Man by Graham Farmelo",
+    "sourceTitle": "The strangest man",
+    "sourceAuthors": [
+      "Farmelo"
+    ],
+    "sourceFingerprint": "353e18dc50df40f07866238d09b238cec6a30991fa59e9e2fc4e4b8c83becc3b"
+  }
+}

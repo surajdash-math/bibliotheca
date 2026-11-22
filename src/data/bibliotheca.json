@@ -1,0 +1,6281 @@
+{
+  "updatedAt": "2026-11-22T20:00:16.457Z",
+  "sourceUrl": "https://app.notion.com/p/2ce44a4243d180c9bfc3c25cfb64f631",
+  "entries": [
+    {
+      "id": "2ce44a4243d1811a8928e7f265b3bf13",
+      "title": "1Q84: Books 1, 2 and 3: The Complete Trilogy",
+      "authors": [
+        "Haruki Murakami"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fdb5f8f934377d994b",
+      "title": "2001 Space Odyssey trilogy",
+      "authors": [
+        "Arthur C Clarke"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18152a24ecdac38bb2bf5",
+      "title": "A Clockwork Orange",
+      "authors": [
+        "Anthony Burgess"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14430663-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL261794W",
+        "alt": "Cover of A Clockwork Orange"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cc95d7d201d24c8260",
+      "title": "A Dirty Job: A Novel",
+      "authors": [
+        "Christopher Moore"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181329c71f5cd6ee660ab",
+      "title": "A Gentleman in Moscow",
+      "authors": [
+        "Amor Towles"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11326818-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17797130W",
+        "alt": "Cover of A Gentleman in Moscow"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e480bdd25dc9534515",
+      "title": "A geometry of music",
+      "authors": [
+        "Dmitri Tymoczko"
+      ],
+      "genres": [
+        "Music theory",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6975996-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15973859W",
+        "alt": "Cover of A geometry of music"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819b93afdb46d008eb5f",
+      "title": "A Graveyard for Lunatics",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9223641-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL103180W",
+        "alt": "Cover of A Graveyard for Lunatics"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "A Graveyard for Lunatics",
+          "url": "https://en.wikipedia.org/wiki/A_Graveyard_for_Lunatics"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181b498ebce75ec37e119",
+      "title": "A Hero of Our Time",
+      "authors": [
+        "Mikhail Lermontov"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction",
+        "Russian Classics",
+        "Romance",
+        "Psychological Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8910936-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20254523W",
+        "alt": "Cover of A Hero of Our Time"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18104aef8e78a322525b8",
+      "title": "A Man Called Ove",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "Fiction",
+        "Humorous fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181558e7ff0ef82cb4867",
+      "title": "A man called ove",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18194bdddc4882ccc7a33",
+      "title": "A Man Called Ove",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18158867dcba1d1e92986",
+      "title": "A moveable feast",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7268728-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL63064W",
+        "alt": "Cover of A moveable feast"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fc9532df2623453b89",
+      "title": "A Portrait of the Artist as a Young Man",
+      "authors": [
+        "James Joyce"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9328410-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL86343W",
+        "alt": "Cover of A Portrait of the Artist as a Young Man"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181928330c82f58abeef8",
+      "title": "A single man",
+      "authors": [
+        "Christopher Isherwood"
+      ],
+      "genres": [
+        "Fiction",
+        "Psychological Fiction",
+        "Bildungsroman"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/615649-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL51203W",
+        "alt": "Cover of A single man"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181298d08df3083971d4b",
+      "title": "A Terrace in Rome",
+      "authors": [
+        "Pascal Quignard"
+      ],
+      "genres": [
+        "Fiction",
+        "French literature"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11966638-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL25080263W",
+        "alt": "Cover of A Terrace in Rome"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "A Terrace in Rome",
+          "url": "https://www.amazon.com/gp/product/1939663164/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181dca8d1ef958f508d4a",
+      "title": "A thousand ships",
+      "authors": [
+        "Natalie Haynes"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10294341-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20922643W",
+        "alt": "Cover of A thousand ships"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f9bcded1a9ed1e4e70",
+      "title": "A thousand splendid suns",
+      "authors": [
+        "Khaled Hoseini"
+      ],
+      "genres": [
+        "Fiction",
+        "Domestic fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8579790-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5782000W",
+        "alt": "Cover of A thousand splendid suns"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d180e3a821f7072462fec8",
+      "title": "Alias Grace",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6642671-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL675834W",
+        "alt": "Cover of Alias Grace"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c690d3dfcc436a12bf",
+      "title": "All Agatha Christie books",
+      "authors": [
+        "Agatha Christie"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181049de9c1f4bcf465e1",
+      "title": "All my friends are dead",
+      "authors": [
+        "Alan Moore"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18139ab4cfbb877a54773",
+      "title": "All short stories of Anton Chekhov",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "genres": [
+        "Classics",
+        "Short Story",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cf9d8df5f2f5ce132c",
+      "title": "All works of Alexander Pushkin",
+      "authors": [
+        "Alexander Pushkin"
+      ],
+      "genres": [
+        "Classics",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18141ba03c765c1092977",
+      "title": "All works of Alexandre Dumas",
+      "authors": [
+        "Alexandre Dumas"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814ab3a5e6e5367a499d",
+      "title": "All works of Ann Radcliffe",
+      "authors": [
+        "Ann Radcliffe"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f58004d2da168664e4",
+      "title": "All works of Charles Dickens",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "<p>Classics that left behind a considerable impression:</p>\n<ol>\n<li>\nGreat Expectation by Charles Dickens\n</li>\n<li>\nEmma by Jane Austen \n</li>\n<li>\nLes Miserables by Victor Hugo \n</li>\n<li>\nTess of the D’Urbervilles by Thomas Hardy \n</li>\n<li>\nJane Eyre by Charlotte Brontë \n</li>\n<li>\nRebecca by Daphne du Maurier \n</li>\n<li>\nLittle Women by Louisa May Alcott \n</li>\n<li>\nThe Princess Bride by William Goldman \n</li>\n<li>\nA Farewell to Arms by Ernest Hemingway \n</li>\n<li>\nAnne of Green Gables by L. M. Montgomery \n</li>\n<li>\nDon Quixote by Cervantes \n</li>\n<li>\nWar and Peace by Leo Tolstoy\n</li>\n<li>\nAnna Karenina by Leo Tolstoy \n</li>\n<li>\nThe Count of Monte Cristo by Alexandre Dumas\n</li>\n<li>\nCrime and Punishment by Fyodor Dostoevsky\n</li>\n</ol>",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e7b113f287c9bcff18",
+      "title": "All works of Daniel Defoe",
+      "authors": [
+        "Daniel Defoe"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819883cbf650ffe8f1e9",
+      "title": "All works of Edgar Allan Poe",
+      "authors": [
+        "Edgar Allan Poe"
+      ],
+      "genres": [
+        "Sci-fi classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b4bd24cf6f5039f985",
+      "title": "All works of Ernest Hemingway",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a7b688f16331f1484b",
+      "title": "All works of Friedrich Nietzsche",
+      "authors": [
+        "Friedrich Nietzsche"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a8acfed400177d35d9",
+      "title": "All works of Henry James",
+      "authors": [
+        "Henry James"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813f8f6de22cd8b4aae0",
+      "title": "All works of HG Wells",
+      "authors": [
+        "HG Wells"
+      ],
+      "genres": [
+        "Sci-fi classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18104bc5cf47da741ad5c",
+      "title": "All works of Italo Calvino",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Classics",
+        "Italian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181199cc4ff5fde3d5b39",
+      "title": "All works of James Hadley Chase",
+      "authors": [
+        "James Hadley Chase"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b198cacd679570c63b",
+      "title": "All works of James Joyce",
+      "authors": [
+        "James Joyce"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181328d16ff4c5c82bf4c",
+      "title": "All works of Jane Austen",
+      "authors": [
+        "Jane Austen"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181458844f5fd8a88b898",
+      "title": "All works of Jerome K Jerome",
+      "authors": [
+        "Jerome K Jerome"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181538dcff13d7d9750eb",
+      "title": "All works of Jules Verne",
+      "authors": [
+        "Jules Verne"
+      ],
+      "genres": [
+        "Sci-fi classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b895acc20ef8933f8d",
+      "title": "All works of Jules Verne",
+      "authors": [
+        "Jules Verne"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18161ae34ec80ac7ede67",
+      "title": "All works of Leo Tolstoy",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "Classics",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810ea0bbd7b78df3505d",
+      "title": "All works of María Angélica Bosco",
+      "authors": [
+        "María Angélica Bosco"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b999bde99f764ae4c6",
+      "title": "All works of Mark Twain",
+      "authors": [
+        "Mark Twain"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18101a1f4d0ae69e0a9fd",
+      "title": "All works of Miguel de Cervantes",
+      "authors": [
+        "Miguel de Cervantes"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "All works of Miguel de Cervantes",
+          "url": "https://www.google.com/search?client=safari&channel=iphone_bm&sca_esv=589408905&cs=1&q=Miguel+de+Cervantes&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mcatTdzDDd0kAz00xBl6lnSLePkfN1WPYvHR518HH8lczQ5a5sA7iUQfqZIgW6CSn-98A-ta8oVHQribCY_Df1QMHq_3Br_D5zXTv3y1EncZXp6muvb7l_wvj9Rl_UdRbQVvDid_p0BZFA_xu6b0eAx9nj9tamNt3b_WBmdHNqu6Jp2GIQ%3D%3D&sa=X&ved=2ahUKEwjVmc_S7IKDAxUlm2oFHU1bDLwQmxMoAHoECCkQAg"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181408ef1f5d2040fc5a4",
+      "title": "All works of Oscar Wilde",
+      "authors": [
+        "Oscar Wilde"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e583a0e5d8dea98ad3",
+      "title": "All works of Roald Dahl",
+      "authors": [
+        "Roald Dahl"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ddb70dc71b7cedd6ce",
+      "title": "All works of Robert Louis Stevenson",
+      "authors": [
+        "Robert Louis Stevenson"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cb8d01e43d83990a39",
+      "title": "All works of Samuel Beckett",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181eda56eff303e801a80",
+      "title": "All works of Simone de Beavouir",
+      "authors": [
+        "Simone de Beavouir"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e9a4e5d014c609c6df",
+      "title": "All works of TS Eliot",
+      "authors": [
+        "TS Eliot"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811eaa94ee362a9d11f0",
+      "title": "All works of Victor Hugo",
+      "authors": [
+        "Victor Hugo"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a591b7e2b3e9c8f32d",
+      "title": "All works of Virginia Wolfe",
+      "authors": [
+        "Virginia Wolfe"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a786adf874f54f629c",
+      "title": "All works of William Faulkner",
+      "authors": [
+        "William Faulkner"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f48ab3fc9e07ac3efa",
+      "title": "American Gods",
+      "authors": [
+        "Neil Gaeiman"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8494659-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL679360W",
+        "alt": "Cover of American Gods"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18178a9bafa08b00d544a",
+      "title": "Amerika",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/3080557-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL498411W",
+        "alt": "Cover of Amerika"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "33944a4243d18033a0bcea0af815d623",
+      "title": "An evening with Claire",
+      "authors": [
+        "Gaito Gazdanov"
+      ],
+      "genres": [
+        "Russian Classics",
+        "Psychological Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816fbe23c7c1cec06f06",
+      "title": "Anathem",
+      "authors": [
+        "Neal Stephenson"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6304233-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL14911626W",
+        "alt": "Cover of Anathem"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814299f6e8577de2cdea",
+      "title": "Animal Farm",
+      "authors": [
+        "George Orwell"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Political satire"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11261770-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1168007W",
+        "alt": "Cover of Animal Farm"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810b99bffe949bd5e4ba",
+      "title": "Anna Karennina",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b6a4a1d265829f6d8e",
+      "title": "Asterios Polyp",
+      "authors": [
+        "David John Mazzucchelli"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/5984628-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL8134931W",
+        "alt": "Cover of Asterios Polyp"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813bae15cf00e119eb0e",
+      "title": "Babel: Or the Necessity of Violence:",
+      "authors": [
+        "R. F. Kuang"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cf9741c883909232e8",
+      "title": "Bad pharma",
+      "authors": [
+        "Ben Goldcare"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181138a81ec169016d342",
+      "title": "Bad science",
+      "authors": [
+        "Ben Goldcare"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812b83d3d3dc0e365e1e",
+      "title": "Batman: The Killing Joke",
+      "authors": [
+        "Alan Moore"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12926724-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21125343W",
+        "alt": "Cover of Batman: The Killing Joke"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18141a819e57b331d1fb3",
+      "title": "Battle Royale",
+      "authors": [
+        "Koushun Takami"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/813816-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL8897717W",
+        "alt": "Cover of Battle Royale"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816db0e9f132d14ba10c",
+      "title": "Beyond good and evil",
+      "authors": [
+        "Friedrich Nietzsche"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Philosophy-opinion pieces"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9681801-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16947216W",
+        "alt": "Cover of Beyond good and evil"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c1b2efef606bda18ed",
+      "title": "Bird Box",
+      "authors": [
+        "Josh Malerman"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11377399-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19976661W",
+        "alt": "Cover of Bird Box"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181bc8b4fd2b46d18c439",
+      "title": "Bird in a Cage",
+      "authors": [
+        "Frédéric Dard"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13055420-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20058636W",
+        "alt": "Cover of Bird in a Cage"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810aa81cd8084f14f863",
+      "title": "Blacktop Wasteland",
+      "authors": [
+        "SA Cosby"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10172565-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20749794W",
+        "alt": "Cover of Blacktop Wasteland"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b0827fca0eed87990e",
+      "title": "Bleak House",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9279273-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL14868510W",
+        "alt": "Cover of Bleak House"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18149a8beea5a5719e2b7",
+      "title": "Blindness",
+      "authors": [
+        "José Saramago"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18132baf0d092c54298e2",
+      "title": "Borne",
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8044631-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17762236W",
+        "alt": "Cover of Borne"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b2a689c713287e60da",
+      "title": "Brave new world",
+      "authors": [
+        "Aldous Huxley"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8231823-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL64365W",
+        "alt": "Cover of Brave new world"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "38e44a4243d180f6abd6f0dba91feaab",
+      "title": "Brokeback Mountain",
+      "authors": [
+        "Annie Proulx"
+      ],
+      "genres": [
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8302985-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL265677W",
+        "alt": "Cover of Brokeback Mountain"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181018604dfbb777acdb1",
+      "title": "Caesar and Cleopatra",
+      "authors": [
+        "Bernard Shaw"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8242212-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1066521W",
+        "alt": "Cover of Caesar and Cleopatra"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fc98e2d6351733f61f",
+      "title": "Capitalism and Freedom",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/140808-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2747782W",
+        "alt": "Cover of Capitalism and Freedom"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817281a2d0b01bbaa94f",
+      "title": "Catch-22",
+      "authors": [
+        "Joseph Heller"
+      ],
+      "genres": [
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6468653-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL276798W",
+        "alt": "Cover of Catch-22"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18172946cc8ea9261c83d",
+      "title": "Century Trilogy",
+      "authors": [
+        "Ken Follett"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181218341c8afbcd6f708",
+      "title": "Chik and his Friends",
+      "authors": [
+        "Fazil Iskander"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18198b83cff3c1a512e70",
+      "title": "Childhood, Boyhood and Youth",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "Classics",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18193a6b3eae5c341e262",
+      "title": "Children of Time",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8264706-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17373843W",
+        "alt": "Cover of Children of Time"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d78c9fe35a67c9ee80",
+      "title": "China's Gilded Age: The Paradox of Economic Boom and Vast Corruption",
+      "authors": [
+        "Yuen Yuen Ang"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1815dadbddd9065e41d2b",
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "authors": [
+        "Chris Miller"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Chip War: The Fight for the World's Most Critical Technology",
+          "url": "https://www.amazon.com/dp/B09RX5F238/?coliid=I2GGKENO521IXB&colid=3VKQI1TVLQB2E&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d18135ae41ca16b6889df4",
+      "title": "City of Thieves",
+      "authors": [
+        "David Benioff"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10132618-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5730339W",
+        "alt": "Cover of City of Thieves"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f99e33c619906d51e8",
+      "title": "Collected Works of John Maynard Keynes",
+      "authors": [
+        "John Maynard Keynes"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813fbdeadfde74052ca2",
+      "title": "Colossus",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9375179-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20698933W",
+        "alt": "Cover of Colossus"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c8b6b5fc8a6f6d6bed",
+      "title": "Complete Short Stories of Kafka",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181afbb89e51bd786a1fb",
+      "title": "Computational Musicology in Hindustani Music",
+      "authors": [
+        "Guerino Mazzola"
+      ],
+      "genres": [
+        "Music theory",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9381913-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20704923W",
+        "alt": "Cover of Computational Musicology in Hindustani Music"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c0b95efd831c1284a4",
+      "title": "Cool math for hot music",
+      "authors": [
+        "Guerino Mazzola"
+      ],
+      "genres": [
+        "Music theory",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9409273-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20725047W",
+        "alt": "Cover of Cool math for hot music"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181eb811fea4e1070e483",
+      "title": "Coraline",
+      "authors": [
+        "Neil Gaeiman"
+      ],
+      "genres": [
+        "Horror fiction",
+        "Dark Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14171421-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL679358W",
+        "alt": "Cover of Coraline"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ca9b47dce99c75e9bf",
+      "title": "Crime and Punishment",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Dystopian fiction",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15183762-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL45018229W",
+        "alt": "Cover of Crime and Punishment"
+      },
+      "notesHtml": "<blockquote>Pain and suffering are always inevitable for a large intelligence and a deep heart.</blockquote>\n<blockquote>To go wrong in one’s own way is better than to go right in someone else’s.</blockquote>",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181338110dcb19ee2fb82",
+      "title": "Crush",
+      "authors": [
+        "Frédéric Dard"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810b929ddeb967062fcc",
+      "title": "Cynics",
+      "authors": [
+        "Anatoly Marienhof"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817c9ec4cb04e4ac454b",
+      "title": "Darkness at Noon",
+      "authors": [
+        "Arthur Koestler"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14896145-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL43040968W",
+        "alt": "Cover of Darkness at Noon"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e48a5fe3fe0457b18d",
+      "title": "Death Is a Lonely Business",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8291542-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL103132W",
+        "alt": "Cover of Death Is a Lonely Business"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Death Is a Lonely Business",
+          "url": "https://en.wikipedia.org/wiki/Death_Is_a_Lonely_Business"
+        }
+      ]
+    },
+    {
+      "id": "38e44a4243d1801bbc99fa441100092b",
+      "title": "Divided Island",
+      "authors": [
+        "Daniela Tarazona"
+      ],
+      "genres": [
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b2a5d8d4a857669464",
+      "title": "Doctor Zhivago",
+      "authors": [
+        "Boris Pasternak"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction",
+        "Romance",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14896503-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL38068744W",
+        "alt": "Cover of Doctor Zhivago"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181069dfcce41e1062685",
+      "title": "Don’t look now and other stories",
+      "authors": [
+        "Daphne du Maurier"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14012605-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL7924467W",
+        "alt": "Cover of Don’t look now and other stories"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813d990ef5ad3cb81db2",
+      "title": "Dorothy Slayers collection",
+      "authors": [
+        "Dorothy Slayers"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18164a6c2c197d59581fb",
+      "title": "Down and Out in Paris and London",
+      "authors": [
+        "George Orwell"
+      ],
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/5539329-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1168030W",
+        "alt": "Cover of Down and Out in Paris and London"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18158b687cfd3edbc1b74",
+      "title": "Dune",
+      "authors": [
+        "Frank Herbert"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11481354-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL893414W",
+        "alt": "Cover of Dune"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819b93f7e5b055b1f1ee",
+      "title": "East India",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12451273-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL26434771W",
+        "alt": "Cover of East India"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18179af2fee388585f161",
+      "title": "Eastwind Witches Cozy Mysteries",
+      "authors": [
+        "Nova Nelson"
+      ],
+      "genres": [
+        "Paranormal fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1818183d3cc81df831705",
+      "title": "Economical Writing",
+      "authors": [
+        "Deirdre Nansen McCloskey"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Art of writing"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/833334-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2721629W",
+        "alt": "Cover of Economical Writing"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Economical Writing",
+          "url": "https://www.amazon.com/dp/B0771WKC7H/?coliid=I32NRAS8K98QNF&colid=3VKQI1TVLQB2E&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d1818da6cbd744a89ce2b6",
+      "title": "Eichmann in Jerusalem: A Report on the Banality of Evil",
+      "authors": [
+        "Hannah Arendt"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Psychology",
+        "Evolutionary science"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1818e94f2c7c4dc571557",
+      "title": "Em and the Big Hoom",
+      "authors": [
+        "Jerry Pinto"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8358336-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL18399271W",
+        "alt": "Cover of Em and the Big Hoom"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d59ff2c56170edd321",
+      "title": "Em and the Big Hoom",
+      "authors": [
+        "Jerry Pinto"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8358336-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL18399271W",
+        "alt": "Cover of Em and the Big Hoom"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812c8f22fc69d78b2945",
+      "title": "Etgar Keret short stories",
+      "authors": [
+        "Etgar Keret"
+      ],
+      "genres": [
+        "Fiction",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18106872ad0913e86975a",
+      "title": "Eugene Onegin",
+      "authors": [
+        "Alexander Pushkin"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "novel in verse"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813b89b1ea96902fe3ad",
+      "title": "Every Man Dies Alone",
+      "authors": [
+        "Hans Fallada"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14067560-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL35087018W",
+        "alt": "Cover of Every Man Dies Alone"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f79aa2c5fcb259173b",
+      "title": "Everybody lies",
+      "authors": [
+        "Seth Stephens-Davidowitz"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8814605-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20055677W",
+        "alt": "Cover of Everybody lies"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d4a6e4fee3f49faaf0",
+      "title": "Fahrenheit 451",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12993656-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL103123W",
+        "alt": "Cover of Fahrenheit 451"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816bbdbac7477b1e68d2",
+      "title": "Fall of Civilizations",
+      "authors": [],
+      "genres": [
+        "Podcast"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15265308-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL37762375W",
+        "alt": "Cover of Fall of Civilizations"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b4b7b6ddc4553a4f43",
+      "title": "Fatherland",
+      "authors": [
+        "Robert Harris"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Spy fiction",
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6693688-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL894071W",
+        "alt": "Cover of Fatherland"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181578749d75e699e2ce3",
+      "title": "FEATHERED SERPENT: A novel of the Mexican conquest",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1815f9332fe32991f9317",
+      "title": "Fever Coast",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181599849cb9d55beaaf7",
+      "title": "First Love",
+      "authors": [
+        "Ivan Turgenev"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13236887-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL28645904W",
+        "alt": "Cover of First Love"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c68f2ed48b3d1b4a01",
+      "title": "Fools die",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8315188-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1673261W",
+        "alt": "Cover of Fools die"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f1a046c35d7b412083",
+      "title": "Foundation series",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c0b67deb6724d247da",
+      "title": "Frankenstein",
+      "authors": [
+        "Mary Shelley"
+      ],
+      "genres": [
+        "Science fiction",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15266215-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL26860869W",
+        "alt": "Cover of Frankenstein"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811a81a8d1bd277a9a85",
+      "title": "Franz Kafka collected works",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817089b2edb4e4f5391e",
+      "title": "Free To Choose: A Personal Statement",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810a8b67f4046ea7eafd",
+      "title": "Funny Boy",
+      "authors": [
+        "Shyam Selvadurai"
+      ],
+      "genres": [
+        "Psychological Fiction",
+        "Gender and sexuality"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12145090-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL26178449W",
+        "alt": "Cover of Funny Boy"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18121a841cc5204d67dfc",
+      "title": "Fury: Book 1: Live For Me",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181aca0a2c002a4931085",
+      "title": "Fury: Book 2: Sleeping with the enemy",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181499f0aec343eb24010",
+      "title": "Games People Play",
+      "authors": [
+        "Eric Berne"
+      ],
+      "genres": [
+        "Psychology"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8281189-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1593567W",
+        "alt": "Cover of Games People Play"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181aeb480ff6eb6807ef5",
+      "title": "Giovanni's Room",
+      "authors": [
+        "James Baldwin"
+      ],
+      "genres": [
+        "Psychological Fiction",
+        "Gender and sexuality"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/97395-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL228702W",
+        "alt": "Cover of Giovanni's Room"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181db82f4dcfed9ab6c04",
+      "title": "Godaan",
+      "authors": [
+        "Munshi Premchand"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9388966-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17047576W",
+        "alt": "Cover of Godaan"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f795e7fa3e4a8b858b",
+      "title": "Gödel, Escher, Bach",
+      "authors": [
+        "Douglas R. Hofstadtaer"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Brain Science"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14368453-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL716850W",
+        "alt": "Cover of Gödel, Escher, Bach"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811292fee1e10fdcd354",
+      "title": "Gödel’s proof",
+      "authors": [
+        "Ernest Nagel",
+        "James R. Newman"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Brain Science"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/4622253-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5567662W",
+        "alt": "Cover of Gödel’s proof"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181bda39ae83672a32f09",
+      "title": "Gone Girl",
+      "authors": [
+        "Gillian Flynn"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8368314-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16239762W",
+        "alt": "Cover of Gone Girl"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813398d4c202bc0a65a5",
+      "title": "Gone with the wind",
+      "authors": [
+        "Margaret Mitchel"
+      ],
+      "genres": [
+        "Historical fiction",
+        "Classics",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14817133-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL267933W",
+        "alt": "Cover of Gone with the wind"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f18c0fdbe977fe0034",
+      "title": "Gulliver’s Travels",
+      "authors": [
+        "Jonathan Swift"
+      ],
+      "genres": [
+        "Satirical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12717083-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20600W",
+        "alt": "Cover of Gulliver’s Travels"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18113b6b9c31c5b8792e6",
+      "title": "Harem",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9069455-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL4334042W",
+        "alt": "Cover of Harem"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c3a875d4458a778b37",
+      "title": "Helgoland",
+      "authors": [
+        "Carlo Rovelli"
+      ],
+      "genres": [
+        "Popular Science",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11140844-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL24513723W",
+        "alt": "Cover of Helgoland"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181be9bc9ef46cb2cd0b7",
+      "title": "Hitchhiker’s guide to the galaxy",
+      "authors": [
+        "Douglas Adams"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12986869-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2163649W",
+        "alt": "Cover of Hitchhiker’s guide to the galaxy"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181579709d473e90b7717",
+      "title": "Homage to Catalonia",
+      "authors": [
+        "George Orwell"
+      ],
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7282177-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1168169W",
+        "alt": "Cover of Homage to Catalonia"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814fb420cd2db33f6265",
+      "title": "Home fires",
+      "authors": [
+        "Gene Wolfe"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8035348-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15998774W",
+        "alt": "Cover of Home fires"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f290d6edcb0af29743",
+      "title": "How China escaped the poverty trap",
+      "authors": [
+        "Yuen Yuen Ang"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13694857-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21134387W",
+        "alt": "Cover of How China escaped the poverty trap"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d1803fa986c64c01399b98",
+      "title": "Hunger",
+      "authors": [
+        "Knut Hamsun"
+      ],
+      "genres": [
+        "Classics",
+        "Philosophical fiction",
+        "Psychological Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14634050-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL37771558W",
+        "alt": "Cover of Hunger"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "3c344a4243d1800f865bfc61ae782bc2",
+      "title": "I Who Have Never Known Men",
+      "authors": [
+        "Jacqueline Harpman"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "30d44a4243d180f0bb7dcbcd49374cd4",
+      "title": "If I were a man",
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181aba615d0654f58621f",
+      "title": "Into the war",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Fiction",
+        "Autobiographical fiction",
+        "Italian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10333804-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21034566W",
+        "alt": "Cover of Into the war"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816dbab0ed362f15e67b",
+      "title": "Invisible cities",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Classics",
+        "Italian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813cb65bcf65de10f71c",
+      "title": "Ismat Chuktayi",
+      "authors": [
+        "Ismat Chuktayi"
+      ],
+      "genres": [
+        "Satirical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18179af73e2c48e77a0da",
+      "title": "It Can’t happen here",
+      "authors": [
+        "Sinclair Lewis"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12719018-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL51145W",
+        "alt": "Cover of It Can’t happen here"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811692d0f1a16c8a6472",
+      "title": "Italian folktales",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Classics",
+        "Italian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814392befd8fae39a058",
+      "title": "Jamaica Inn",
+      "authors": [
+        "Daphne du Maurier"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8765960-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL36632W",
+        "alt": "Cover of Jamaica Inn"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181168603d5fb8d36586c",
+      "title": "Jane Eyre",
+      "authors": [
+        "Charlotte Bonte"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8235363-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1095427W",
+        "alt": "Cover of Jane Eyre"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181618182fccf3348213d",
+      "title": "Judgement",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13055479-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL498549W",
+        "alt": "Cover of Judgement"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181839e4cf57dff3f2ff0",
+      "title": "Kafka on the Shore",
+      "authors": [
+        "Haruki Murakami"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f8b403e7620c3b002e",
+      "title": "Kallocain",
+      "authors": [
+        "Karin Boye"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/158600-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1265023W",
+        "alt": "Cover of Kallocain"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cd99d1fbdc11e65c04",
+      "title": "Kasyan from the Beautiful Lands",
+      "authors": [
+        "Ivan Turgenev"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8944947-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20286845W",
+        "alt": "Cover of Kasyan from the Beautiful Lands"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181159096de16f8270a37",
+      "title": "Killer, Come Back To Me: The Crime Stories of Ray Bradbury",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a5b903d4eba5e16edf",
+      "title": "Labyrinths",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "genres": [
+        "Fiction",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10831408-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL110959W",
+        "alt": "Cover of Labyrinths"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810b8876d2f20e6f1d4e",
+      "title": "Last and First Men",
+      "authors": [
+        "Olaf Stapeldon"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18138b3fcf2ff2dcaad5a",
+      "title": "Let's All Kill Constance",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8221217-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL103182W",
+        "alt": "Cover of Let's All Kill Constance"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Let's All Kill Constance",
+          "url": "https://en.wikipedia.org/wiki/Let%27s_All_Kill_Constance"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181a392dedf485179eaf5",
+      "title": "Little novels of Sicily",
+      "authors": [
+        "Giovanni Verga"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15007101-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL33111751W",
+        "alt": "Cover of Little novels of Sicily"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fa815ef85eb9d151a1",
+      "title": "Lord of the Atlas",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c1a84df2ace530b073",
+      "title": "Lord of the Flies",
+      "authors": [
+        "William Golding"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Allegorical novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8684447-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL455327W",
+        "alt": "Cover of Lord of the Flies"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181bca9fbdb00b2de0290",
+      "title": "Lust for Life",
+      "authors": [
+        "Irving Stone"
+      ],
+      "genres": [
+        "Fiction",
+        "Biographical Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6617761-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL112003W",
+        "alt": "Cover of Lust for Life"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817a9f74e83895b0bc86",
+      "title": "Matterhorn: A Novel of the Vietnam War",
+      "authors": [
+        "Karl Marlantes"
+      ],
+      "genres": [
+        "Satirical war fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Matterhorn: A Novel of the Vietnam War",
+          "url": "https://www.thriftbooks.com/w/matterhorn-a-novel-of-the-vietnam-war_karl-marlantes/247518/#isbn=0802145310"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181ccaf6dc7128e343277",
+      "title": "MAUS",
+      "authors": [
+        "Art Spiegelman"
+      ],
+      "genres": [
+        "Graphic novel",
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6280337-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL36901652W",
+        "alt": "Cover of MAUS"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f783a4db242d3f87bb",
+      "title": "Memoirs of a dutiful daughter",
+      "authors": [
+        "Simone de Beavouir"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181628cd8d65eaeaf2c68",
+      "title": "Midnight's Children",
+      "authors": [
+        "Sulman Rushdie"
+      ],
+      "genres": [
+        "Historical fiction",
+        "Magical realism"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18166ba8ae1b74f7a2508",
+      "title": "Morituri",
+      "authors": [
+        "Yasmina Khadra"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/868800-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2291675W",
+        "alt": "Cover of Morituri"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181669e1df9cc6d0164d9",
+      "title": "Mother",
+      "authors": [
+        "Maxim Gorky"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cbaf4ae4cef1a44f05",
+      "title": "Musical creativity",
+      "authors": [
+        "Guerino Mazzola"
+      ],
+      "genres": [
+        "Music theory",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9354805-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20682885W",
+        "alt": "Cover of Musical creativity"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ff9a26c36cf7383c43",
+      "title": "My Grandmother Asked Me to Tell You She's Sorry",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "Fiction",
+        "Humorous fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9723648-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17295076W",
+        "alt": "Cover of My Grandmother Asked Me to Tell You She's Sorry"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816ea825f0b4386d5606",
+      "title": "My Name Is Red",
+      "authors": [
+        "Ferit Orhan Pamuk"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2f444a4243d18014981cc757781e30b2",
+      "title": "Mystery of the yellow room",
+      "authors": [
+        "Gaston Leroux"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14691513-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL29962187W",
+        "alt": "Cover of Mystery of the yellow room"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d1807a83fad0698702e0dc",
+      "title": "Nausea",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8480115-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19363285W",
+        "alt": "Cover of Nausea"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "37e44a4243d18006944ce5c03eb229c7",
+      "title": "Neapolitian Chronicles",
+      "authors": [
+        "Anna Maria Ortese"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story",
+        "Italian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181749268ec67c860815d",
+      "title": "Never Let Me Go",
+      "authors": [
+        "Kazuo Ishiguro"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1047334-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL59038W",
+        "alt": "Cover of Never Let Me Go"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810f8d1afbedb07c6357",
+      "title": "Nineteen Eighty-Four",
+      "authors": [
+        "George Orwell"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Satirical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9267242-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1168083W",
+        "alt": "Cover of Nineteen Eighty-Four"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181cc9346f42512043b7b",
+      "title": "No Country for Old Men",
+      "authors": [
+        "Cormac McCarthy"
+      ],
+      "genres": [
+        "Mystery thriller",
+        "Psychological Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9296899-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL40875W",
+        "alt": "Cover of No Country for Old Men"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181348726fe18da1e2a26",
+      "title": "No Orchids for Miss Blandish",
+      "authors": [
+        "James Hadley Chase"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9320557-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2838607W",
+        "alt": "Cover of No Orchids for Miss Blandish"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18167ac9edddabd9ef847",
+      "title": "Northanger Abbey",
+      "authors": [
+        "Jane Austen"
+      ],
+      "genres": [
+        "Satirical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12567961-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL66534W",
+        "alt": "Cover of Northanger Abbey"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181239de1e420b4c33a87",
+      "title": "Norwegian Wood",
+      "authors": [
+        "Haruki Murakami"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18119a09ee0b489d36a8d",
+      "title": "Notes from the Underground",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Philosophical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181be903ffb3c117f2d26",
+      "title": "Nothing important ever dies",
+      "authors": [
+        "Romain Gary"
+      ],
+      "genres": [
+        "Satirical war fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a38152fa8f04c8a61b",
+      "title": "Oblivion (short stories)",
+      "authors": [
+        "David Foster Wallace"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181af9532db148329dbfc",
+      "title": "Oblomov",
+      "authors": [
+        "Ivan Goncharov"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/977940-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL8551795W",
+        "alt": "Cover of Oblomov"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a384fae24c3fde1fbe",
+      "title": "Of mice and men",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14319003-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL23204W",
+        "alt": "Cover of Of mice and men"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18156b76fd25a46904d9f",
+      "title": "Omerta",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/3233429-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1673230W",
+        "alt": "Cover of Omerta"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e2a547cf8da67318cf",
+      "title": "On the Road",
+      "authors": [
+        "Jack Keroua"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/34655-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL65906W",
+        "alt": "Cover of On the Road"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d6af21f55308cfe60d",
+      "title": "One Day in the Life of Ivan Denisovich",
+      "authors": [
+        "Aleksandr Solzhenitsyn"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dcb492dfbadf87b2c4",
+      "title": "One Hundred Years of Solitude",
+      "authors": [
+        "Gabriel García Márquez"
+      ],
+      "genres": [
+        "Magical realism"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15185412-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL43108828W",
+        "alt": "Cover of One Hundred Years of Solitude"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181908deddaa058da17f7",
+      "title": "Oryx and Crake",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12507658-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL675722W",
+        "alt": "Cover of Oryx and Crake"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a4b80edc243f0fdbea",
+      "title": "Our ancestors",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Classics",
+        "Italian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811c93f7c91ae5e54415",
+      "title": "Palestine",
+      "authors": [
+        "Joe Sacco"
+      ],
+      "genres": [
+        "Graphic novel",
+        "History"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/791627-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5876901W",
+        "alt": "Cover of Palestine"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18159bd61d564839b4e77",
+      "title": "Parable of the Sower",
+      "authors": [
+        "Octavia E. Butler"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10466266-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL35623W",
+        "alt": "Cover of Parable of the Sower"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813b9c5ecedf172d4c2b",
+      "title": "Persepolis: The Story of a Childhood",
+      "authors": [
+        "Marjane Satrapi"
+      ],
+      "genres": [
+        "Graphic novel",
+        "Satirical war fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812094eacad6c024a9b3",
+      "title": "Pet Sematary",
+      "authors": [
+        "Stephen King"
+      ],
+      "genres": [
+        "Horror fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12015500-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL81631W",
+        "alt": "Cover of Pet Sematary"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18140bd26d07ffeb46bdd",
+      "title": "Pinjar",
+      "authors": [
+        "Amrita Pritam"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10501027-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL22837499W",
+        "alt": "Cover of Pinjar"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f1a989ea5e2342feeb",
+      "title": "Price Theory",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/136646-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2747781W",
+        "alt": "Cover of Price Theory"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Price Theory",
+          "url": "https://www.amazon.com/dp/B0747RJBMM/?coliid=I1YO49PBOU4E87&colid=3VKQI1TVLQB2E&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181cb9f46e855d51d699c",
+      "title": "Pure Colour",
+      "authors": [
+        "Sheila Heti"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11149763-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL24520007W",
+        "alt": "Cover of Pure Colour"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819e8d1cdc8294d292b1",
+      "title": "Pushkin Hills",
+      "authors": [
+        "Sergei Dovlatov"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181299b17e4e82497bf7c",
+      "title": "Radiolab",
+      "authors": [],
+      "genres": [
+        "Podcast"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181eb916fc6a3fa4eec51",
+      "title": "Razorblade Tears",
+      "authors": [
+        "SA Cosby"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10480276-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL22589599W",
+        "alt": "Cover of Razorblade Tears"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1808388bac9f3975170c9",
+      "title": "Reading notes and quotes",
+      "authors": [],
+      "genres": [],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18101a2eada642d635405",
+      "title": "Ready Player series",
+      "authors": [
+        "Ernest Cline"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b181d4f805a3d75f9d",
+      "title": "Rebecca",
+      "authors": [
+        "Daphne du Maurier"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8238729-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL36633W",
+        "alt": "Cover of Rebecca"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18159bb6ad88cf5ecbc64",
+      "title": "Red Clocks",
+      "authors": [
+        "Leni Zumas"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8677323-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19727008W",
+        "alt": "Cover of Red Clocks"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e8bf96ef8f960ef8b8",
+      "title": "Red Rising Series",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ef882fc96418b0481e",
+      "title": "Rendezvous with Rama series",
+      "authors": [
+        "Arthur C Clarke"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ae8181e8e848a033cc",
+      "title": "Resurrection",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "Satirical war fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d9b0adc634009fa610",
+      "title": "Robot series",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b6af25e63101d94571",
+      "title": "Roma sub Rosa series:12 books",
+      "authors": [
+        "Steven Saylor"
+      ],
+      "genres": [
+        "Historical crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819f8c1de21dd4ad8575",
+      "title": "Roma: 3 series",
+      "authors": [
+        "Steven Saylor"
+      ],
+      "genres": [
+        "Historical crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "37e44a4243d180e886e2d59a399463f3",
+      "title": "Runaway and other Short stories by Alice Munro",
+      "authors": [
+        "Alice Munro"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181478361fdc249ffee24",
+      "title": "Saadat Hasan Manto",
+      "authors": [
+        "Saadat Hasan Manto"
+      ],
+      "genres": [
+        "Satirical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Saadat Hasan Manto",
+          "url": "https://www.amazon.com/Saadat-Hasan-Manto-Ki-Kahaniyan/dp/8170160901/ref=sr_1_13?crid=HFGAN38SV9SO&dib=eyJ2IjoiMSJ9.4CPBdDFLm-MX3dzBU4qJZF9G5xPXbtDn7AwRcYygYDwL7fjcJu13Da_YbxXnr1q8MHAnvwwH5q6NvgrURTHahB1HOVX6gZ43vttJRCsaPbWTP2SQHJw9JaGIln_KVL8kBUJ4sbbhU9oC5BEuVH6es1QohapAxi5835NWrx4q2SjVM5WShvEwqRY-nfopBrNlmGq_BJxEHTDNd5KTYsj3R1ZcQtEpSC6Mqlim1Ameo3Y.X08BMOjiqO3RkUIfFm0cf1AZA7_WyPmUzmI59m31Rf4&dib_tag=se&keywords=manto+ki+kahaniya&qid=1713016877&sprefix=manto+%2Caps%2C144&sr=8-13"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d18118a0b3e38cd444b605",
+      "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+      "authors": [
+        "Samin Nosrat"
+      ],
+      "genres": [
+        "Non-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816e9f75ee22a0eccdf2",
+      "title": "San Juan Islands Mystery",
+      "authors": [
+        "D. W. Ulsterman"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ac9585ea4770ceb100",
+      "title": "Sandman",
+      "authors": [
+        "Neil Gaeiman"
+      ],
+      "genres": [
+        "Graphic novel",
+        "Dark fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13987090-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21905557W",
+        "alt": "Cover of Sandman"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e7b702cabdba52832b",
+      "title": "Shadow and Claw",
+      "authors": [
+        "Gene Wolfe"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "37e44a4243d1807489b8eba18c45bd3e",
+      "title": "Short stories by Gina Berriault",
+      "authors": [
+        "Gina Berriault"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "37e44a4243d18016b0d6eb9a4b9cd346",
+      "title": "Short stories by Katherine Mansfield",
+      "authors": [
+        "Katherine Mansfield"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181bbaafff2cf90a7b949",
+      "title": "Silk Road",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8523330-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19551994W",
+        "alt": "Cover of Silk Road"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18103ad21c0ba7a35a918",
+      "title": "Six graves to Munich",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6378375-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15682841W",
+        "alt": "Cover of Six graves to Munich"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18140bd21cd1b9c6e354c",
+      "title": "Six Graves to Munich",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6378375-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15682841W",
+        "alt": "Cover of Six Graves to Munich"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a486f7d7d0df91f017",
+      "title": "Slaughterhouse 5",
+      "authors": [
+        "Kurt Vonnegut"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Satirical war fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814496cbc76620bd73c3",
+      "title": "Slaughterhouse-Five",
+      "authors": [
+        "Kurt Vonnegut"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12727001-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL98459W",
+        "alt": "Cover of Slaughterhouse-Five"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1815a9db2f3ebd8203ce9",
+      "title": "Slouching towards Utopia",
+      "authors": [
+        "J Bradford Delong"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13768452-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL29052206W",
+        "alt": "Cover of Slouching towards Utopia"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18172b569f519dfc75c36",
+      "title": "Small things like these",
+      "authors": [
+        "Claire Keegan"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10507091-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL23020966W",
+        "alt": "Cover of Small things like these"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18192b9c6c275ebcaa25a",
+      "title": "Snowcast",
+      "authors": [
+        "Neal Stephenson"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181938498f128a3c1e6bf",
+      "title": "Snowpiercer",
+      "authors": [
+        "Jacques Lob"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7436711-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17358865W",
+        "alt": "Cover of Snowpiercer"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18195ae0cd6392331649e",
+      "title": "SPQR: A History of Ancient Rome",
+      "authors": [
+        "Mary Beard"
+      ],
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a0b404c501e4f11654",
+      "title": "Spring Torrents",
+      "authors": [
+        "Ivan Turgenev"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810ebf8fdbe6e71afccb",
+      "title": "Stalingrad",
+      "authors": [
+        "Antony Beevor"
+      ],
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/100606-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1881611W",
+        "alt": "Cover of Stalingrad"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1818eb3f4eae0252a766a",
+      "title": "Stalingrad: The Fateful Siege, 1942-1943",
+      "authors": [
+        "Antony Beevor"
+      ],
+      "genres": [
+        "War documentary"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Stalingrad: The Fateful Siege, 1942-1943",
+          "url": "https://www.amazon.com/gp/product/0670870951/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181469e6ee0bce4e0a801",
+      "title": "Star Maker",
+      "authors": [
+        "Olaf Stapeldon"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d180cbadcbdf16f72c0eb1",
+      "title": "Steppenwolf",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14911616-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL34654974W",
+        "alt": "Cover of Steppenwolf"
+      },
+      "notesHtml": "<blockquote>Pain and suffering are always inevitable for a large intelligence and a deep heart.</blockquote>\n<blockquote>To go wrong in one’s own way is better than to go right in someone else’s.</blockquote>",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18106a557d738f2b3b65e",
+      "title": "Stigmata",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10404137-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21772629W",
+        "alt": "Cover of Stigmata"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18156bb8efcc5644b2b76",
+      "title": "Suitcase",
+      "authors": [
+        "Sergei Dovlatov"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7069561-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2413921W",
+        "alt": "Cover of Suitcase"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d18068a0dbcace797a69dd",
+      "title": "Surfacing",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10195804-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL675688W",
+        "alt": "Cover of Surfacing"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181108655fc4e9c84c4cb",
+      "title": "Sword and citadel",
+      "authors": [
+        "Gene Wolfe"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e0b675e3914af4c7b8",
+      "title": "SynTalks",
+      "authors": [],
+      "genres": [
+        "Podcast"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "38e44a4243d18001a997e1e3b333a404",
+      "title": "Tata",
+      "authors": [
+        "Valérie Perrin"
+      ],
+      "genres": [
+        "Women writers",
+        "Psychological Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15128971-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL44171116W",
+        "alt": "Cover of Tata"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b0a680e9ffad75051d",
+      "title": "The Adventures of Pinocchio",
+      "authors": [
+        "Carlo Collodi"
+      ],
+      "genres": [
+        "Fiction",
+        "Italian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11365679-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL24667985W",
+        "alt": "Cover of The Adventures of Pinocchio"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18101987fea2634213ada",
+      "title": "The Albert Campion Mysteries (21 book series)",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181468a2acf24f7fe80d9",
+      "title": "The alienist",
+      "authors": [
+        "Caleb Carr"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/417627-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2671485W",
+        "alt": "Cover of The alienist"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c09d42caffca81aacc",
+      "title": "The Alingham Casebook",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Crime fiction classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814f85d9fadaa5c191f4",
+      "title": "The arrival",
+      "authors": [
+        "Shaun Tan"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1230299-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5934430W",
+        "alt": "Cover of The arrival"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c0b4e2fa74275bee8f",
+      "title": "The Balanced Brain: The Science of Mental Health",
+      "authors": [
+        "Camilla Nord"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Brain Science"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810ba8d8c1a01850afba",
+      "title": "The Blind Assassin",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11041760-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL675698W",
+        "alt": "Cover of The Blind Assassin"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816ca2a6d6f9d029cc8f",
+      "title": "The Book of Daniel",
+      "authors": [
+        "Edgar Lawrence Doctorow"
+      ],
+      "genres": [
+        "Spy fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8269274-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL55238W",
+        "alt": "Cover of The Book of Daniel"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18146bcd9de52d6698825",
+      "title": "The Book Thief",
+      "authors": [
+        "Markus Zusak"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15267110-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5819456W",
+        "alt": "Cover of The Book Thief"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18161a034c73d34aa9c62",
+      "title": "The Bread of Those Early Years",
+      "authors": [
+        "Heinrich Böll"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/4451273-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL11896137W",
+        "alt": "Cover of The Bread of Those Early Years"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18155aeddc916ddd84d04",
+      "title": "The broken earth triology",
+      "authors": [
+        "N.K. Jemisin"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18146bea0ec70b12d94ee",
+      "title": "The Brontë Sisters: The Complete Novels",
+      "authors": [
+        "Brontë Sisters"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ad9b28c50d779b5c3a",
+      "title": "The Brothers Karamazov",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Philosophical fiction",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14889167-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL26803918W",
+        "alt": "Cover of The Brothers Karamazov"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1815898bbef7ee53fc7f1",
+      "title": "The Cambridge History of Japan",
+      "authors": [
+        "Multiple authors"
+      ],
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18157bc21e769e7959b43",
+      "title": "The Captain's Daughter",
+      "authors": [
+        "R. C. Sherriff"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181508abeeca1a5d9d573",
+      "title": "The Castle",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181988efdc70a7ac8dc3b",
+      "title": "The Catcher in the rye",
+      "authors": [
+        "J.D. Salinger"
+      ],
+      "genres": [
+        "Conversation fiction",
+        "Bildungsroman"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9273490-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3335245W",
+        "alt": "Cover of The Catcher in the rye"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181af94e4eacd61e37b11",
+      "title": "The Charterhouse of Parma",
+      "authors": [
+        "Stendhal"
+      ],
+      "genres": [
+        "Fiction",
+        "Romantic thriller"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181859133eccf91cf4039",
+      "title": "The Circle",
+      "authors": [
+        "Dave Eggers"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8334682-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16808654W",
+        "alt": "Cover of The Circle"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f98d28ff7c3eaafde9",
+      "title": "The Cloud Atlas",
+      "authors": [
+        "David Mitchell"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6714077-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL482454W",
+        "alt": "Cover of The Cloud Atlas"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810ba3eef7c967e18210",
+      "title": "The Clown",
+      "authors": [
+        "Heinrich Böll"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/6996990-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL279806W",
+        "alt": "Cover of The Clown"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18115877de7896be02edb",
+      "title": "The Collected Short Stories of Roald Dahl",
+      "authors": [
+        "Roald Dahl"
+      ],
+      "genres": [
+        "Dark Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181668d7cd46eae48af5c",
+      "title": "The color purple",
+      "authors": [
+        "Alice Walker"
+      ],
+      "genres": [
+        "Epistolary novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8564628-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL273644W",
+        "alt": "Cover of The color purple"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814fbf0dead8410c0884",
+      "title": "The complete Cosmicomics",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "Classics",
+        "Short Story",
+        "Italian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13700427-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15693898W",
+        "alt": "Cover of The complete Cosmicomics"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c18f39f3b81ebbb8cd",
+      "title": "The Course of Love: A Novel",
+      "authors": [
+        "Alain de Botton"
+      ],
+      "genres": [
+        "Fiction",
+        "Romance"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dcaff9ce37f6c1e0d0",
+      "title": "The Cruel Prince (The Folk of the Air)",
+      "authors": [
+        "Holly black"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e2a9c8e936c457b000",
+      "title": "The crying book",
+      "authors": [
+        "Heather Christle"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Philosophy-opinion pieces"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a58e0effb8d79b4262",
+      "title": "The Disordered Mind: What Unusual Brains Tell Us About Ourselves",
+      "authors": [
+        "Eric R. Kandel"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Brain Science"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fe8535dbce347df34b",
+      "title": "The divine comedy",
+      "authors": [
+        "Dante Alighieri"
+      ],
+      "genres": [
+        "Allegorical poem"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14920459-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL42545468W",
+        "alt": "Cover of The divine comedy"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811987d6fc48745673e8",
+      "title": "The Economics of Discontent: From Failing Elites to The Rise of Populism",
+      "authors": [
+        "Jean-Michel Paul"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181feaa7bf36740971d18",
+      "title": "The Elements of Style",
+      "authors": [
+        "William Strunk Jr."
+      ],
+      "genres": [
+        "Non-fiction",
+        "Art of writing"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10515358-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL38285W",
+        "alt": "Cover of The Elements of Style"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "The Elements of Style",
+          "url": "https://www.amazon.com/dp/B0771WKC7H/?coliid=I32NRAS8K98QNF&colid=3VKQI1TVLQB2E&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d1814b85acfde1fecebc80",
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "authors": [
+        "Siddhartha Mukherjee"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "The Emperor of All Maladies: A Biography of Cancer",
+          "url": "https://www.amazon.com/gp/product/1439170916/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181e1a52ecbc1f073a10c",
+      "title": "The End of Faith",
+      "authors": [
+        "Sam Harris"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Psychology",
+        "Evolutionary science"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1469127-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3902908W",
+        "alt": "Cover of The End of Faith"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b28c67c9e508e5f1f0",
+      "title": "The Eternal Husband",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814e9e44e6da5fad2e93",
+      "title": "The Eva Wylie series",
+      "authors": [
+        "Liza Cody"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181beaa73e3f97d30f3a9",
+      "title": "The Executioner Weeps",
+      "authors": [
+        "Frédéric Dard"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ab9147f77e574783b0",
+      "title": "The Fall",
+      "authors": [
+        "Albert Camus"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Psychological Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18190b4bdcff5f7191703",
+      "title": "The fellowship of the ring",
+      "authors": [
+        "J.R.R Tolkien"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14627060-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL27513W",
+        "alt": "Cover of The fellowship of the ring"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816caaa5e00dd5c383dc",
+      "title": "The Flesh of the Orchid",
+      "authors": [
+        "James Hadley Chase"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13846646-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2838624W",
+        "alt": "Cover of The Flesh of the Orchid>)"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "The Flesh of the Orchid",
+          "url": "https://en.wikipedia.org/wiki/The_Flesh_of_the_Orchid_(novel)"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d1814cb049f91baa59a730",
+      "title": "The Flower Boat Girl: A novel based on a true story of the woman who became the most powerful pirate in history",
+      "authors": [
+        "Larry Feign"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d5829dde7ae17d5223",
+      "title": "The Forsyte Saga",
+      "authors": [
+        "John Galsworthy"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14963688-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL37994307W",
+        "alt": "Cover of The Forsyte Saga"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18142bceddeb02885329d",
+      "title": "The fortnight in September",
+      "authors": [
+        "Alexander Pushkin"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812a8fb8ce1313ee14bf",
+      "title": "The Fortunate Pilgrim",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/419184-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1673262W",
+        "alt": "Cover of The Fortunate Pilgrim"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18153bab7e9cc8a84f92c",
+      "title": "The fortunate pilgrim",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/419184-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1673262W",
+        "alt": "Cover of The fortunate pilgrim"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18120baccc743006d9a9b",
+      "title": "The Gambler",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181af8d23fcbe886e3247",
+      "title": "The Gentleman from San Francisco",
+      "authors": [
+        "Ivan Bunin"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14967893-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL34582203W",
+        "alt": "Cover of The Gentleman from San Francisco"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819f8608cd2bd28a00af",
+      "title": "The Girl in the Letter",
+      "authors": [
+        "Emily Gunnis"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15203681-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21188035W",
+        "alt": "Cover of The Girl in the Letter"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181be8f24c79d377a9913",
+      "title": "The Giver Quartet",
+      "authors": [
+        "Lois Lowry"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Science fiction",
+        "Young adult fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10307103-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20636244W",
+        "alt": "Cover of The Giver Quartet"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "The Giver Quartet",
+          "url": "https://en.wikipedia.org/wiki/The_Giver_Quartet"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d1810d9805cda406971658",
+      "title": "The God Delusion",
+      "authors": [
+        "Richard Dawkins"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Psychology",
+        "Evolutionary science"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/386467-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1966485W",
+        "alt": "Cover of The God Delusion"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817c8caec35536ca4dba",
+      "title": "The Godfather series",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18108b917d2308aa1401d",
+      "title": "The Good Terrorist",
+      "authors": [
+        "Doris Lessing"
+      ],
+      "genres": [
+        "Political fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/254375-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL31244W",
+        "alt": "Cover of The Good Terrorist"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ab842ce64ad1734255",
+      "title": "The Government Inspector",
+      "authors": [
+        "Nicoloi Gogol"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Play"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18117926dc68cec20e95c",
+      "title": "The Handmaid's Tale",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Women writers",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8231851-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL675783W",
+        "alt": "Cover of The Handmaid's Tale"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f8a94eeb749a4cde05",
+      "title": "The heart of a dog",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181109683ed6824690c2c",
+      "title": "The Heretics: Adventures with the Enemies of Science",
+      "authors": [
+        "Will Storr"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Science and Tech"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "33944a4243d18090aaa1ec242b203b4d",
+      "title": "The Hour Of the Star",
+      "authors": [
+        "Clarice Licpector"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Women writers"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18165b1c6cf674b92da50",
+      "title": "The House on Mango Street",
+      "authors": [
+        "Sandra Cisnero"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8804569-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3243765W",
+        "alt": "Cover of The House on Mango Street"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d08d7bd45c35ddf18d",
+      "title": "The Humans",
+      "authors": [
+        "Matt Haig"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7989984-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16805374W",
+        "alt": "Cover of The Humans"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f78ee8ce2952b447a5",
+      "title": "The Hypnotist",
+      "authors": [
+        "Lars Kepler"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9846733-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16121217W",
+        "alt": "Cover of The Hypnotist"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a89b32df03a2488d94",
+      "title": "The Idiot",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dfa862e570b025c4ba",
+      "title": "The importance of being earnest",
+      "authors": [
+        "Oscar Wilde"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1260453-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL27776452W",
+        "alt": "Cover of The importance of being earnest"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181988ae1f3bf4adb7051",
+      "title": "The inheritence triology",
+      "authors": [
+        "N.K. Jemisin"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1818eb454d70ffc2d03fe",
+      "title": "The Island of Doctor Death",
+      "authors": [
+        "Gene Wolfe"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a1997fc5124b60bac1",
+      "title": "The Jack Reacher series",
+      "authors": [
+        "Lee Child"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fea4fee9fbae917939",
+      "title": "The Kite Runner",
+      "authors": [
+        "Khaled Hoseini"
+      ],
+      "genres": [
+        "Fiction",
+        "Historical fiction",
+        "Bildungsroman",
+        "Literary philosophy-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14846827-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5781992W",
+        "alt": "Cover of The Kite Runner"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dfa906f0392bbe04cb",
+      "title": "The Labyrinth:An existensial odessey with Jean Paul Satrt",
+      "authors": [
+        "Ben Argon"
+      ],
+      "genres": [
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18112b2b8dd884ede4005",
+      "title": "The Last Good Kiss",
+      "authors": [
+        "James Crumley"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/254531-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3295226W",
+        "alt": "Cover of The Last Good Kiss"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "The Last Good Kiss",
+          "url": "https://www.amazon.com/gp/product/0394759893/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181d5bd00db6065caedf9",
+      "title": "The last Italian trilogy",
+      "authors": [
+        "Anthony Delstretto"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e0905cf2d1f9177ca2",
+      "title": "The Last Man",
+      "authors": [
+        "Mary Shelley"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/882662-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL450124W",
+        "alt": "Cover of The Last Man"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181919c61f507e14d148d",
+      "title": "The League of Extraordinary Gentlemen",
+      "authors": [
+        "Alan Moore"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8805707-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2897796W",
+        "alt": "Cover of The League of Extraordinary Gentlemen"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18142b142feda8a66690d",
+      "title": "The Library of Babel",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "genres": [
+        "Fiction",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "38c44a4243d180bf9370f8f3e9c12b78",
+      "title": "The Life of a stupid man",
+      "authors": [
+        "Ryūnosuke Akutagawa"
+      ],
+      "genres": [
+        "Fiction",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9151162-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20493062W",
+        "alt": "Cover of The Life of a stupid man"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1813caebdc0f2efa489e5",
+      "title": "The Lost Honour of Katharina Blum",
+      "authors": [
+        "Heinrich Böll"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical war fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e6ab7df7430457f283",
+      "title": "The Machine Stops",
+      "authors": [
+        "E.M. Forster"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7793883-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL88800W",
+        "alt": "Cover of The Machine Stops"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812d8adcf2737ab4e8fa",
+      "title": "The Master and Margarita",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817a9347f637d6b67e7e",
+      "title": "The Meek One",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1814d9c1ed855a7ddc62a",
+      "title": "The Memory Police",
+      "authors": [
+        "Yoko Ogawa"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15223719-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL45560574W",
+        "alt": "Cover of The Memory Police"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181159930c01195b82895",
+      "title": "The Metamorphosis",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12820198-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL498556W",
+        "alt": "Cover of The Metamorphosis"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181759a40e24b6acf4cce",
+      "title": "The Midnight Library",
+      "authors": [
+        "Matt Haig"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10313767-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20965973W",
+        "alt": "Cover of The Midnight Library"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811ea272f63fa77e255b",
+      "title": "The Ministry of Time",
+      "authors": [
+        "Kaliane Bradley"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14621125-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL37571815W",
+        "alt": "Cover of The Ministry of Time"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dfa6f0e952b381eb11",
+      "title": "The Moral Animal: Why We Are, the Way We Are: The New Science of Evolutionary Psychology",
+      "authors": [
+        "Robert Wright"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Psychology",
+        "Evolutionary science"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a0ad08dd6e697edbdf",
+      "title": "The Naked and The Dead",
+      "authors": [
+        "Norman Mailer"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/4363243-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1822241W",
+        "alt": "Cover of The Naked and The Dead"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b28256d99334c21cd7",
+      "title": "The Nazi and the Psychiatrist",
+      "authors": [
+        "Jack El-Hai"
+      ],
+      "genres": [
+        "(Auto)Biography",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://dynamic.indigoimages.ca/v1/books/books/1610394631/1.jpg",
+        "sourceUrl": "https://www.indigo.ca/en-ca/the-nazi-and-the-psychiatrist-hermann-g%C3%B6ring-dr.-douglas-m.-kelley-and-a-fatal-meeting-of-minds-at-the-end-of-wwii/9781610394635.html",
+        "alt": "Cover of The Nazi and the Psychiatrist by Jack El-Hai"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e3845fea2aafff6525",
+      "title": "The Nazi and the Psychiatrist: Hermann Göring, Dr. Douglas M. Kelley, and a Fatal Meeting of Minds at the End of WWII",
+      "authors": [
+        "Jack El-Hai"
+      ],
+      "genres": [
+        "Historical psychology",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://dynamic.indigoimages.ca/v1/books/books/1610394631/1.jpg",
+        "sourceUrl": "https://www.indigo.ca/en-ca/the-nazi-and-the-psychiatrist-hermann-g%C3%B6ring-dr.-douglas-m.-kelley-and-a-fatal-meeting-of-minds-at-the-end-of-wwii/9781610394635.html",
+        "alt": "Cover of The Nazi and the Psychiatrist by Jack El-Hai"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18152bf8bd289eb9ffde1",
+      "title": "The Nightmare",
+      "authors": [
+        "Lars Kepler"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7372277-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL16489867W",
+        "alt": "Cover of The Nightmare"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810a83d3d13fac8c7ed0",
+      "title": "The noise of time",
+      "authors": [
+        "Julian Brane"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dda3ebf091f1066219",
+      "title": "The Nose",
+      "authors": [
+        "Nicoloi Gogol"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ac8a4df22d8d51fa75",
+      "title": "The only story",
+      "authors": [
+        "Julian Brane"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181279cd1f0cfd20b0e83",
+      "title": "The original sin",
+      "authors": [
+        "Anthony Quinn"
+      ],
+      "genres": [
+        "(Auto)Biography",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7128429-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3750314W",
+        "alt": "Cover of The original sin"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181958f24f4fe256381dd",
+      "title": "The outsider",
+      "authors": [
+        "Stephen King"
+      ],
+      "genres": [
+        "Horror fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/11412999-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17937105W",
+        "alt": "Cover of The outsider"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d18052ad91dc260ef49664",
+      "title": "The Overcoat",
+      "authors": [
+        "Nicoloi Gogol"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1816980ade3e356340dc3",
+      "title": "The piano tuner",
+      "authors": [
+        "Daniel Mason"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/226471-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL5956196W",
+        "alt": "Cover of The piano tuner"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181809e9ac4b46d199121",
+      "title": "The Prince",
+      "authors": [
+        "Niccolo Machiavelli"
+      ],
+      "genres": [
+        "Political satire",
+        "Italian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12726168-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1089297W",
+        "alt": "Cover of The Prince"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a29ba6d124a96e45ad",
+      "title": "The Princess of Siberia : The Story of Maria Volkonsky and the Decembrist Exiles",
+      "authors": [
+        "Christine Sutherland"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2df44a4243d18097a33ad52fb28cb781",
+      "title": "The Prisoner of Zenda",
+      "authors": [
+        "Anthony Hope"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/105814-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL245401W",
+        "alt": "Cover of The Prisoner of Zenda"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817daa03fd71ad24400e",
+      "title": "The Queen of Spades",
+      "authors": [
+        "Alexander Pushkin"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a99b60dc09198f39fc",
+      "title": "The Rebel",
+      "authors": [
+        "Albert Camus"
+      ],
+      "genres": [
+        "Social commentary"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14913446-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL43044097W",
+        "alt": "Cover of The Rebel"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810a890af427b0326b4c",
+      "title": "The Red and the Black",
+      "authors": [
+        "Stendhal"
+      ],
+      "genres": [
+        "Fiction",
+        "Psychological Fiction",
+        "Bildungsroman"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15050012-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL41132226W",
+        "alt": "Cover of The Red and the Black"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18194b682e76ce1526e75",
+      "title": "The Red Convertible: Selected and New Stories, 1978-2008",
+      "authors": [
+        "Louise Erdric"
+      ],
+      "genres": [
+        "Fiction",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d4abcfcefdcc6008ad",
+      "title": "The return of the king",
+      "authors": [
+        "J.R.R Tolkien"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14627062-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL27455W",
+        "alt": "Cover of The return of the king"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811eae69c1e0174718d4",
+      "title": "The Road",
+      "authors": [
+        "Cormac McCarthy"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/198120-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL40873W",
+        "alt": "Cover of The Road"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181d8be30db188fe7e72e",
+      "title": "The Roman stories",
+      "authors": [
+        "Jhumpa Lahiri"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18191bbcad6f80117a0f2",
+      "title": "The San-Antonio Series",
+      "authors": [
+        "Frédéric Dard"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18163899cdb7385312bf3",
+      "title": "The Sandman",
+      "authors": [
+        "Lars Kepler"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181f3b20eeae16f7c3ec8",
+      "title": "The Savage Detectives",
+      "authors": [
+        "Roberto Bolaño"
+      ],
+      "genres": [
+        "Literary philosophy-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dbbddfed4bcc950a6d",
+      "title": "The Second Sex",
+      "authors": [
+        "Simone de Beauvoir"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Feminism"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/15089651-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL11674781W",
+        "alt": "Cover of The Second Sex"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a2be08d86973007703",
+      "title": "The Selfish Gene",
+      "authors": [
+        "Richard Dawkins"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Psychology",
+        "Evolutionary science"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/133936-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1966488W",
+        "alt": "Cover of The Selfish Gene"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b78689f79b58f227ef",
+      "title": "The shadow of young girls in flower",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/400407-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1190226W",
+        "alt": "Cover of The shadow of young girls in flower"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819490edc443c8d24aa4",
+      "title": "The Shining",
+      "authors": [
+        "Stephen King"
+      ],
+      "genres": [
+        "Horror fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12376585-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL81633W",
+        "alt": "Cover of The Shining"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18191904ef90abf43989e",
+      "title": "The Sicilian",
+      "authors": [
+        "Mario Puzzo"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/210076-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1673260W",
+        "alt": "Cover of The Sicilian"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181fa918dd862ff05851b",
+      "title": "The Silent Patient",
+      "authors": [
+        "Alex Michaelides"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9407338-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19096402W",
+        "alt": "Cover of The Silent Patient"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819f8a6cd7ca8f65edf7",
+      "title": "The Silk Roads",
+      "authors": [
+        "Peter Frankopan"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Philosophy-opinion pieces"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8963642-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL19666939W",
+        "alt": "Cover of The Silk Roads"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1819aa0d7e9e2c48955a4",
+      "title": "The Social Animal: The Hidden Sources of Love, Character, and Achievement",
+      "authors": [
+        "David Brooks"
+      ],
+      "genres": [
+        "Sociology",
+        "Non-fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "38e44a4243d1805eb43ac226740e885b",
+      "title": "The Spokes",
+      "authors": [
+        "Miranda Mellis"
+      ],
+      "genres": [
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18131a71fdc1f9cc51215",
+      "title": "The Stand",
+      "authors": [
+        "Stephen King"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Dark fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/9255992-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL81618W",
+        "alt": "Cover of The Stand"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1811c8e60d7d684feb869",
+      "title": "The Stavros Manuscript",
+      "authors": [
+        "Vince Wheeler"
+      ],
+      "genres": [
+        "Thriller"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c8aa16c1f39fff6659",
+      "title": "The Stranger",
+      "authors": [
+        "Albert Camus"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Psychological Fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18113bdd8e13eae5e74f4",
+      "title": "The strangest man",
+      "authors": [
+        "Farmelo"
+      ],
+      "genres": [
+        "Non-fiction",
+        "(Auto)Biography"
+      ],
+      "cover": {
+        "src": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/cc/6b/88/cc6b88ff-7800-ce00-d16d-cbf4fa2e60a2/9780465019922.jpg/1200x1200wz.jpg",
+        "sourceUrl": "https://books.apple.com/us/book/the-strangest-man/id1210011212",
+        "alt": "Cover of The Strangest Man by Graham Farmelo"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181da8509d4ca72b14773",
+      "title": "The Tale of Cross-eyed Lefty from Tula and the Steel Flea",
+      "authors": [
+        "Nikolai Leskov"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181dab8aaca9b4c8ca499",
+      "title": "The Talent Code: Greatness Isn't Born. It's Grown. Here's How",
+      "authors": [
+        "Daniel Coyle"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Philosophy-opinion pieces"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181149653d9c67305311e",
+      "title": "The Tartar Steppe",
+      "authors": [
+        "Dino Buzzati"
+      ],
+      "genres": [
+        "Fiction",
+        "Italian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/8137160-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL17841244W",
+        "alt": "Cover of The Tartar Steppe"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a0b7e2ce89e5649a8a",
+      "title": "The Three-Body Problem",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1810ebdddc90416a463ff",
+      "title": "The Thursday Murder Club",
+      "authors": [
+        "Richard Osman"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10201431-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20878311W",
+        "alt": "Cover of The Thursday Murder Club"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a3a685c0ef41578447",
+      "title": "The Tortilla Curtain",
+      "authors": [
+        "T. C. Boyle"
+      ],
+      "genres": [
+        "Social fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/401441-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL892023W",
+        "alt": "Cover of The Tortilla Curtain"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181118055d1d854912ddb",
+      "title": "The Train Was on Time",
+      "authors": [
+        "Heinrich Böll"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical war fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1532442-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15110877W",
+        "alt": "Cover of The Train Was on Time"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b88cdbd45a859e9644",
+      "title": "The trial",
+      "authors": [
+        "Kafka"
+      ],
+      "genres": [
+        "Fiction",
+        "Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14910748-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL43043884W",
+        "alt": "Cover of The trial"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18102b33bedbd678eb4a4",
+      "title": "The two towers",
+      "authors": [
+        "J.R.R Tolkien"
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14627564-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL27479W",
+        "alt": "Cover of The two towers"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c89675eec53f267042",
+      "title": "The Urth of the new sun",
+      "authors": [
+        "Gene Wolfe"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/182770-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL14871974W",
+        "alt": "Cover of The Urth of the new sun"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181208e8ff08e5caa06b7",
+      "title": "The Wayward Pines Trilogy",
+      "authors": [
+        "Blake Crouch"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1817fb45ef6ee8b563f7a",
+      "title": "The Wicked Go to Hell",
+      "authors": [
+        "Frédéric Dard"
+      ],
+      "genres": [
+        "Crime fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14323500-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL20059598W",
+        "alt": "Cover of The Wicked Go to Hell"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e2b57fc789a537088d",
+      "title": "The woman in cabin 10",
+      "authors": [
+        "Ruth Ware"
+      ],
+      "genres": [
+        "Crime fiction",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10439789-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21311069W",
+        "alt": "Cover of The woman in cabin 10"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1812cbac4da68418d5a1a",
+      "title": "The Writer: A Dark Thriller",
+      "authors": [
+        "D. W. Ulsterman"
+      ],
+      "genres": [
+        "Mystery thriller"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "30444a4243d180f09288c789c57aa46e",
+      "title": "The Yellow Wallpaper",
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/652029-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2772007W",
+        "alt": "Cover of The Yellow Wallpaper"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181928ea0c5f4ee4bf7b0",
+      "title": "Thinking as a science",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Art of writing"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/10939021-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL24399721W",
+        "alt": "Cover of Thinking as a science"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b5815cfcc0f0df1736",
+      "title": "Tinker, Tailor, soldier, spy",
+      "authors": [
+        "John Le"
+      ],
+      "genres": [
+        "Spy fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/7021556-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL15723131W",
+        "alt": "Cover of Tinker, Tailor, soldier, spy"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181e1bfa5f90fba9eb89c",
+      "title": "To Kill a Mockingbird",
+      "authors": [
+        "Harper Lee"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/14351077-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL3140822W",
+        "alt": "Cover of To Kill a Mockingbird"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18168824dfda479df150a",
+      "title": "Topos of music",
+      "authors": [
+        "Guerino Mazzola"
+      ],
+      "genres": [
+        "Music theory",
+        "Non-fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/1024279-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL9075592W",
+        "alt": "Cover of Topos of music"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18188a680c08b1d0eeb71",
+      "title": "Transmetropolitan",
+      "authors": [
+        "Warren Ellis"
+      ],
+      "genres": [
+        "Graphic novel",
+        "Dystopian fiction",
+        "Cyberpunk"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/883146-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL2888312W",
+        "alt": "Cover of Transmetropolitan"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "30d44a4243d180c2b331cdfdba8065b3",
+      "title": "Turned",
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "genres": [
+        "Classics",
+        "Women writers",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18154afa7d51ab073f43a",
+      "title": "V for Vendetta",
+      "authors": [
+        "Alan Moore and David Lloyd"
+      ],
+      "genres": [
+        "Dystopian fiction",
+        "Graphic novel"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181b8a7dbcbc8e94e997f",
+      "title": "Venom",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12636977-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL4334043W",
+        "alt": "Cover of Venom"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2d344a4243d1809f9e2ccc92197e8415",
+      "title": "Waiting for Godot",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181c4ab02e9b7380923c1",
+      "title": "War and peace",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "Satirical war fiction",
+        "Russian Classics"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12621906-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL267171W",
+        "alt": "Cover of War and peace"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181149b5acd8867d6d8ac",
+      "title": "Watchmen series",
+      "authors": [
+        "Alan Moore"
+      ],
+      "genres": [
+        "Graphic novel"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d1818aab6ee33901d1ab08",
+      "title": "Watermark",
+      "authors": [
+        "Joseph Brodsky"
+      ],
+      "genres": [
+        "Memoir"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/222919-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL983056W",
+        "alt": "Cover of Watermark"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181788468c2a22bc58676",
+      "title": "We",
+      "authors": [
+        "Yevgeny Zamyatin"
+      ],
+      "genres": [
+        "Dystopian fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "32844a4243d180bfbd04c83ed57bc301",
+      "title": "What we talk about when we talk about love",
+      "authors": [
+        "Raymond Carver"
+      ],
+      "genres": [
+        "Short Story"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/914747-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL1865851W",
+        "alt": "Cover of What we talk about when we talk about love"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181ac8e0ff70980338492",
+      "title": "What Went Wrong with Capitalism",
+      "authors": [
+        "Ruchir Sharma"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Economics and Geopolitics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "What Went Wrong with Capitalism",
+          "url": "https://www.amazon.com/gp/product/B0CL5G2TVK/ref=ppx_yo_dt_b_d_asin_title_351_o01?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181f4be94fdea026fe78a",
+      "title": "When Einstein Walked with Gödel",
+      "authors": [
+        "Daniel Kahneman"
+      ],
+      "genres": [
+        "Non-fiction",
+        "Brain Science"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18110a613f80e2cd1d61e",
+      "title": "When we were Gods",
+      "authors": [
+        "Colin Falconer"
+      ],
+      "genres": [
+        "Historical fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/390435-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL4334040W",
+        "alt": "Cover of When we were Gods"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181888713f899f113ac88",
+      "title": "White Night",
+      "authors": [
+        "Fyodor Mikhailovich Dostoevsky"
+      ],
+      "genres": [
+        "Fiction",
+        "Russian Classics",
+        "Short Story"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181de8f67cc3699c9aa3e",
+      "title": "Wild Sargasso Sea",
+      "authors": [
+        "Jean Rhys"
+      ],
+      "genres": [
+        "Classics"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18170808bc7ed2f106f6f",
+      "title": "Wise Blood",
+      "authors": [
+        "Flannery O'Connor"
+      ],
+      "genres": [
+        "Fiction",
+        "Satirical fiction",
+        "Southern Gothic",
+        "Absurdist",
+        "Women writers"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/376601-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL65295W",
+        "alt": "Cover of Wise Blood"
+      },
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d18157a9e9ee2ab1357186",
+      "title": "Works of Ted Chiang",
+      "authors": [
+        "Ted Chiang"
+      ],
+      "genres": [
+        "Science fiction"
+      ],
+      "cover": null,
+      "notesHtml": "",
+      "links": []
+    },
+    {
+      "id": "2ce44a4243d181a89028dfa726483960",
+      "title": "Wuthering Heights",
+      "authors": [
+        "Emily Brontë"
+      ],
+      "genres": [
+        "Horror fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/12818862-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL21177W",
+        "alt": "Cover of Wuthering Heights"
+      },
+      "notesHtml": "",
+      "links": [
+        {
+          "label": "Wuthering Heights",
+          "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+        }
+      ]
+    },
+    {
+      "id": "2ce44a4243d181f7bc27f726a2698fb9",
+      "title": "Yellowface",
+      "authors": [
+        "R. F. Kuang"
+      ],
+      "genres": [
+        "Satirical fiction",
+        "Psychological Fiction"
+      ],
+      "cover": {
+        "src": "https://covers.openlibrary.org/b/id/13195421-M.jpg?default=false",
+        "sourceUrl": "https://openlibrary.org/works/OL29050559W",
+        "alt": "Cover of Yellowface"
+      },
+      "notesHtml": "",
+      "links": []
+    }
+  ]
+}

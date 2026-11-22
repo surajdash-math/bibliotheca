@@ -1,0 +1,290 @@
+---
+import ThemeInit from "../components/ThemeInit.astro";
+import ThemeToggle from "../components/ThemeToggle.astro";
+import SiteVersion from "../components/SiteVersion.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+import ReadingQuotes from "../components/ReadingQuotes.astro";
+
+import catalogue from "../data/bibliotheca.json";
+import shelfLabels from "../data/bibliotheca-shelves.json";
+
+interface Book {
+  id: string;
+  title: string;
+  authors: string[];
+  genres: string[];
+  cover: { src: string; sourceUrl: string; alt: string } | null;
+  notesHtml: string;
+  links: { label: string; url: string }[];
+}
+
+const labels: Record<string, string> = shelfLabels;
+const entries: Book[] = catalogue.entries.map(book => ({
+  ...book,
+  genres: [...new Set(book.genres.map(genre => labels[genre] || genre))],
+}));
+const collator = new Intl.Collator("en", { sensitivity: "base", numeric: true });
+const byGenre = new Map<string, Book[]>();
+const untagged: Book[] = [];
+for (const book of entries) {
+  if (!book.genres.length) untagged.push(book);
+  for (const genre of new Set(book.genres)) {
+    if (!byGenre.has(genre)) byGenre.set(genre, []);
+    byGenre.get(genre)!.push(book);
+  }
+}
+const groups = [...byGenre].sort(([a], [b]) => collator.compare(a, b));
+if (untagged.length) { groups.push(["Without a genre", untagged]); groups.sort(([a], [b]) => collator.compare(a, b)); }
+const shelves = groups.map(([name, books], index) => ({
+  name,
+  id: `genre-${index + 1}`,
+  books: books.sort((a, b) => collator.compare(a.title, b.title) || collator.compare(a.authors.join(", "), b.authors.join(", "))),
+}));
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <SiteVersion />
+    <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" />
+    <ThemeInit />
+    <title>Bibliotheca | Suraj Dash</title>
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="library-topbar"><span>Suraj Dash</span><ThemeToggle /></header>
+      <article class="catalogue">
+        <header class="masthead">
+          <h1>Bibliotheca</h1>
+        </header>
+        <div class="controls" id="catalogue-tools">
+          <p class="catalogue-count">{entries.length} entries <span aria-hidden="true">·</span> {byGenre.size} genres</p>
+          <label class="mobile-shelves">
+            <span>Browse shelves</span>
+            <select id="shelf-select" aria-label="Choose a genre">
+              <option value="all">All titles ({entries.length})</option>
+              {shelves.map(shelf => <option value={shelf.id}>{shelf.name} ({shelf.books.length})</option>)}
+            </select>
+          </label>
+          <label class="search">
+            <span class="sr-only">Search by title, author or genre</span>
+            <input type="search" placeholder="Search by title, author or genre" id="book-search" />
+          </label>
+        </div>
+        <div class="reading-room">
+          <aside class="shelf-sidebar">
+            <h2>Browse shelves</h2>
+            <nav aria-label="Genre shelves">
+              <button type="button" class="shelf-choice" data-shelf="all" aria-pressed="true"><span>All titles</span><span class="shelf-count">{entries.length}</span></button>
+              {shelves.map(shelf => <button type="button" class="shelf-choice" data-shelf={shelf.id} data-genre={shelf.name} aria-pressed="false"><span>{shelf.name}</span><span class="shelf-count">{shelf.books.length}</span></button>)}
+            </nav>
+          </aside>
+          <section class="shelf" aria-labelledby="shelf-title">
+            <header class="shelf-heading">
+              <h2 id="shelf-title">All titles</h2>
+              <p id="search-result" aria-live="polite">{entries.length} entries</p>
+            </header>
+            <ul class="books">
+              {entries.map(book => (
+                <li data-book={book.id} data-genres={JSON.stringify(book.genres.length ? book.genres : ["Without a genre"])} data-search={[book.title,...book.authors,...book.genres].join(" ")}>
+                  <button type="button" class="book" aria-haspopup="dialog">
+                    <span class:list={["cover-frame", { "cover-unavailable": !book.cover }]} aria-hidden="true">
+                      <span class="cover-fallback"><span>{book.title}</span>{book.authors.length > 0 && <small>{book.authors.join(", ")}</small>}</span>
+                      {book.cover && <img src={book.cover.src} alt="" loading="lazy" decoding="async" width="120" height="174" />}
+                    </span>
+                    <span class="book-caption">
+                      <span class="book-title">{book.title}</span>
+                      {book.authors.length > 0 && <span class="authors">{book.authors.join(", ")}</span>}
+                    </span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+            <p id="no-results" hidden>No matching entries.</p>
+          </section>
+        </div>
+      </article>
+      <ReadingQuotes />
+      <SiteFooter />
+    </main>
+    <dialog id="book-dialog" aria-labelledby="dialog-title">
+      <form method="dialog"><button class="close">Close <span aria-hidden="true">×</span></button></form>
+      <div id="dialog-content"></div>
+    </dialog>
+    {entries.map(book => (
+      <div id={`record-${book.id}`} hidden>
+        <div class="detail-heading">
+          {book.cover && <img src={book.cover.src} alt={book.cover.alt || ""} loading="lazy" width="120" height="174" />}
+          <div><h2 data-dialog-title>{book.title}</h2>
+          {book.authors.length > 0 && <p>{book.authors.join(", ")}</p>}
+          {book.genres.length > 0 && <p class="detail-genres">{book.genres.join(" · ")}</p>}</div>
+        </div>
+        {book.notesHtml && <div class="notes" set:html={book.notesHtml} />}
+        {book.cover?.sourceUrl && <p class="cover-credit"><a href={book.cover.sourceUrl} target="_blank" rel="noopener noreferrer">Cover source</a></p>}
+        {book.links.length > 0 && <ul class="detail-links">{book.links.map(link => <li><a href={link.url}>{link.label || link.url}</a></li>)}</ul>}
+      </div>
+    ))}
+  </body>
+</html>
+
+<script>
+  const search = document.querySelector<HTMLInputElement>("#book-search")!;
+  const results = document.querySelector<HTMLElement>("#search-result")!;
+  const dialog = document.querySelector<HTMLDialogElement>("#book-dialog")!;
+  const content = document.querySelector<HTMLElement>("#dialog-content")!;
+  const normalize = (text: string) => text.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+  const rows = [...document.querySelectorAll<HTMLElement>(".books [data-book]")].map(row => ({ row, text: normalize(row.dataset.search || ""), genres: JSON.parse(row.dataset.genres || "[]") as string[] }));
+  const choices = [...document.querySelectorAll<HTMLButtonElement>(".shelf-choice")];
+  const select = document.querySelector<HTMLSelectElement>("#shelf-select")!;
+  const title = document.querySelector<HTMLElement>("#shelf-title")!;
+  let activeShelf = "all";
+  const refresh = () => {
+    const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
+    const active = choices.find(choice => choice.dataset.shelf === activeShelf)!;
+    const genre = active.dataset.genre;
+    let visible = 0;
+    const matching = rows.filter(({text}) => terms.every(term => text.includes(term)));
+    for (const {row,text,genres} of rows) {
+      row.hidden = !terms.every(term => text.includes(term)) || (Boolean(genre) && !genres.includes(genre!));
+      if (!row.hidden) visible++;
+    }
+    for (const choice of choices) {
+      choice.setAttribute("aria-pressed", String(choice === active));
+      const count = choice.dataset.genre ? matching.filter(({genres}) => genres.includes(choice.dataset.genre!)).length : matching.length;
+      choice.querySelector(".shelf-count")!.textContent = String(count);
+    }
+    title.textContent = genre || "All titles";
+    results.textContent = `${visible} ${terms.length ? "matching " : ""}${visible === 1 ? "entry" : "entries"}`;
+    document.querySelector<HTMLElement>("#no-results")!.hidden = visible > 0;
+    select.value = activeShelf;
+  };
+  search.addEventListener("input", refresh);
+  choices.forEach(choice => choice.addEventListener("click", () => {
+    activeShelf = choice.dataset.shelf!;
+    refresh();
+    document.querySelector(".shelf")!.scrollIntoView({block:"start"});
+  }));
+  select.addEventListener("change", () => {
+    activeShelf = select.value;
+    refresh();
+  });
+  document.querySelectorAll<HTMLImageElement>(".cover-frame img").forEach(image => {
+    const fallback = () => { image.hidden = true; image.parentElement!.classList.add("cover-unavailable"); };
+    const loaded = () => image.parentElement!.classList.add("cover-loaded");
+    image.addEventListener("error", fallback);
+    image.addEventListener("load", loaded);
+    if (image.complete) image.naturalWidth ? loaded() : fallback();
+  });
+  document.querySelector(".catalogue")!.addEventListener("click", event => {
+    if (!(event.target instanceof Element)) return;
+    const book = event.target.closest("button.book")?.closest<HTMLElement>("[data-book]");
+    if (!book) return;
+    const record = document.getElementById(`record-${book.dataset.book}`);
+    if (!record) return;
+    content.replaceChildren(...[...record.childNodes].map(node => node.cloneNode(true)));
+    content.querySelector("h2")!.id = "dialog-title";
+    dialog.showModal();
+  });
+  dialog.addEventListener("click", event => {
+    if (event.target !== dialog) return;
+    const rect = dialog.getBoundingClientRect();
+    if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) dialog.close();
+  });
+</script>
+
+<style>
+  :global(:root) {
+    --bg: #faf8f2; --surface: #faf8f2; --text: #29342e; --heading: #29342e;
+    --muted: #56635b; --accent: #496f7a; --nav-accent: #496f7a; --link: #386675;
+    --line: #d9ddd3; --highlight: #e6eeeb;
+    --serif: "STIX Two Text", Georgia, serif;
+  }
+  :global(html[data-theme="dark"]) {
+    --bg: #212724; --surface: #212724; --text: #e8e9de; --heading: #e8e9de;
+    --muted: #b7c4bb; --line: #455049; --highlight: #344642; --link: #abd0d9; --nav-accent: #abd0d9;
+  }
+  :global(*) { box-sizing: border-box; }
+  :global(body) { margin: 0; background: var(--bg); color: var(--text); font: 1rem/1.5 "DM Sans", system-ui, sans-serif; }
+  :global(a) { color: var(--link); text-underline-offset: .2em; }
+  :global([hidden]) { display: none !important; }
+  :global(:focus-visible) { outline: 2px solid var(--link); outline-offset: 4px; }
+  .page-shell { width: min(1440px,100%); margin: auto; padding: 24px clamp(20px,4vw,60px) 0; }
+  .library-topbar { display: flex; align-items: center; justify-content: space-between; min-height: 44px; border-bottom: 1px solid var(--line); padding-bottom: 16px; margin-bottom: 30px; }
+  .library-topbar > span { font: 400 1.3rem/1.3 var(--serif); color: var(--heading); }
+  .catalogue { margin-bottom: 40px; }
+  h1,h2 { color: var(--heading); font-family: var(--serif); font-weight: 400; margin: 0; }
+  h1 { font-size: clamp(2.9rem,5vw,3.9rem); line-height: 1.05; letter-spacing: -.03em; }
+  .controls { display: grid; grid-template-columns: 1fr minmax(220px,300px); align-items: center; gap: 14px; margin: 14px 0 30px; }
+  .catalogue-count { margin: 0; font-size: .9rem; color: var(--muted); }
+  .search input { width: 100%; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; background: transparent; color: var(--text); font: inherit; font-size: .95rem; padding: 8px 0; }
+  .search input::placeholder { color: var(--muted); opacity: 1; }
+  .reading-room { display: grid; grid-template-columns: 190px minmax(0,1fr); gap: 32px; align-items: start; }
+  .shelf-sidebar { position: sticky; top: 22px; padding-right: 20px; border-right: 1px solid var(--line); }
+  .shelf-sidebar h2 { margin-bottom: 14px; color: var(--muted); font: 500 .8rem/1.4 "DM Sans",sans-serif; text-transform: uppercase; letter-spacing: .1em; }
+  .shelf-sidebar nav { display: flex; flex-direction: column; gap: 3px; max-height: calc(100dvh - 90px); overflow-y: auto; scrollbar-width: thin; padding: 2px 6px 4px 2px; }
+  .shelf-choice { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; width: 100%; border: 0; border-radius: 3px; background: transparent; color: var(--muted); padding: 8px 9px; text-align: left; font: inherit; font-size: .9rem; line-height: 1.3; cursor: pointer; }
+  .shelf-choice[aria-pressed="true"] { background: var(--highlight); color: var(--heading); }
+  .shelf-choice:hover { color: var(--heading); text-decoration: underline; text-underline-offset: 4px; }
+  .shelf-count { flex-shrink: 0; color: var(--muted); font-size: .8rem; font-variant-numeric: tabular-nums; }
+  .shelf { min-width: 0; scroll-margin-top: 22px; }
+  .shelf-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 22px; }
+  .shelf-heading h2 { font-size: 1.75rem; line-height: 1.2; overflow-wrap: anywhere; }
+  #search-result { margin: 0; color: var(--muted); font-size: .9rem; white-space: nowrap; }
+  .books { display: grid; grid-template-columns: repeat(auto-fill,minmax(130px,1fr)); align-items: start; gap: 30px 22px; list-style: none; padding: 0; margin: 0; }
+  .books li { min-width: 0; }
+  .book { display: flex; flex-direction: column; align-items: flex-start; width: 100%; padding: 0; border: 0; background: transparent; color: var(--text); font: inherit; cursor: pointer; text-align: left; }
+  .cover-frame { display: block; position: relative; height: 180px; width: 100%; max-width: 140px; transition: transform .18s ease; }
+  .cover-frame img { display: block; position: absolute; inset: 0; height: 100%; width: 100%; object-fit: contain; object-position: left bottom; opacity: 0; filter: drop-shadow(2px 3px 3px #17291e18); }
+  .cover-frame:not(.cover-loaded) { background: var(--highlight); border-left: 4px solid color-mix(in srgb,var(--text) 12%,transparent); box-shadow: 2px 3px 5px #17291e16; }
+  .cover-fallback { display: flex; flex-direction: column; justify-content: space-between; gap: 12px; height: 100%; padding: 14px 12px; }
+  .cover-loaded img { opacity: 1; }
+  .cover-loaded .cover-fallback { visibility: hidden; }
+  .cover-fallback > span { font: 400 1.1rem/1.12 var(--serif); overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 7; -webkit-box-orient: vertical; overflow: hidden; }
+  .cover-fallback small { font-size: .875rem; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .book-caption { padding-top: 10px; display: grid; gap: 5px; overflow-wrap: anywhere; }
+  .book-title { font: 400 1.12rem/1.22 var(--serif); color: var(--heading); }
+  .authors { font-size: .875rem; line-height: 1.35; color: var(--muted); }
+  .book:hover .cover-frame,.book:focus-visible .cover-frame { transform: translateY(-3px); }
+  .book:hover .book-title,.book:focus-visible .book-title { color: var(--nav-accent); text-decoration: underline; text-underline-offset: .16em; }
+  .mobile-shelves { display: none; }
+  dialog { width: min(620px,calc(100% - 32px)); max-height: 85dvh; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 4px; padding: clamp(20px,4vw,32px); }
+  dialog::backdrop { background: #17231e99; }
+  dialog form { text-align: right; margin: 0 0 14px; }
+  .close { background: transparent; border: 0; cursor: pointer; color: var(--muted); padding: 6px; font: inherit; font-size: .9rem; }
+  .detail-heading { display: flex; gap: 20px; align-items: flex-start; }
+  .detail-heading img { width: min(26%,110px); height: auto; }
+  .detail-heading h2 { font-size: clamp(1.5rem,4vw,2.25rem); line-height: 1.14; }
+  #dialog-content { overflow-wrap: anywhere; }
+  .detail-heading p,.notes,.detail-links { font-size: 1rem; line-height: 1.55; }
+  .detail-heading p { margin: .45em 0 0; }
+  .detail-heading .detail-genres,.cover-credit { color: var(--muted); font-size: .875rem; }
+  .notes,.detail-links { margin-top: 20px; }
+  .notes :global(img) { max-width: 100%; height: auto; }
+  .library-footer { display: flex; justify-content: space-between; gap: 20px; border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: .875rem; color: var(--muted); }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  @media(max-width: 760px) {
+    .reading-room { grid-template-columns: 155px minmax(0,1fr); gap: 22px; }
+    .shelf-sidebar { padding-right: 14px; }
+    .books { grid-template-columns: repeat(auto-fill,minmax(110px,1fr)); gap: 26px 18px; }
+    .cover-frame { height: 165px; }
+  }
+  @media(max-width: 560px) {
+    .page-shell { padding-inline: 20px; }
+    .library-topbar { margin-bottom: 24px; }
+    .controls { grid-template-columns: 1fr; gap: 14px; margin-bottom: 26px; }
+    .catalogue-count { grid-row: 1; }
+    .search { grid-row: 2; }
+    .mobile-shelves { display: grid; gap: 5px; color: var(--muted); font-size: .875rem; }
+    .mobile-shelves select { appearance: none; border: 1px solid var(--line); border-radius: 3px; background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath d='m4 6 4 4 4-4' fill='none' stroke='%237a8c83' stroke-width='1.5'/%3E%3C/svg%3E") right 12px center / 16px no-repeat; color: var(--text); padding: 10px 36px 10px 12px; width: 100%; font: inherit; }
+    .reading-room { display: block; }
+    .shelf-sidebar { display: none; }
+    .books { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 28px 20px; }
+    .cover-frame { height: 180px; max-width: 140px; }
+    .shelf-heading { gap: 10px; }
+    .shelf-heading h2 { font-size: 1.6rem; }
+  }
+  @media(prefers-reduced-motion: reduce) { .cover-frame { transition: none; transform: none !important; } }
+</style>

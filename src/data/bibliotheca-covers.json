@@ -1,0 +1,3606 @@
+{
+  "2ce44a4243d18158b687cfd3edbc1b74": {
+    "src": "https://covers.openlibrary.org/b/id/11481354-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL893414W",
+    "alt": "Cover of Dune",
+    "matchTitle": "Dune",
+    "matchedAuthors": [
+      "Frank Herbert"
+    ],
+    "coverId": 11481354,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Dune",
+    "sourceAuthors": [
+      "Frank Herbert"
+    ],
+    "sourceFingerprint": "f04f4ae75b5f19b1a782f12eaae99f38b236a82c831232123bda192a4fb7a77d"
+  },
+  "2ce44a4243d181279cd1f0cfd20b0e83": {
+    "src": "https://covers.openlibrary.org/b/id/7128429-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3750314W",
+    "alt": "Cover of The original sin",
+    "matchTitle": "The original sin",
+    "matchedAuthors": [
+      "Anthony Quinn"
+    ],
+    "coverId": 7128429,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The original sin",
+    "sourceAuthors": [
+      "Anthony Quinn"
+    ],
+    "sourceFingerprint": "67cd7ece589ac8ff434f0e9c5c0c8581e160ca74dddb030fbef041e503e39b6c"
+  },
+  "2ce44a4243d18152a24ecdac38bb2bf5": {
+    "src": "https://covers.openlibrary.org/b/id/14430663-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL261794W",
+    "alt": "Cover of A Clockwork Orange",
+    "matchTitle": "A Clockwork Orange",
+    "matchedAuthors": [
+      "Anthony Burgess"
+    ],
+    "coverId": 14430663,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Clockwork Orange",
+    "sourceAuthors": [
+      "Anthony Burgess"
+    ],
+    "sourceFingerprint": "96f922f3581e333acc991b413928bb800dcc215e1b01b1a81fbdb04abad37948"
+  },
+  "2ce44a4243d181329c71f5cd6ee660ab": {
+    "src": "https://covers.openlibrary.org/b/id/11326818-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17797130W",
+    "alt": "Cover of A Gentleman in Moscow",
+    "matchTitle": "A Gentleman in Moscow",
+    "matchedAuthors": [
+      "Amor Towles"
+    ],
+    "coverId": 11326818,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Gentleman in Moscow",
+    "sourceAuthors": [
+      "Amor Towles"
+    ],
+    "sourceFingerprint": "5901316a21cf68e104c055dbe0abf650c283abba3d9ed069bda4502734609640"
+  },
+  "2ce44a4243d181e480bdd25dc9534515": {
+    "src": "https://covers.openlibrary.org/b/id/6975996-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15973859W",
+    "alt": "Cover of A geometry of music",
+    "matchTitle": "A geometry of music",
+    "matchedAuthors": [
+      "Dmitri Tymoczko"
+    ],
+    "coverId": 6975996,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A geometry of music",
+    "sourceAuthors": [
+      "Dmitri Tymoczko"
+    ],
+    "sourceFingerprint": "c64e8dbb8bb76d22a99d55c731200660a984092debe55f2cab0562b308b868be"
+  },
+  "2ce44a4243d1819b93afdb46d008eb5f": {
+    "src": "https://covers.openlibrary.org/b/id/9223641-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL103180W",
+    "alt": "Cover of A Graveyard for Lunatics",
+    "matchTitle": "A graveyard for lunatics",
+    "matchedAuthors": [
+      "Ray Bradbury"
+    ],
+    "coverId": 9223641,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Graveyard for Lunatics",
+    "sourceAuthors": [
+      "Ray Bradbury"
+    ],
+    "sourceFingerprint": "687c51e67c7fd856b7014c5c727731790174cce3aa6ceaf1019d0ce6098b608d"
+  },
+  "2ce44a4243d181b498ebce75ec37e119": {
+    "src": "https://covers.openlibrary.org/b/id/8910936-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20254523W",
+    "alt": "Cover of A Hero of Our Time",
+    "matchTitle": "A Hero of Our Time",
+    "matchedAuthors": [
+      "Mikhail Lermontov"
+    ],
+    "coverId": 8910936,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Hero of Our Time",
+    "sourceAuthors": [
+      "Mikhail Lermontov"
+    ],
+    "sourceFingerprint": "63ae8df69bac81e4d8509dbe3127e6ed8dc4988de0fc05bae161b9b24636b398"
+  },
+  "2ce44a4243d18158867dcba1d1e92986": {
+    "src": "https://covers.openlibrary.org/b/id/7268728-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL63064W",
+    "alt": "Cover of A moveable feast",
+    "matchTitle": "A Moveable Feast",
+    "matchedAuthors": [
+      "Ernest Hemingway"
+    ],
+    "coverId": 7268728,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A moveable feast",
+    "sourceAuthors": [
+      "Ernest Hemingway"
+    ],
+    "sourceFingerprint": "638971a1cd602438997476a5e7058f3dfee33dbf5c61fecae7a5733d3b876b31"
+  },
+  "2ce44a4243d181fc9532df2623453b89": {
+    "src": "https://covers.openlibrary.org/b/id/9328410-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL86343W",
+    "alt": "Cover of A Portrait of the Artist as a Young Man",
+    "matchTitle": "A Portrait of the Artist as a Young Man",
+    "matchedAuthors": [
+      "James Joyce"
+    ],
+    "coverId": 9328410,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Portrait of the Artist as a Young Man",
+    "sourceAuthors": [
+      "James Joyce"
+    ],
+    "sourceFingerprint": "a35780837188caeef59bc6a517e4211585661dfb3429a19c06cb3e6702a94869"
+  },
+  "2ce44a4243d181928330c82f58abeef8": {
+    "src": "https://covers.openlibrary.org/b/id/615649-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL51203W",
+    "alt": "Cover of A single man",
+    "matchTitle": "A single man",
+    "matchedAuthors": [
+      "Christopher Isherwood"
+    ],
+    "coverId": 615649,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A single man",
+    "sourceAuthors": [
+      "Christopher Isherwood"
+    ],
+    "sourceFingerprint": "664800e4ff275204bb9eac7363735c4cdb7699c9fc1e7bdf045a62f217f5c0a4"
+  },
+  "2ce44a4243d181298d08df3083971d4b": {
+    "src": "https://covers.openlibrary.org/b/id/11966638-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL25080263W",
+    "alt": "Cover of A Terrace in Rome",
+    "matchTitle": "A Terrace in Rome",
+    "matchedAuthors": [
+      "Pascal Quignard",
+      "Douglas Penick",
+      "Charles Ré"
+    ],
+    "coverId": 11966638,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A Terrace in Rome",
+    "sourceAuthors": [
+      "Pascal Quignard"
+    ],
+    "sourceFingerprint": "fbc7887b97bf7f88a8fbe242daf00e3f7be8819b3b86523c08b5b345ed56736e"
+  },
+  "2ce44a4243d181dca8d1ef958f508d4a": {
+    "src": "https://covers.openlibrary.org/b/id/10294341-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20922643W",
+    "alt": "Cover of A thousand ships",
+    "matchTitle": "A Thousand Ships",
+    "matchedAuthors": [
+      "Natalie Haynes"
+    ],
+    "coverId": 10294341,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "A thousand ships",
+    "sourceAuthors": [
+      "Natalie Haynes"
+    ],
+    "sourceFingerprint": "c62a8932c3ba0fb5ab6a291414adcabceb675c0855268fbcbd7b133e35d2dddc"
+  },
+  "2d344a4243d180e3a821f7072462fec8": {
+    "src": "https://covers.openlibrary.org/b/id/6642671-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL675834W",
+    "alt": "Cover of Alias Grace",
+    "matchTitle": "alias Grace",
+    "matchedAuthors": [
+      "Margaret Atwood"
+    ],
+    "coverId": 6642671,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Alias Grace",
+    "sourceAuthors": [
+      "Margaret Atwood"
+    ],
+    "sourceFingerprint": "f8f81c71c4b143908e239eee9f3906ea051db7db71660a4b73ec2d68f8171224"
+  },
+  "2ce44a4243d18178a9bafa08b00d544a": {
+    "src": "https://covers.openlibrary.org/b/id/3080557-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL498411W",
+    "alt": "Cover of Amerika",
+    "matchTitle": "Amerika",
+    "matchedAuthors": [
+      "Franz Kafka"
+    ],
+    "coverId": 3080557,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "Amerika",
+    "sourceAuthors": [
+      "Kafka"
+    ],
+    "sourceFingerprint": "b7896eb71900a0a233eed8deb4824436d44a97bac8a4ab8e06116d4a5a565da3"
+  },
+  "2ce44a4243d1816fbe23c7c1cec06f06": {
+    "src": "https://covers.openlibrary.org/b/id/6304233-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL14911626W",
+    "alt": "Cover of Anathem",
+    "matchTitle": "Anathem",
+    "matchedAuthors": [
+      "Neal Stephenson"
+    ],
+    "coverId": 6304233,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Anathem",
+    "sourceAuthors": [
+      "Neal Stephenson"
+    ],
+    "sourceFingerprint": "960a9ef497f171b7f6743bc1fe01169dfcf5da49fd092e920ed85ba379890f5e"
+  },
+  "2ce44a4243d1814299f6e8577de2cdea": {
+    "src": "https://covers.openlibrary.org/b/id/11261770-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1168007W",
+    "alt": "Cover of Animal Farm",
+    "matchTitle": "Animal Farm",
+    "matchedAuthors": [
+      "George Orwell"
+    ],
+    "coverId": 11261770,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Animal Farm",
+    "sourceAuthors": [
+      "George Orwell"
+    ],
+    "sourceFingerprint": "6beb4ba7325dabd483141dd7e6e2b823d8a7f83528786caef58c5bdc6ba1342e"
+  },
+  "2ce44a4243d1812b83d3d3dc0e365e1e": {
+    "src": "https://covers.openlibrary.org/b/id/12926724-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21125343W",
+    "alt": "Cover of Batman: The Killing Joke",
+    "matchTitle": "Batman Noir the Killing Joke",
+    "matchedAuthors": [
+      "Alan Moore",
+      "Brian Bolland"
+    ],
+    "coverId": 12926724,
+    "titleMatch": 0.8,
+    "authorMatch": 1,
+    "sourceTitle": "Batman: The Killing Joke",
+    "sourceAuthors": [
+      "Alan Moore"
+    ],
+    "sourceFingerprint": "5c8edc6586b5e68b0270adeacc34683b5e202e84198766c4bf41727a3cd17db4"
+  },
+  "2ce44a4243d18141a819e57b331d1fb3": {
+    "src": "https://covers.openlibrary.org/b/id/813816-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL8897717W",
+    "alt": "Cover of Battle Royale",
+    "matchTitle": "Battle royale",
+    "matchedAuthors": [
+      "Kōshun Takami",
+      "Masayuki Taguchi",
+      "Koushun Takami",
+      "Kashoun Takami",
+      "KOUSHUM TAKAMI",
+      "Koushum Takami"
+    ],
+    "coverId": 813816,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Battle Royale",
+    "sourceAuthors": [
+      "Koushun Takami"
+    ],
+    "sourceFingerprint": "b55569801f14e9b316a3a5cd8e17275b22fb309108bd96c926165859c5bc10cf"
+  },
+  "2ce44a4243d1816db0e9f132d14ba10c": {
+    "src": "https://covers.openlibrary.org/b/id/9681801-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16947216W",
+    "alt": "Cover of Beyond good and evil",
+    "matchTitle": "Beyond good and evil",
+    "matchedAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "coverId": 9681801,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Beyond good and evil",
+    "sourceAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "sourceFingerprint": "1af9bff1709a18d23026297b121c9a3b0ede7e150decea6513e347968a95c1ed"
+  },
+  "2ce44a4243d181c1b2efef606bda18ed": {
+    "src": "https://covers.openlibrary.org/b/id/11377399-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19976661W",
+    "alt": "Cover of Bird Box",
+    "matchTitle": "Bird box",
+    "matchedAuthors": [
+      "Josh Malerman"
+    ],
+    "coverId": 11377399,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Bird Box",
+    "sourceAuthors": [
+      "Josh Malerman"
+    ],
+    "sourceFingerprint": "664e9ae47b6a31352f95c93411949c504e47f0ba77acf12dced2251ee430b28a"
+  },
+  "2ce44a4243d181bc8b4fd2b46d18c439": {
+    "src": "https://covers.openlibrary.org/b/id/13055420-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20058636W",
+    "alt": "Cover of Bird in a Cage",
+    "matchTitle": "Bird in a cage",
+    "matchedAuthors": [
+      "Frédéric Dard"
+    ],
+    "coverId": 13055420,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Bird in a Cage",
+    "sourceAuthors": [
+      "Frédéric Dard"
+    ],
+    "sourceFingerprint": "da3689726b4dc29d7c69a2b400bac67df34aac763c6c13241949aa7140db05a4"
+  },
+  "2ce44a4243d181b0827fca0eed87990e": {
+    "src": "https://covers.openlibrary.org/b/id/9279273-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL14868510W",
+    "alt": "Cover of Bleak House",
+    "matchTitle": "Bleak House",
+    "matchedAuthors": [
+      "Charles Dickens"
+    ],
+    "coverId": 9279273,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Bleak House",
+    "sourceAuthors": [
+      "Charles Dickens"
+    ],
+    "sourceFingerprint": "4264c564f9cf69e549c898cb31f196e31fbb2b341106f4fd6149ca7324f55371"
+  },
+  "2ce44a4243d18132baf0d092c54298e2": {
+    "src": "https://covers.openlibrary.org/b/id/8044631-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17762236W",
+    "alt": "Cover of Borne",
+    "matchTitle": "Borne",
+    "matchedAuthors": [
+      "Jeff VanderMeer"
+    ],
+    "coverId": 8044631,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Borne",
+    "sourceAuthors": [
+      "Jeff VanderMeer"
+    ],
+    "sourceFingerprint": "be9efe89a96336f592af384cfc516d79185a756b08ebdefa47c910ad739d6159"
+  },
+  "2ce44a4243d181b2a689c713287e60da": {
+    "src": "https://covers.openlibrary.org/b/id/8231823-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL64365W",
+    "alt": "Cover of Brave new world",
+    "matchTitle": "Brave New World",
+    "matchedAuthors": [
+      "Aldous Huxley"
+    ],
+    "coverId": 8231823,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Brave new world",
+    "sourceAuthors": [
+      "Aldous Huxley"
+    ],
+    "sourceFingerprint": "cfb8d59c6512b8cf7ba10e45c9eca6dc98dff9f1ee019d67a6d4f5dcd266caef"
+  },
+  "38e44a4243d180f6abd6f0dba91feaab": {
+    "src": "https://covers.openlibrary.org/b/id/8302985-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL265677W",
+    "alt": "Cover of Brokeback Mountain",
+    "matchTitle": "Brokeback Mountain",
+    "matchedAuthors": [
+      "Annie Proulx"
+    ],
+    "coverId": 8302985,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Brokeback Mountain",
+    "sourceAuthors": [
+      "Annie Proulx"
+    ],
+    "sourceFingerprint": "cb0007490cde9bdd0201f82ff1fb40db1b3877fdc87a2e0980f8e765b457c1ee"
+  },
+  "2ce44a4243d181018604dfbb777acdb1": {
+    "src": "https://covers.openlibrary.org/b/id/8242212-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1066521W",
+    "alt": "Cover of Caesar and Cleopatra",
+    "matchTitle": "Caesar and Cleopatra",
+    "matchedAuthors": [
+      "George Bernard Shaw"
+    ],
+    "coverId": 8242212,
+    "titleMatch": 1,
+    "authorMatch": 0.67,
+    "sourceTitle": "Caesar and Cleopatra",
+    "sourceAuthors": [
+      "Bernard Shaw"
+    ],
+    "sourceFingerprint": "c9cac0a8c61482434f27a51c773b801c52151ba6f69200f5269d9882473685cc"
+  },
+  "2ce44a4243d181fc98e2d6351733f61f": {
+    "src": "https://covers.openlibrary.org/b/id/140808-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2747782W",
+    "alt": "Cover of Capitalism and Freedom",
+    "matchTitle": "Capitalism and freedom",
+    "matchedAuthors": [
+      "Milton Friedman"
+    ],
+    "coverId": 140808,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Capitalism and Freedom",
+    "sourceAuthors": [
+      "Milton Friedman"
+    ],
+    "sourceFingerprint": "e26e0297813fe2c575219b6e97b3283a452bed849eff25190ed79515a449f199"
+  },
+  "2ce44a4243d1817281a2d0b01bbaa94f": {
+    "src": "https://covers.openlibrary.org/b/id/6468653-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL276798W",
+    "alt": "Cover of Catch-22",
+    "matchTitle": "Catch-22",
+    "matchedAuthors": [
+      "Joseph Heller"
+    ],
+    "coverId": 6468653,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Catch-22",
+    "sourceAuthors": [
+      "Joseph Heller"
+    ],
+    "sourceFingerprint": "0b1a2c7f30d99cc3d096b4a10d3349a116da785dc29c09809c922234134c6405"
+  },
+  "2ce44a4243d18193a6b3eae5c341e262": {
+    "src": "https://covers.openlibrary.org/b/id/8264706-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17373843W",
+    "alt": "Cover of Children of Time",
+    "matchTitle": "Children of Time",
+    "matchedAuthors": [
+      "Adrian Tchaikovsky"
+    ],
+    "coverId": 8264706,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Children of Time",
+    "sourceAuthors": [
+      "Adrian Tchaikovsky"
+    ],
+    "sourceFingerprint": "d39240208ea272fca188e2baadae35d804db013e6c043f76f7b2b6b7b7f9d790"
+  },
+  "2ce44a4243d18135ae41ca16b6889df4": {
+    "src": "https://covers.openlibrary.org/b/id/10132618-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5730339W",
+    "alt": "Cover of City of Thieves",
+    "matchTitle": "City of thieves",
+    "matchedAuthors": [
+      "David Benioff"
+    ],
+    "coverId": 10132618,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "City of Thieves",
+    "sourceAuthors": [
+      "David Benioff"
+    ],
+    "sourceFingerprint": "63bc2bffa1f66b60db94b71d3e8e8030a9481891235db65ed6f975de7e1f2cf6"
+  },
+  "2ce44a4243d1813fbdeadfde74052ca2": {
+    "src": "https://covers.openlibrary.org/b/id/9375179-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20698933W",
+    "alt": "Cover of Colossus",
+    "matchTitle": "Colossus",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 9375179,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Colossus",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "8dcb8fa1a40cf96cc91a95c56768326948ccced2f86c35d4e705ebbeb677f5fe"
+  },
+  "2ce44a4243d181afbb89e51bd786a1fb": {
+    "src": "https://covers.openlibrary.org/b/id/9381913-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20704923W",
+    "alt": "Cover of Computational Musicology in Hindustani Music",
+    "matchTitle": "Computational Musicology in Hindustani Music",
+    "matchedAuthors": [
+      "Soubhik Chakraborty",
+      "Guerino Mazzola",
+      "Swarima Tewari",
+      "Moujhuri Patra"
+    ],
+    "coverId": 9381913,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Computational Musicology in Hindustani Music",
+    "sourceAuthors": [
+      "Guerino Mazzola"
+    ],
+    "sourceFingerprint": "b07606edb7107aff9ce5d2cc064004a5ccaa575c081a1b77cf14bfc42c3c12a6"
+  },
+  "2ce44a4243d181c0b95efd831c1284a4": {
+    "src": "https://covers.openlibrary.org/b/id/9409273-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20725047W",
+    "alt": "Cover of Cool math for hot music",
+    "matchTitle": "Cool Math for Hot Music",
+    "matchedAuthors": [
+      "Guerino Mazzola",
+      "Maria Mannone",
+      "Yan Pang"
+    ],
+    "coverId": 9409273,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Cool math for hot music",
+    "sourceAuthors": [
+      "Guerino Mazzola"
+    ],
+    "sourceFingerprint": "bf0dbe9e979fa4d0911912877ea91f78ac984d23d8c59aa4eedacc1eadc97cfc"
+  },
+  "2ce44a4243d1817c9ec4cb04e4ac454b": {
+    "src": "https://covers.openlibrary.org/b/id/14896145-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL43040968W",
+    "alt": "Cover of Darkness at Noon",
+    "matchTitle": "darkness at noon ",
+    "matchedAuthors": [
+      "arthur koestler "
+    ],
+    "coverId": 14896145,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Darkness at Noon",
+    "sourceAuthors": [
+      "Arthur Koestler"
+    ],
+    "sourceFingerprint": "a9487b8ba1660827bea6e0b53edfff41b168d636d79cabcc74a14363be1dcf33"
+  },
+  "2ce44a4243d181e48a5fe3fe0457b18d": {
+    "src": "https://covers.openlibrary.org/b/id/8291542-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL103132W",
+    "alt": "Cover of Death Is a Lonely Business",
+    "matchTitle": "Death is a lonely business",
+    "matchedAuthors": [
+      "Ray Bradbury"
+    ],
+    "coverId": 8291542,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Death Is a Lonely Business",
+    "sourceAuthors": [
+      "Ray Bradbury"
+    ],
+    "sourceFingerprint": "5dc63b964433c9903435c3c084ae961679900618212680cd0e7e728a7d903560"
+  },
+  "2ce44a4243d181069dfcce41e1062685": {
+    "src": "https://covers.openlibrary.org/b/id/14012605-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL7924467W",
+    "alt": "Cover of Don’t look now and other stories",
+    "matchTitle": "Don't Look Now and Other Stories",
+    "matchedAuthors": [
+      "Daphne du Maurier"
+    ],
+    "coverId": 14012605,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Don’t look now and other stories",
+    "sourceAuthors": [
+      "Daphne du Maurier"
+    ],
+    "sourceFingerprint": "ade8b110158a4fe20f0e0045a7035b68701cc6b9a184a00e989fee168dfa55f9"
+  },
+  "2ce44a4243d18164a6c2c197d59581fb": {
+    "src": "https://covers.openlibrary.org/b/id/5539329-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1168030W",
+    "alt": "Cover of Down and Out in Paris and London",
+    "matchTitle": "Down and Out in Paris and London",
+    "matchedAuthors": [
+      "George Orwell"
+    ],
+    "coverId": 5539329,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Down and Out in Paris and London",
+    "sourceAuthors": [
+      "George Orwell"
+    ],
+    "sourceFingerprint": "5795ade321002cb78510cd12f2ae431f2ebd6b58954848d4f89ac99bd0c2abca"
+  },
+  "2ce44a4243d1819b93f7e5b055b1f1ee": {
+    "src": "https://covers.openlibrary.org/b/id/12451273-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL26434771W",
+    "alt": "Cover of East India",
+    "matchTitle": "East India",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 12451273,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "East India",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "1fe2d4dd9c5b735901cc3e72927aaf0d788da582a59b09d9fd0f0c40afe54b6a"
+  },
+  "2ce44a4243d1818183d3cc81df831705": {
+    "src": "https://covers.openlibrary.org/b/id/833334-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2721629W",
+    "alt": "Cover of Economical Writing",
+    "matchTitle": "Economical writing",
+    "matchedAuthors": [
+      "Deirdre N. McCloskey"
+    ],
+    "coverId": 833334,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "Economical Writing",
+    "sourceAuthors": [
+      "Deirdre Nansen McCloskey"
+    ],
+    "sourceFingerprint": "7d9e92e8e94a24dcb1093d581b649300f29fb98656ace4ff479215b68e600d3f"
+  },
+  "2ce44a4243d1818e94f2c7c4dc571557": {
+    "src": "https://covers.openlibrary.org/b/id/8358336-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL18399271W",
+    "alt": "Cover of Em and the Big Hoom",
+    "matchTitle": "Em and the Big Hoom",
+    "matchedAuthors": [
+      "Jerry Pinto"
+    ],
+    "coverId": 8358336,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Em and the Big Hoom",
+    "sourceAuthors": [
+      "Jerry Pinto"
+    ],
+    "sourceFingerprint": "ea5815f9a0a70dbe3ab4b29a5833497bd6482ac44c5831820f959ba562e7254c"
+  },
+  "2ce44a4243d181d59ff2c56170edd321": {
+    "src": "https://covers.openlibrary.org/b/id/8358336-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL18399271W",
+    "alt": "Cover of Em and the Big Hoom",
+    "matchTitle": "Em and the Big Hoom",
+    "matchedAuthors": [
+      "Jerry Pinto"
+    ],
+    "coverId": 8358336,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Em and the Big Hoom",
+    "sourceAuthors": [
+      "Jerry Pinto"
+    ],
+    "sourceFingerprint": "ea5815f9a0a70dbe3ab4b29a5833497bd6482ac44c5831820f959ba562e7254c"
+  },
+  "2ce44a4243d1813b89b1ea96902fe3ad": {
+    "src": "https://covers.openlibrary.org/b/id/14067560-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL35087018W",
+    "alt": "Cover of Every Man Dies Alone",
+    "matchTitle": "Every Man Dies Alone",
+    "matchedAuthors": [
+      "Hans Fallada"
+    ],
+    "coverId": 14067560,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Every Man Dies Alone",
+    "sourceAuthors": [
+      "Hans Fallada"
+    ],
+    "sourceFingerprint": "d8fe363ed150844ba1aedf237f9ac0a28a7ca160f28209632addf37d8e244ae8"
+  },
+  "2ce44a4243d181f79aa2c5fcb259173b": {
+    "src": "https://covers.openlibrary.org/b/id/8814605-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20055677W",
+    "alt": "Cover of Everybody lies",
+    "matchTitle": "Everybody lies",
+    "matchedAuthors": [
+      "Seth Stephens-Davidowitz"
+    ],
+    "coverId": 8814605,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Everybody lies",
+    "sourceAuthors": [
+      "Seth Stephens-Davidowitz"
+    ],
+    "sourceFingerprint": "93ea5bfe77d433285ad9989354627b93bd41b4a928df80f74ae536d412e51c6e"
+  },
+  "2ce44a4243d181d4a6e4fee3f49faaf0": {
+    "src": "https://covers.openlibrary.org/b/id/12993656-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL103123W",
+    "alt": "Cover of Fahrenheit 451",
+    "matchTitle": "Fahrenheit 451",
+    "matchedAuthors": [
+      "Ray Bradbury"
+    ],
+    "coverId": 12993656,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Fahrenheit 451",
+    "sourceAuthors": [
+      "Ray Bradbury"
+    ],
+    "sourceFingerprint": "181a8677bef416da3f04274e96903553cd2a23d957c05190cf7cb99c46291063"
+  },
+  "2ce44a4243d1816bbdbac7477b1e68d2": {
+    "src": "https://covers.openlibrary.org/b/id/15265308-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL37762375W",
+    "alt": "Cover of Fall of Civilizations",
+    "matchTitle": "Fall of Civilizations",
+    "matchedAuthors": [
+      "Paul Cooper"
+    ],
+    "coverId": 15265308,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Fall of Civilizations",
+    "sourceAuthors": [],
+    "sourceFingerprint": "2cc931ad3d7433b4e2b1749101e502ef031bb7720492969e7c9c796df5b007f1"
+  },
+  "2ce44a4243d181b4b7b6ddc4553a4f43": {
+    "src": "https://covers.openlibrary.org/b/id/6693688-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL894071W",
+    "alt": "Cover of Fatherland",
+    "matchTitle": "Fatherland",
+    "matchedAuthors": [
+      "Robert Harris"
+    ],
+    "coverId": 6693688,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Fatherland",
+    "sourceAuthors": [
+      "Robert Harris"
+    ],
+    "sourceFingerprint": "b229277becf2fa0025ecfab6c1599955eaf68ec1d0949d36ed21c30e9927c0b4"
+  },
+  "2ce44a4243d181599849cb9d55beaaf7": {
+    "src": "https://covers.openlibrary.org/b/id/13236887-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL28645904W",
+    "alt": "Cover of First Love",
+    "matchTitle": "First Love",
+    "matchedAuthors": [
+      "Ivan Sergeevich Turgenev",
+      "Mary Albon"
+    ],
+    "coverId": 13236887,
+    "titleMatch": 1,
+    "authorMatch": 0.67,
+    "sourceTitle": "First Love",
+    "sourceAuthors": [
+      "Ivan Turgenev"
+    ],
+    "sourceFingerprint": "e271f3e2a81ba3873a15b721c52fefb4fc49ebc19e8191963ab605ed42d101f3"
+  },
+  "2ce44a4243d181c0b67deb6724d247da": {
+    "src": "https://covers.openlibrary.org/b/id/15266215-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL26860869W",
+    "alt": "Cover of Frankenstein",
+    "matchTitle": "Frankenstein",
+    "matchedAuthors": [
+      "Mary Shelley"
+    ],
+    "coverId": 15266215,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Frankenstein",
+    "sourceAuthors": [
+      "Mary Shelley"
+    ],
+    "sourceFingerprint": "42da4a4fd48a430c3e820d77f3266a430dd583804b54113892fe153bacf4e380"
+  },
+  "2ce44a4243d1810a8b67f4046ea7eafd": {
+    "src": "https://covers.openlibrary.org/b/id/12145090-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL26178449W",
+    "alt": "Cover of Funny Boy",
+    "matchTitle": "Funny boy",
+    "matchedAuthors": [
+      "Shyam Selvadurai"
+    ],
+    "coverId": 12145090,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Funny Boy",
+    "sourceAuthors": [
+      "Shyam Selvadurai"
+    ],
+    "sourceFingerprint": "e194d744b5a8993392dddd90704bce065ea098d689d54cdeabda9cd1cca74f8a"
+  },
+  "2ce44a4243d181499f0aec343eb24010": {
+    "src": "https://covers.openlibrary.org/b/id/8281189-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1593567W",
+    "alt": "Cover of Games People Play",
+    "matchTitle": "Games People Play",
+    "matchedAuthors": [
+      "Eric Berne"
+    ],
+    "coverId": 8281189,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Games People Play",
+    "sourceAuthors": [
+      "Eric Berne"
+    ],
+    "sourceFingerprint": "2eeda9f3caf0100623a4bc576a7cee402e10e6097173e6b37e0d21adb74a8a6f"
+  },
+  "2ce44a4243d181aeb480ff6eb6807ef5": {
+    "src": "https://covers.openlibrary.org/b/id/97395-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL228702W",
+    "alt": "Cover of Giovanni's Room",
+    "matchTitle": "Giovanni's Room",
+    "matchedAuthors": [
+      "James Baldwin"
+    ],
+    "coverId": 97395,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Giovanni's Room",
+    "sourceAuthors": [
+      "James Baldwin"
+    ],
+    "sourceFingerprint": "1a7201890288dc2c096c9f38f28ecb091b1092617b52735b0f99a0b0669c2b5a"
+  },
+  "2ce44a4243d181db82f4dcfed9ab6c04": {
+    "src": "https://covers.openlibrary.org/b/id/9388966-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17047576W",
+    "alt": "Cover of Godaan",
+    "matchTitle": "Godaan",
+    "matchedAuthors": [
+      "Munshi Premchand"
+    ],
+    "coverId": 9388966,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Godaan",
+    "sourceAuthors": [
+      "Munshi Premchand"
+    ],
+    "sourceFingerprint": "cbcc9420387c6badb4e6ea61ba53bb713a9f35d1039451741d53144ef2353a46"
+  },
+  "2ce44a4243d1811292fee1e10fdcd354": {
+    "src": "https://covers.openlibrary.org/b/id/4622253-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5567662W",
+    "alt": "Cover of Gödel’s proof",
+    "matchTitle": "Gödel's proof",
+    "matchedAuthors": [
+      "Ernest Nagel",
+      "James Roy Newman"
+    ],
+    "coverId": 4622253,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Gödel’s proof",
+    "sourceAuthors": [
+      "Ernest Nagel",
+      "James R. Newman"
+    ],
+    "sourceFingerprint": "e20793d591b77313a70940b12d30f97a1555ea5833d314bd9efd01e8e746d4c8"
+  },
+  "2ce44a4243d181bda39ae83672a32f09": {
+    "src": "https://covers.openlibrary.org/b/id/8368314-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16239762W",
+    "alt": "Cover of Gone Girl",
+    "matchTitle": "Gone Girl",
+    "matchedAuthors": [
+      "Gillian Flynn"
+    ],
+    "coverId": 8368314,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Gone Girl",
+    "sourceAuthors": [
+      "Gillian Flynn"
+    ],
+    "sourceFingerprint": "9ec2cdbae63df3fba9fbed99885f21cd5de30858cb4d21a821df4341f2e29cb5"
+  },
+  "2ce44a4243d181f18c0fdbe977fe0034": {
+    "src": "https://covers.openlibrary.org/b/id/12717083-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20600W",
+    "alt": "Cover of Gulliver’s Travels",
+    "matchTitle": "Gulliver's Travels",
+    "matchedAuthors": [
+      "Jonathan Swift"
+    ],
+    "coverId": 12717083,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Gulliver’s Travels",
+    "sourceAuthors": [
+      "Jonathan Swift"
+    ],
+    "sourceFingerprint": "4dee70b50e57e5e66d26ba8b6a3f07ed22805611ebe2f8134fe780f687a7b7eb"
+  },
+  "2ce44a4243d18113b6b9c31c5b8792e6": {
+    "src": "https://covers.openlibrary.org/b/id/9069455-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL4334042W",
+    "alt": "Cover of Harem",
+    "matchTitle": "Harem",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 9069455,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Harem",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "54a5526543bcc79e841a1d91324395f825c6f66ff3d9c84d9e60879204396967"
+  },
+  "2ce44a4243d181c3a875d4458a778b37": {
+    "src": "https://covers.openlibrary.org/b/id/11140844-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL24513723W",
+    "alt": "Cover of Helgoland",
+    "matchTitle": "Helgoland",
+    "matchedAuthors": [
+      "Carlo Rovelli"
+    ],
+    "coverId": 11140844,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Helgoland",
+    "sourceAuthors": [
+      "Carlo Rovelli"
+    ],
+    "sourceFingerprint": "98d700c26b5bf87c81a398e8d25dff29642ce815983f448014fb8ff155c421ee"
+  },
+  "2ce44a4243d181be9bc9ef46cb2cd0b7": {
+    "src": "https://covers.openlibrary.org/b/id/12986869-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2163649W",
+    "alt": "Cover of Hitchhiker’s guide to the galaxy",
+    "matchTitle": "The Hitchhiker's Guide to the Galaxy",
+    "matchedAuthors": [
+      "Douglas Adams"
+    ],
+    "coverId": 12986869,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Hitchhiker’s guide to the galaxy",
+    "sourceAuthors": [
+      "Douglas Adams"
+    ],
+    "sourceFingerprint": "7cfbf22087f6c5ca06204ea5a1797d9baa462c6b9f6a5e3c8741a9aaa6521711"
+  },
+  "2ce44a4243d181579709d473e90b7717": {
+    "src": "https://covers.openlibrary.org/b/id/7282177-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1168169W",
+    "alt": "Cover of Homage to Catalonia",
+    "matchTitle": "Homage to Catalonia",
+    "matchedAuthors": [
+      "George Orwell",
+      "Jaron Murphy",
+      "ORWELL"
+    ],
+    "coverId": 7282177,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Homage to Catalonia",
+    "sourceAuthors": [
+      "George Orwell"
+    ],
+    "sourceFingerprint": "e80f5886dab5eff10a52bba3dd719d804848c9c9c68b94512d8e4bd8270a55f4"
+  },
+  "2ce44a4243d1814fb420cd2db33f6265": {
+    "src": "https://covers.openlibrary.org/b/id/8035348-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15998774W",
+    "alt": "Cover of Home fires",
+    "matchTitle": "Home fires",
+    "matchedAuthors": [
+      "Gene Wolfe"
+    ],
+    "coverId": 8035348,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Home fires",
+    "sourceAuthors": [
+      "Gene Wolfe"
+    ],
+    "sourceFingerprint": "f629aaa3fe2e2a50dd530aaa216cddda3d70be9302c73256f645f9d39a590461"
+  },
+  "2ce44a4243d181f290d6edcb0af29743": {
+    "src": "https://covers.openlibrary.org/b/id/13694857-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21134387W",
+    "alt": "Cover of How China escaped the poverty trap",
+    "matchTitle": "How China Escaped the Poverty Trap",
+    "matchedAuthors": [
+      "Yuen Yuen Ang"
+    ],
+    "coverId": 13694857,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "How China escaped the poverty trap",
+    "sourceAuthors": [
+      "Yuen Yuen Ang"
+    ],
+    "sourceFingerprint": "08a94827dc9e60899f3c1fbaa8ebac0c0fb4a776d22b4082e7f8ab91b9542336"
+  },
+  "2d344a4243d1803fa986c64c01399b98": {
+    "src": "https://covers.openlibrary.org/b/id/14634050-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL37771558W",
+    "alt": "Cover of Hunger",
+    "matchTitle": "Hunger",
+    "matchedAuthors": [
+      "Knut Hamsun"
+    ],
+    "coverId": 14634050,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Hunger",
+    "sourceAuthors": [
+      "Knut Hamsun"
+    ],
+    "sourceFingerprint": "7524155841a03c014aa5055866125a1459806a0c9cef3a71f479c1c4d29b8f00"
+  },
+  "2ce44a4243d181aba615d0654f58621f": {
+    "src": "https://covers.openlibrary.org/b/id/10333804-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21034566W",
+    "alt": "Cover of Into the war",
+    "matchTitle": "Into the War",
+    "matchedAuthors": [
+      "Italo Calvino",
+      "Martin McLaughlin"
+    ],
+    "coverId": 10333804,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Into the war",
+    "sourceAuthors": [
+      "Italo Calvino"
+    ],
+    "sourceFingerprint": "e5d15eb83aa2bdbb33eae2ee918a70ce99a1ae70b4326f9b10e1958ef9718239"
+  },
+  "2ce44a4243d18179af73e2c48e77a0da": {
+    "src": "https://covers.openlibrary.org/b/id/12719018-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL51145W",
+    "alt": "Cover of It Can’t happen here",
+    "matchTitle": "It Can't Happen Here",
+    "matchedAuthors": [
+      "Sinclair Lewis"
+    ],
+    "coverId": 12719018,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "It Can’t happen here",
+    "sourceAuthors": [
+      "Sinclair Lewis"
+    ],
+    "sourceFingerprint": "e625f375625abfab35a3a6c0befaf59c7250afe89164b4524e1c57f76acdf970"
+  },
+  "2ce44a4243d1814392befd8fae39a058": {
+    "src": "https://covers.openlibrary.org/b/id/8765960-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL36632W",
+    "alt": "Cover of Jamaica Inn",
+    "matchTitle": "Jamaica Inn",
+    "matchedAuthors": [
+      "Daphne du Maurier",
+      "Daphne du Maurier"
+    ],
+    "coverId": 8765960,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Jamaica Inn",
+    "sourceAuthors": [
+      "Daphne du Maurier"
+    ],
+    "sourceFingerprint": "84fc250bab4fe8df69e6126726a9004e2e9817d4ff6627ad5becc7eabebd3a0d"
+  },
+  "2ce44a4243d181618182fccf3348213d": {
+    "src": "https://covers.openlibrary.org/b/id/13055479-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL498549W",
+    "alt": "Cover of Judgement",
+    "matchTitle": "The judgement",
+    "matchedAuthors": [
+      "Franz Kafka"
+    ],
+    "coverId": 13055479,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "Judgement",
+    "sourceAuthors": [
+      "Kafka"
+    ],
+    "sourceFingerprint": "ebbeffd62708ea189eac3eb8e18f647060bc5a8cfc24d1d7dfc17981d769f09c"
+  },
+  "2ce44a4243d181f8b403e7620c3b002e": {
+    "src": "https://covers.openlibrary.org/b/id/158600-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1265023W",
+    "alt": "Cover of Kallocain",
+    "matchTitle": "Kallocain",
+    "matchedAuthors": [
+      "Karin Boye"
+    ],
+    "coverId": 158600,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Kallocain",
+    "sourceAuthors": [
+      "Karin Boye"
+    ],
+    "sourceFingerprint": "47d524acbd471ccb53fa02d30dd3a96400aa1fe82c1b23e71c97e6f9cafc96bd"
+  },
+  "2ce44a4243d181cd99d1fbdc11e65c04": {
+    "src": "https://covers.openlibrary.org/b/id/8944947-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20286845W",
+    "alt": "Cover of Kasyan from the Beautiful Lands",
+    "matchTitle": "Kasyan from the Beautiful Lands",
+    "matchedAuthors": [
+      "Ivan Sergeevich Turgenev"
+    ],
+    "coverId": 8944947,
+    "titleMatch": 1,
+    "authorMatch": 0.67,
+    "sourceTitle": "Kasyan from the Beautiful Lands",
+    "sourceAuthors": [
+      "Ivan Turgenev"
+    ],
+    "sourceFingerprint": "8257677f0e1f15d72aff1e405e9ae34a1842e79e0e67e8713f320416a9e6cc70"
+  },
+  "2ce44a4243d181a5b903d4eba5e16edf": {
+    "src": "https://covers.openlibrary.org/b/id/10831408-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL110959W",
+    "alt": "Cover of Labyrinths",
+    "matchTitle": "Labyrinths",
+    "matchedAuthors": [
+      "Jorge Luis Borges"
+    ],
+    "coverId": 10831408,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Labyrinths",
+    "sourceAuthors": [
+      "Jorge Luis Borges"
+    ],
+    "sourceFingerprint": "3ae76a46191a9b027ebd5b7c80e65d6d5af0c035db6162cc1543b6a561c6ea6c"
+  },
+  "2ce44a4243d18138b3fcf2ff2dcaad5a": {
+    "src": "https://covers.openlibrary.org/b/id/8221217-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL103182W",
+    "alt": "Cover of Let's All Kill Constance",
+    "matchTitle": "Let's All Kill Constance",
+    "matchedAuthors": [
+      "Ray Bradbury"
+    ],
+    "coverId": 8221217,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Let's All Kill Constance",
+    "sourceAuthors": [
+      "Ray Bradbury"
+    ],
+    "sourceFingerprint": "37599728805df1c524bb62c03be31d51e856f41475deb21b5729d79f2147b468"
+  },
+  "2ce44a4243d181a392dedf485179eaf5": {
+    "src": "https://covers.openlibrary.org/b/id/15007101-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL33111751W",
+    "alt": "Cover of Little novels of Sicily",
+    "matchTitle": "Little novels of Sicily",
+    "matchedAuthors": [
+      "Giovanni Verga"
+    ],
+    "coverId": 15007101,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Little novels of Sicily",
+    "sourceAuthors": [
+      "Giovanni Verga"
+    ],
+    "sourceFingerprint": "118a4eb99b218bce30e13c9653256d81423c4c51858a2c597e4f03790af06aaf"
+  },
+  "2ce44a4243d181c1a84df2ace530b073": {
+    "src": "https://covers.openlibrary.org/b/id/8684447-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL455327W",
+    "alt": "Cover of Lord of the Flies",
+    "matchTitle": "Lord of the Flies",
+    "matchedAuthors": [
+      "William Golding"
+    ],
+    "coverId": 8684447,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Lord of the Flies",
+    "sourceAuthors": [
+      "William Golding"
+    ],
+    "sourceFingerprint": "e26cc1ace6925462ce90f3c3e68be35342bbd0a6c08ce56f0953c9412d38ffe0"
+  },
+  "2ce44a4243d181bca9fbdb00b2de0290": {
+    "src": "https://covers.openlibrary.org/b/id/6617761-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL112003W",
+    "alt": "Cover of Lust for Life",
+    "matchTitle": "Lust for Life",
+    "matchedAuthors": [
+      "Irving Stone"
+    ],
+    "coverId": 6617761,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Lust for Life",
+    "sourceAuthors": [
+      "Irving Stone"
+    ],
+    "sourceFingerprint": "7baa48c51477e2be0a19c8127971445c19f83e0fd14db1d7dd7911c6ecfd4410"
+  },
+  "2ce44a4243d181ccaf6dc7128e343277": {
+    "src": "https://covers.openlibrary.org/b/id/6280337-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL36901652W",
+    "alt": "Cover of MAUS",
+    "matchTitle": "Maus",
+    "matchedAuthors": [
+      "Art Spiegelman"
+    ],
+    "coverId": 6280337,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "MAUS",
+    "sourceAuthors": [
+      "Art Spiegelman"
+    ],
+    "sourceFingerprint": "04ec8f9eb820f8cbd02127d0ed564b4becb594232d4465cc327daa5a57cc2eb1"
+  },
+  "2ce44a4243d18166ba8ae1b74f7a2508": {
+    "src": "https://covers.openlibrary.org/b/id/868800-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2291675W",
+    "alt": "Cover of Morituri",
+    "matchTitle": "Morituri",
+    "matchedAuthors": [
+      "Yasmina Khadra"
+    ],
+    "coverId": 868800,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Morituri",
+    "sourceAuthors": [
+      "Yasmina Khadra"
+    ],
+    "sourceFingerprint": "1d7fa703f4ccc3f74a8388b1c4e3aebb95d2e1c4fa9f07731c7b0963657a2042"
+  },
+  "2ce44a4243d181cbaf4ae4cef1a44f05": {
+    "src": "https://covers.openlibrary.org/b/id/9354805-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20682885W",
+    "alt": "Cover of Musical creativity",
+    "matchTitle": "Musical Creativity",
+    "matchedAuthors": [
+      "Guerino Mazzola",
+      "Joomi Park",
+      "Florian Thalmann"
+    ],
+    "coverId": 9354805,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Musical creativity",
+    "sourceAuthors": [
+      "Guerino Mazzola"
+    ],
+    "sourceFingerprint": "c1f545b3f26b604471ccbe53edaae87f662e3d8dc4a4630ad7a3a8923bbd69aa"
+  },
+  "2ce44a4243d181ff9a26c36cf7383c43": {
+    "src": "https://covers.openlibrary.org/b/id/9723648-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17295076W",
+    "alt": "Cover of My Grandmother Asked Me to Tell You She's Sorry",
+    "matchTitle": "My Grandmother Asked Me to Tell You She's Sorry",
+    "matchedAuthors": [
+      "Fredrik Backman"
+    ],
+    "coverId": 9723648,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "My Grandmother Asked Me to Tell You She's Sorry",
+    "sourceAuthors": [
+      "Fredrik Backman"
+    ],
+    "sourceFingerprint": "24633cc03d1d307e5e680f5072d6c8ecc8a5baa45af69a7a08fb80dd4f9aed7f"
+  },
+  "2f444a4243d18014981cc757781e30b2": {
+    "src": "https://covers.openlibrary.org/b/id/14691513-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL29962187W",
+    "alt": "Cover of Mystery of the yellow room",
+    "matchTitle": "Mystery of the Yellow Room",
+    "matchedAuthors": [
+      "Gaston Leroux"
+    ],
+    "coverId": 14691513,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Mystery of the yellow room",
+    "sourceAuthors": [
+      "Gaston Leroux"
+    ],
+    "sourceFingerprint": "3acb4e71ee8e2b9043b2ee84b7c022bcb4ccccf3eeaa1fddd93f4a8ff5805cdd"
+  },
+  "2ce44a4243d181749268ec67c860815d": {
+    "src": "https://covers.openlibrary.org/b/id/1047334-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL59038W",
+    "alt": "Cover of Never Let Me Go",
+    "matchTitle": "Never Let Me Go",
+    "matchedAuthors": [
+      "Kazuo Ishiguro"
+    ],
+    "coverId": 1047334,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Never Let Me Go",
+    "sourceAuthors": [
+      "Kazuo Ishiguro"
+    ],
+    "sourceFingerprint": "69b9bb7761b0ab5d7329655ab0ffc3082066ba30a29ddb1a7e78f4c04d7a98ce"
+  },
+  "2ce44a4243d1810f8d1afbedb07c6357": {
+    "src": "https://covers.openlibrary.org/b/id/9267242-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1168083W",
+    "alt": "Cover of Nineteen Eighty-Four",
+    "matchTitle": "Nineteen Eighty-Four",
+    "matchedAuthors": [
+      "George Orwell"
+    ],
+    "coverId": 9267242,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Nineteen Eighty-Four",
+    "sourceAuthors": [
+      "George Orwell"
+    ],
+    "sourceFingerprint": "6fcb59efcf88f2beac1748da37767f5087662f2949e95fea1c2ff3de23a28567"
+  },
+  "2ce44a4243d181cc9346f42512043b7b": {
+    "src": "https://covers.openlibrary.org/b/id/9296899-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL40875W",
+    "alt": "Cover of No Country for Old Men",
+    "matchTitle": "No Country for Old Men",
+    "matchedAuthors": [
+      "Cormac McCarthy"
+    ],
+    "coverId": 9296899,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "No Country for Old Men",
+    "sourceAuthors": [
+      "Cormac McCarthy"
+    ],
+    "sourceFingerprint": "a082ccc863f00b39cd7e9f35da112b9316e049e34e916dbc704a88328ae3b36f"
+  },
+  "2ce44a4243d181348726fe18da1e2a26": {
+    "src": "https://covers.openlibrary.org/b/id/9320557-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2838607W",
+    "alt": "Cover of No Orchids for Miss Blandish",
+    "matchTitle": "No Orchids for Miss Blandish",
+    "matchedAuthors": [
+      "James Hadley Chase"
+    ],
+    "coverId": 9320557,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "No Orchids for Miss Blandish",
+    "sourceAuthors": [
+      "James Hadley Chase"
+    ],
+    "sourceFingerprint": "baffbad7acfe58a7844967c095fbd27bd3eca314b1a21b2bec33ee259fbca427"
+  },
+  "2ce44a4243d18167ac9edddabd9ef847": {
+    "src": "https://covers.openlibrary.org/b/id/12567961-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL66534W",
+    "alt": "Cover of Northanger Abbey",
+    "matchTitle": "Northanger Abbey",
+    "matchedAuthors": [
+      "Jane Austen"
+    ],
+    "coverId": 12567961,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Northanger Abbey",
+    "sourceAuthors": [
+      "Jane Austen"
+    ],
+    "sourceFingerprint": "9f3f3a273d20038dc552d1da9a56bb214165517844e88b90405adc12861a09f0"
+  },
+  "2ce44a4243d181a384fae24c3fde1fbe": {
+    "src": "https://covers.openlibrary.org/b/id/14319003-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL23204W",
+    "alt": "Cover of Of mice and men",
+    "matchTitle": "Of Mice and Men",
+    "matchedAuthors": [
+      "John Steinbeck"
+    ],
+    "coverId": 14319003,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Of mice and men",
+    "sourceAuthors": [
+      "John Steinbeck"
+    ],
+    "sourceFingerprint": "7bad7c7f8cddb4a7af7314c441b3678c0e05195231694a48fdff09b48753e383"
+  },
+  "2ce44a4243d181dcb492dfbadf87b2c4": {
+    "src": "https://covers.openlibrary.org/b/id/15185412-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL43108828W",
+    "alt": "Cover of One Hundred Years of Solitude",
+    "matchTitle": "One Hundred Years of Solitude",
+    "matchedAuthors": [
+      "Gabriel Garcia Marquez"
+    ],
+    "coverId": 15185412,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "One Hundred Years of Solitude",
+    "sourceAuthors": [
+      "Gabriel García Márquez"
+    ],
+    "sourceFingerprint": "d85766c4a17b2453fbdbcc2dbb237ca250458deba544e54845f630ce33b1334d"
+  },
+  "2ce44a4243d181908deddaa058da17f7": {
+    "src": "https://covers.openlibrary.org/b/id/12507658-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL675722W",
+    "alt": "Cover of Oryx and Crake",
+    "matchTitle": "Oryx and Crake",
+    "matchedAuthors": [
+      "Margaret Atwood"
+    ],
+    "coverId": 12507658,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Oryx and Crake",
+    "sourceAuthors": [
+      "Margaret Atwood"
+    ],
+    "sourceFingerprint": "3f233952b07a1e3e3586901932a0a242a973b624b9276253a8196cc2ad5b1915"
+  },
+  "2ce44a4243d1811c93f7c91ae5e54415": {
+    "src": "https://covers.openlibrary.org/b/id/791627-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5876901W",
+    "alt": "Cover of Palestine",
+    "matchTitle": "Palestine",
+    "matchedAuthors": [
+      "Joe Sacco"
+    ],
+    "coverId": 791627,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Palestine",
+    "sourceAuthors": [
+      "Joe Sacco"
+    ],
+    "sourceFingerprint": "093253f11efb7b4dc6bccacff19344a594a9559d0f77aede1185115ef33f74ee"
+  },
+  "2ce44a4243d18159bd61d564839b4e77": {
+    "src": "https://covers.openlibrary.org/b/id/10466266-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL35623W",
+    "alt": "Cover of Parable of the Sower",
+    "matchTitle": "Parable of the Sower",
+    "matchedAuthors": [
+      "Octavia E. Butler"
+    ],
+    "coverId": 10466266,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Parable of the Sower",
+    "sourceAuthors": [
+      "Octavia E. Butler"
+    ],
+    "sourceFingerprint": "dfbf33f0e27cd5ade22f7a562890d9f2ed34d0f7ce6d366fe8bc7b5ac0064399"
+  },
+  "2ce44a4243d1812094eacad6c024a9b3": {
+    "src": "https://covers.openlibrary.org/b/id/12015500-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL81631W",
+    "alt": "Cover of Pet Sematary",
+    "matchTitle": "Pet Sematary",
+    "matchedAuthors": [
+      "Stephen King"
+    ],
+    "coverId": 12015500,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Pet Sematary",
+    "sourceAuthors": [
+      "Stephen King"
+    ],
+    "sourceFingerprint": "e1f898f67af3fafc56e1f8fca36a32d34a9818d785ca7b55e583295f78de033b"
+  },
+  "2ce44a4243d18140bd26d07ffeb46bdd": {
+    "src": "https://covers.openlibrary.org/b/id/10501027-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL22837499W",
+    "alt": "Cover of Pinjar",
+    "matchTitle": "Pinjar",
+    "matchedAuthors": [
+      "Amrita Pritam"
+    ],
+    "coverId": 10501027,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Pinjar",
+    "sourceAuthors": [
+      "Amrita Pritam"
+    ],
+    "sourceFingerprint": "3ec91e4d7d9be34f08d572155e90131953b3fdc77ac9442ec62ef63815fb275c"
+  },
+  "2ce44a4243d181f1a989ea5e2342feeb": {
+    "src": "https://covers.openlibrary.org/b/id/136646-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2747781W",
+    "alt": "Cover of Price Theory",
+    "matchTitle": "Price theory",
+    "matchedAuthors": [
+      "Milton Friedman"
+    ],
+    "coverId": 136646,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Price Theory",
+    "sourceAuthors": [
+      "Milton Friedman"
+    ],
+    "sourceFingerprint": "9748781afa171e61ae951215a0660fe2c9971429a7f07de851710323cee94a3e"
+  },
+  "2ce44a4243d181cb9f46e855d51d699c": {
+    "src": "https://covers.openlibrary.org/b/id/11149763-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL24520007W",
+    "alt": "Cover of Pure Colour",
+    "matchTitle": "Pure Colour",
+    "matchedAuthors": [
+      "Sheila Heti"
+    ],
+    "coverId": 11149763,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Pure Colour",
+    "sourceAuthors": [
+      "Sheila Heti"
+    ],
+    "sourceFingerprint": "6a6b244ad17828c4ef66a63fceb3e6546cb29ef5f5180f0b41f5041072d3a72d"
+  },
+  "2ce44a4243d181b181d4f805a3d75f9d": {
+    "src": "https://covers.openlibrary.org/b/id/8238729-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL36633W",
+    "alt": "Cover of Rebecca",
+    "matchTitle": "Rebecca",
+    "matchedAuthors": [
+      "Daphne du Maurier"
+    ],
+    "coverId": 8238729,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Rebecca",
+    "sourceAuthors": [
+      "Daphne du Maurier"
+    ],
+    "sourceFingerprint": "63caf92cf39506989af008bd39099a5430b0fbcbe5599ae2466a624159cabb0f"
+  },
+  "2ce44a4243d18159bb6ad88cf5ecbc64": {
+    "src": "https://covers.openlibrary.org/b/id/8677323-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19727008W",
+    "alt": "Cover of Red Clocks",
+    "matchTitle": "Red Clocks",
+    "matchedAuthors": [
+      "Leni Zumas"
+    ],
+    "coverId": 8677323,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Red Clocks",
+    "sourceAuthors": [
+      "Leni Zumas"
+    ],
+    "sourceFingerprint": "e060b3a8e9746b56c4b6b298dbe00080cc59dd0febdc972895d903010c7a99db"
+  },
+  "2ce44a4243d181bbaafff2cf90a7b949": {
+    "src": "https://covers.openlibrary.org/b/id/8523330-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19551994W",
+    "alt": "Cover of Silk Road",
+    "matchTitle": "Silk Road",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 8523330,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Silk Road",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "ae11984a8342e9d417f581b82827303e016e9c9cad41fa30a2e452deca1248f7"
+  },
+  "2ce44a4243d1814496cbc76620bd73c3": {
+    "src": "https://covers.openlibrary.org/b/id/12727001-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL98459W",
+    "alt": "Cover of Slaughterhouse-Five",
+    "matchTitle": "Slaughterhouse-Five",
+    "matchedAuthors": [
+      "Kurt Vonnegut"
+    ],
+    "coverId": 12727001,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Slaughterhouse-Five",
+    "sourceAuthors": [
+      "Kurt Vonnegut"
+    ],
+    "sourceFingerprint": "f6bc7c87ff0ba7dbad26d273678a759b37990bbb0150d4c32675db1a7c29455f"
+  },
+  "2ce44a4243d1815a9db2f3ebd8203ce9": {
+    "src": "https://covers.openlibrary.org/b/id/13768452-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL29052206W",
+    "alt": "Cover of Slouching towards Utopia",
+    "matchTitle": "Slouching Towards Utopia",
+    "matchedAuthors": [
+      "J. Bradford DeLong"
+    ],
+    "coverId": 13768452,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Slouching towards Utopia",
+    "sourceAuthors": [
+      "J Bradford Delong"
+    ],
+    "sourceFingerprint": "8c6457d70215d52fe485d73177e87ac828b5a0689e01209d6eac712ddf2c6b71"
+  },
+  "2ce44a4243d18172b569f519dfc75c36": {
+    "src": "https://covers.openlibrary.org/b/id/10507091-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL23020966W",
+    "alt": "Cover of Small things like these",
+    "matchTitle": "Small Things Like These",
+    "matchedAuthors": [
+      "Claire Keegan"
+    ],
+    "coverId": 10507091,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Small things like these",
+    "sourceAuthors": [
+      "Claire Keegan"
+    ],
+    "sourceFingerprint": "8fd3b3b1c90bf69540117ef3cd309df7d73b4a80457224d9dabc06a3fcd0136a"
+  },
+  "2ce44a4243d181938498f128a3c1e6bf": {
+    "src": "https://covers.openlibrary.org/b/id/7436711-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17358865W",
+    "alt": "Cover of Snowpiercer",
+    "matchTitle": "Snowpiercer",
+    "matchedAuthors": [
+      "Jacques Lob"
+    ],
+    "coverId": 7436711,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Snowpiercer",
+    "sourceAuthors": [
+      "Jacques Lob"
+    ],
+    "sourceFingerprint": "4859243514f98bb9a2f1668a7749f56af5aa0f0468c526b7e5c88a1ce7865cd0"
+  },
+  "2ce44a4243d1810ebf8fdbe6e71afccb": {
+    "src": "https://covers.openlibrary.org/b/id/100606-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1881611W",
+    "alt": "Cover of Stalingrad",
+    "matchTitle": "Stalingrad",
+    "matchedAuthors": [
+      "Antony Beevor"
+    ],
+    "coverId": 100606,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Stalingrad",
+    "sourceAuthors": [
+      "Antony Beevor"
+    ],
+    "sourceFingerprint": "28ba52252fb7566f4c743011fb5147c2cec34c4de922dbdfcf352a9c63d82add"
+  },
+  "2d344a4243d180cbadcbdf16f72c0eb1": {
+    "src": "https://covers.openlibrary.org/b/id/14911616-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL34654974W",
+    "alt": "Cover of Steppenwolf",
+    "matchTitle": "Steppenwolf",
+    "matchedAuthors": [
+      "Hermann Hesse"
+    ],
+    "coverId": 14911616,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Steppenwolf",
+    "sourceAuthors": [
+      "Hermann Hesse"
+    ],
+    "sourceFingerprint": "97d73f7133cc938bbc2d1efbdf679908307e33250ef6220cad56195db259289e"
+  },
+  "2ce44a4243d18106a557d738f2b3b65e": {
+    "src": "https://covers.openlibrary.org/b/id/10404137-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21772629W",
+    "alt": "Cover of Stigmata",
+    "matchTitle": "Stigmata",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 10404137,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Stigmata",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "af441ce1693191c72396a52a37f33ccaef5930e2c44a3e775289ac2644ee0fa7"
+  },
+  "2ce44a4243d18156bb8efcc5644b2b76": {
+    "src": "https://covers.openlibrary.org/b/id/7069561-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2413921W",
+    "alt": "Cover of Suitcase",
+    "matchTitle": "The suitcase",
+    "matchedAuthors": [
+      "Sergeĭ Dovlatov",
+      "Sergeĭ Dovlatov"
+    ],
+    "coverId": 7069561,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Suitcase",
+    "sourceAuthors": [
+      "Sergei Dovlatov"
+    ],
+    "sourceFingerprint": "be1ce77703069c2e326e578d36e03ff224e56aee4fbe37a5a1a154182ae4de3f"
+  },
+  "2d344a4243d18068a0dbcace797a69dd": {
+    "src": "https://covers.openlibrary.org/b/id/10195804-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL675688W",
+    "alt": "Cover of Surfacing",
+    "matchTitle": "Surfacing",
+    "matchedAuthors": [
+      "Margaret Atwood"
+    ],
+    "coverId": 10195804,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Surfacing",
+    "sourceAuthors": [
+      "Margaret Atwood"
+    ],
+    "sourceFingerprint": "16a4e964932425e078b3f88854ef7322f4c166911950a92d19d92fb0e640b460"
+  },
+  "38e44a4243d18001a997e1e3b333a404": {
+    "src": "https://covers.openlibrary.org/b/id/15128971-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL44171116W",
+    "alt": "Cover of Tata",
+    "matchTitle": "Tatà",
+    "matchedAuthors": [
+      "Valérie Perrin"
+    ],
+    "coverId": 15128971,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Tata",
+    "sourceAuthors": [
+      "Valérie Perrin"
+    ],
+    "sourceFingerprint": "dace8c45bc35b5d67887dfa63a5c1d7cf48f43de9b994528075a3b0f4b3a692b"
+  },
+  "2ce44a4243d181b0a680e9ffad75051d": {
+    "src": "https://covers.openlibrary.org/b/id/11365679-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL24667985W",
+    "alt": "Cover of The Adventures of Pinocchio",
+    "matchTitle": "The Adventures of Pinocchio",
+    "matchedAuthors": [
+      "Carlo Collodi"
+    ],
+    "coverId": 11365679,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Adventures of Pinocchio",
+    "sourceAuthors": [
+      "Carlo Collodi"
+    ],
+    "sourceFingerprint": "635eaad749a62c8ded9667fae9233c4467ff55b382129f3b572c2560dbc372ec"
+  },
+  "2ce44a4243d181468a2acf24f7fe80d9": {
+    "src": "https://covers.openlibrary.org/b/id/417627-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2671485W",
+    "alt": "Cover of The alienist",
+    "matchTitle": "The Alienist",
+    "matchedAuthors": [
+      "Caleb Carr"
+    ],
+    "coverId": 417627,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The alienist",
+    "sourceAuthors": [
+      "Caleb Carr"
+    ],
+    "sourceFingerprint": "8cdcfa6444ba67b6b829fc84e7af4ccdf5bd906bf7515de6e1d094208a696c5a"
+  },
+  "2ce44a4243d1814f85d9fadaa5c191f4": {
+    "src": "https://covers.openlibrary.org/b/id/1230299-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5934430W",
+    "alt": "Cover of The arrival",
+    "matchTitle": "The Arrival",
+    "matchedAuthors": [
+      "Shaun Tan"
+    ],
+    "coverId": 1230299,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The arrival",
+    "sourceAuthors": [
+      "Shaun Tan"
+    ],
+    "sourceFingerprint": "84b356df0182280b128138deb1cbd3ab7b3155185ad5ec9066d020f425c76457"
+  },
+  "2ce44a4243d1810ba8d8c1a01850afba": {
+    "src": "https://covers.openlibrary.org/b/id/11041760-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL675698W",
+    "alt": "Cover of The Blind Assassin",
+    "matchTitle": "The Blind Assassin",
+    "matchedAuthors": [
+      "Margaret Atwood"
+    ],
+    "coverId": 11041760,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Blind Assassin",
+    "sourceAuthors": [
+      "Margaret Atwood"
+    ],
+    "sourceFingerprint": "30ffd9732b98714a668815af95cfbb54c7b7bd5dd569e159e9de50482b8d24f0"
+  },
+  "2ce44a4243d18146bcd9de52d6698825": {
+    "src": "https://covers.openlibrary.org/b/id/15267110-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5819456W",
+    "alt": "Cover of The Book Thief",
+    "matchTitle": "The Book Thief",
+    "matchedAuthors": [
+      "Markus Zusak",
+      "Alexandra Ernst"
+    ],
+    "coverId": 15267110,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Book Thief",
+    "sourceAuthors": [
+      "Markus Zusak"
+    ],
+    "sourceFingerprint": "a9f738083b58332854d1534e8fc320b3682a791cc45eaca437d17b13b8b28ae7"
+  },
+  "2ce44a4243d18161a034c73d34aa9c62": {
+    "src": "https://covers.openlibrary.org/b/id/4451273-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL11896137W",
+    "alt": "Cover of The Bread of Those Early Years",
+    "matchTitle": "The bread of those early years",
+    "matchedAuthors": [
+      "Heinrich Böll"
+    ],
+    "coverId": 4451273,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Bread of Those Early Years",
+    "sourceAuthors": [
+      "Heinrich Böll"
+    ],
+    "sourceFingerprint": "62b589a22d8be87ed7b21cad5cd29b4f1413dc40da12aabb0ca20da3611981e7"
+  },
+  "2ce44a4243d181988efdc70a7ac8dc3b": {
+    "src": "https://covers.openlibrary.org/b/id/9273490-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3335245W",
+    "alt": "Cover of The Catcher in the rye",
+    "matchTitle": "The Catcher in the Rye",
+    "matchedAuthors": [
+      "J. D. Salinger",
+      "Shao jia yun"
+    ],
+    "coverId": 9273490,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Catcher in the rye",
+    "sourceAuthors": [
+      "J.D. Salinger"
+    ],
+    "sourceFingerprint": "76512229b0b8371dbb4f5058e404096b86c6a812102f9d3bfe4913e700f067e0"
+  },
+  "2ce44a4243d181859133eccf91cf4039": {
+    "src": "https://covers.openlibrary.org/b/id/8334682-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16808654W",
+    "alt": "Cover of The Circle",
+    "matchTitle": "The Circle",
+    "matchedAuthors": [
+      "Dave Eggers"
+    ],
+    "coverId": 8334682,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Circle",
+    "sourceAuthors": [
+      "Dave Eggers"
+    ],
+    "sourceFingerprint": "2f510de66ba9740778e416295a8ac0cb61dc268307edbe4c6ed6e62e6f2fc7ac"
+  },
+  "2ce44a4243d1810ba3eef7c967e18210": {
+    "src": "https://covers.openlibrary.org/b/id/6996990-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL279806W",
+    "alt": "Cover of The Clown",
+    "matchTitle": "The Clown",
+    "matchedAuthors": [
+      "Heinrich Böll"
+    ],
+    "coverId": 6996990,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Clown",
+    "sourceAuthors": [
+      "Heinrich Böll"
+    ],
+    "sourceFingerprint": "511fbedb05d7fea8239c150eb5514cfe0bd8295a98ef3a912aa4c42ea751ccf9"
+  },
+  "2ce44a4243d181668d7cd46eae48af5c": {
+    "src": "https://covers.openlibrary.org/b/id/8564628-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL273644W",
+    "alt": "Cover of The color purple",
+    "matchTitle": "The Color Purple",
+    "matchedAuthors": [
+      "Alice Walker"
+    ],
+    "coverId": 8564628,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The color purple",
+    "sourceAuthors": [
+      "Alice Walker"
+    ],
+    "sourceFingerprint": "a3614d5cc8d0ee66184d9bc3a9bfde49e6e078b53aab69e41152fd038fd1a802"
+  },
+  "2ce44a4243d1814fbf0dead8410c0884": {
+    "src": "https://covers.openlibrary.org/b/id/13700427-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15693898W",
+    "alt": "Cover of The complete Cosmicomics",
+    "matchTitle": "The complete Cosmicomics",
+    "matchedAuthors": [
+      "Italo Calvino",
+      "William Weaver",
+      "Tim Parks",
+      "Martin McLaughlin"
+    ],
+    "coverId": 13700427,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The complete Cosmicomics",
+    "sourceAuthors": [
+      "Italo Calvino"
+    ],
+    "sourceFingerprint": "e2268889db3f9d75c7078ea9ac9f2e22dc0f8537567c003c24e2ebc828cbe2e8"
+  },
+  "2ce44a4243d181feaa7bf36740971d18": {
+    "src": "https://covers.openlibrary.org/b/id/10515358-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL38285W",
+    "alt": "Cover of The Elements of Style",
+    "matchTitle": "The Elements of Style",
+    "matchedAuthors": [
+      "William Strunk, Jr.",
+      "E. B. White"
+    ],
+    "coverId": 10515358,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Elements of Style",
+    "sourceAuthors": [
+      "William Strunk Jr."
+    ],
+    "sourceFingerprint": "23793bd098f89087e41e7d5dbc364fbc2e60bd36463c5569f245a5f69c06deca"
+  },
+  "2ce44a4243d181e1a52ecbc1f073a10c": {
+    "src": "https://covers.openlibrary.org/b/id/1469127-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3902908W",
+    "alt": "Cover of The End of Faith",
+    "matchTitle": "The End of Faith",
+    "matchedAuthors": [
+      "Sam Harris"
+    ],
+    "coverId": 1469127,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The End of Faith",
+    "sourceAuthors": [
+      "Sam Harris"
+    ],
+    "sourceFingerprint": "ec4b2b373555ca0c17fc7037b2ad6934cbf910b81a266f3bad5b8ca6d8fa2b25"
+  },
+  "2ce44a4243d18190b4bdcff5f7191703": {
+    "src": "https://covers.openlibrary.org/b/id/14627060-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL27513W",
+    "alt": "Cover of The fellowship of the ring",
+    "matchTitle": "The Fellowship of the Ring",
+    "matchedAuthors": [
+      "J.R.R. Tolkien"
+    ],
+    "coverId": 14627060,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The fellowship of the ring",
+    "sourceAuthors": [
+      "J.R.R Tolkien"
+    ],
+    "sourceFingerprint": "4426d999b17149a898248b93b337c13c3dc89e74ced1920bc5b52b069d47c449"
+  },
+  "2ce44a4243d1816caaa5e00dd5c383dc": {
+    "src": "https://covers.openlibrary.org/b/id/13846646-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2838624W",
+    "alt": "Cover of The Flesh of the Orchid>)",
+    "matchTitle": "The Flesh of the Orchid",
+    "matchedAuthors": [
+      "James Hadley Chase"
+    ],
+    "coverId": 13846646,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Flesh of the Orchid>)",
+    "sourceAuthors": [
+      "James Hadley Chase"
+    ],
+    "sourceFingerprint": "3fb76da01f20706442ab6c76665d2fbc04597163277aa73c762d6ed5ce77e148"
+  },
+  "2ce44a4243d181d5829dde7ae17d5223": {
+    "src": "https://covers.openlibrary.org/b/id/14963688-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL37994307W",
+    "alt": "Cover of The Forsyte Saga",
+    "matchTitle": "The Forsyte Saga",
+    "matchedAuthors": [
+      "John Galsworthy"
+    ],
+    "coverId": 14963688,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Forsyte Saga",
+    "sourceAuthors": [
+      "John Galsworthy"
+    ],
+    "sourceFingerprint": "8ae65fc75c791a1c007df7fa3a27d9ed6c4a9e85e0fe66481ffab1d4baa5f2f3"
+  },
+  "2ce44a4243d181af8d23fcbe886e3247": {
+    "src": "https://covers.openlibrary.org/b/id/14967893-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL34582203W",
+    "alt": "Cover of The Gentleman from San Francisco",
+    "matchTitle": "The Gentleman From San Francisco",
+    "matchedAuthors": [
+      "Ivan Bunin"
+    ],
+    "coverId": 14967893,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Gentleman from San Francisco",
+    "sourceAuthors": [
+      "Ivan Bunin"
+    ],
+    "sourceFingerprint": "9199d0dade34b8b5df5859a8db1a0e5acb5124c7da2e5bcb20265a7f311c9fba"
+  },
+  "2ce44a4243d1819f8608cd2bd28a00af": {
+    "src": "https://covers.openlibrary.org/b/id/15203681-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21188035W",
+    "alt": "Cover of The Girl in the Letter",
+    "matchTitle": "Girl in the Letter",
+    "matchedAuthors": [
+      "Emily Gunnis"
+    ],
+    "coverId": 15203681,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Girl in the Letter",
+    "sourceAuthors": [
+      "Emily Gunnis"
+    ],
+    "sourceFingerprint": "a2dc90425f48c929e56c9489ad3a57a46489de82a6b483a69bf169a3767e6cc3"
+  },
+  "2ce44a4243d1810d9805cda406971658": {
+    "src": "https://covers.openlibrary.org/b/id/386467-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1966485W",
+    "alt": "Cover of The God Delusion",
+    "matchTitle": "The God Delusion",
+    "matchedAuthors": [
+      "Richard Dawkins"
+    ],
+    "coverId": 386467,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The God Delusion",
+    "sourceAuthors": [
+      "Richard Dawkins"
+    ],
+    "sourceFingerprint": "e6eaefe1d78d2da43901ae06cd5f0204116a04d83a533f252b79cef386139216"
+  },
+  "2ce44a4243d18108b917d2308aa1401d": {
+    "src": "https://covers.openlibrary.org/b/id/254375-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL31244W",
+    "alt": "Cover of The Good Terrorist",
+    "matchTitle": "The Good Terrorist",
+    "matchedAuthors": [
+      "Doris Lessing"
+    ],
+    "coverId": 254375,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Good Terrorist",
+    "sourceAuthors": [
+      "Doris Lessing"
+    ],
+    "sourceFingerprint": "a37feb42e4e974a816d3b677a71915b2e4faa3e0b8cc1c7c3b24dc12e3c8cea2"
+  },
+  "2ce44a4243d18117926dc68cec20e95c": {
+    "src": "https://covers.openlibrary.org/b/id/8231851-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL675783W",
+    "alt": "Cover of The Handmaid's Tale",
+    "matchTitle": "The Handmaid's Tale",
+    "matchedAuthors": [
+      "Margaret Atwood"
+    ],
+    "coverId": 8231851,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Handmaid's Tale",
+    "sourceAuthors": [
+      "Margaret Atwood"
+    ],
+    "sourceFingerprint": "d0264a949a7699a5caf708d2f51b492b76bf11b05621bec53e0b72530b1c12ed"
+  },
+  "2ce44a4243d181d08d7bd45c35ddf18d": {
+    "src": "https://covers.openlibrary.org/b/id/7989984-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16805374W",
+    "alt": "Cover of The Humans",
+    "matchTitle": "The Humans",
+    "matchedAuthors": [
+      "Matt Haig"
+    ],
+    "coverId": 7989984,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Humans",
+    "sourceAuthors": [
+      "Matt Haig"
+    ],
+    "sourceFingerprint": "6f62b98db73c041c48679a7ee3f77c8d18bcdae01a0925fe7c8d5a70e8556c2e"
+  },
+  "2ce44a4243d181f78ee8ce2952b447a5": {
+    "src": "https://covers.openlibrary.org/b/id/9846733-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16121217W",
+    "alt": "Cover of The Hypnotist",
+    "matchTitle": "The Hypnotist",
+    "matchedAuthors": [
+      "Lars Kepler"
+    ],
+    "coverId": 9846733,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Hypnotist",
+    "sourceAuthors": [
+      "Lars Kepler"
+    ],
+    "sourceFingerprint": "c36be648c945e8f8be02ade074d6bd856933a6dba65c13c54e96b06cc1f4c823"
+  },
+  "2ce44a4243d181dfa862e570b025c4ba": {
+    "src": "https://covers.openlibrary.org/b/id/1260453-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL27776452W",
+    "alt": "Cover of The importance of being earnest",
+    "matchTitle": "The Importance of Being Earnest",
+    "matchedAuthors": [
+      "Oscar Wilde"
+    ],
+    "coverId": 1260453,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The importance of being earnest",
+    "sourceAuthors": [
+      "Oscar Wilde"
+    ],
+    "sourceFingerprint": "f8f917685bf1178afd8854d9cfc5e10e14a32f37a80aae3255d3044889ef824f"
+  },
+  "2ce44a4243d18112b2b8dd884ede4005": {
+    "src": "https://covers.openlibrary.org/b/id/254531-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3295226W",
+    "alt": "Cover of The Last Good Kiss",
+    "matchTitle": "The last good kiss",
+    "matchedAuthors": [
+      "James Crumley"
+    ],
+    "coverId": 254531,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Last Good Kiss",
+    "sourceAuthors": [
+      "James Crumley"
+    ],
+    "sourceFingerprint": "3d93c5cb2ea05e542f26d1a1cfd60811c382c0152ed92b8f66fba2e8c7946c7d"
+  },
+  "2ce44a4243d181e0905cf2d1f9177ca2": {
+    "src": "https://covers.openlibrary.org/b/id/882662-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL450124W",
+    "alt": "Cover of The Last Man",
+    "matchTitle": "The Last Man",
+    "matchedAuthors": [
+      "Mary Shelley"
+    ],
+    "coverId": 882662,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Last Man",
+    "sourceAuthors": [
+      "Mary Shelley"
+    ],
+    "sourceFingerprint": "6f0e761485bce4a797e7043806eb3ddc57e04d03b1d7927116c6533b998b82f7"
+  },
+  "2ce44a4243d181919c61f507e14d148d": {
+    "src": "https://covers.openlibrary.org/b/id/8805707-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2897796W",
+    "alt": "Cover of The League of Extraordinary Gentlemen",
+    "matchTitle": "The league of extraordinary gentlemen",
+    "matchedAuthors": [
+      "Alan Moore"
+    ],
+    "coverId": 8805707,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The League of Extraordinary Gentlemen",
+    "sourceAuthors": [
+      "Alan Moore"
+    ],
+    "sourceFingerprint": "491f56a3004ef4e0a9af355e987945b6dd65d1149b018da24a827021bdfd4581"
+  },
+  "38c44a4243d180bf9370f8f3e9c12b78": {
+    "src": "https://covers.openlibrary.org/b/id/9151162-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20493062W",
+    "alt": "Cover of The Life of a stupid man",
+    "matchTitle": "The Life of a Stupid Man",
+    "matchedAuthors": [
+      "Ryūnosuke Akutagawa"
+    ],
+    "coverId": 9151162,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Life of a stupid man",
+    "sourceAuthors": [
+      "Ryūnosuke Akutagawa"
+    ],
+    "sourceFingerprint": "e1a536db0afbd77700e6c586f04f17cb298d24799d5a3729e197825381ae01e9"
+  },
+  "2ce44a4243d181e6ab7df7430457f283": {
+    "src": "https://covers.openlibrary.org/b/id/7793883-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL88800W",
+    "alt": "Cover of The Machine Stops",
+    "matchTitle": "The Machine Stops",
+    "matchedAuthors": [
+      "E. M. Forster"
+    ],
+    "coverId": 7793883,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Machine Stops",
+    "sourceAuthors": [
+      "E.M. Forster"
+    ],
+    "sourceFingerprint": "55fcb4a21f7e39dd8601334cbc746af09c829492d09cfc7541a9b156db37cb0f"
+  },
+  "2ce44a4243d1814d9c1ed855a7ddc62a": {
+    "src": "https://covers.openlibrary.org/b/id/15223719-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL45560574W",
+    "alt": "Cover of The Memory Police",
+    "matchTitle": "The Memory Police",
+    "matchedAuthors": [
+      "Yōko Ogawa"
+    ],
+    "coverId": 15223719,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Memory Police",
+    "sourceAuthors": [
+      "Yoko Ogawa"
+    ],
+    "sourceFingerprint": "765ff3f5ab64727c308aeed2eb8fb2ecc0c1592d5bed58043b63a7d1b6e6b95b"
+  },
+  "2ce44a4243d181759a40e24b6acf4cce": {
+    "src": "https://covers.openlibrary.org/b/id/10313767-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20965973W",
+    "alt": "Cover of The Midnight Library",
+    "matchTitle": "The Midnight Library",
+    "matchedAuthors": [
+      "Matt Haig"
+    ],
+    "coverId": 10313767,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Midnight Library",
+    "sourceAuthors": [
+      "Matt Haig"
+    ],
+    "sourceFingerprint": "a48d4d5af9d351ebc42d355a4ddfe7fbaedab5c8fbdc595c46ec0b516dae5660"
+  },
+  "2ce44a4243d1811ea272f63fa77e255b": {
+    "src": "https://covers.openlibrary.org/b/id/14621125-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL37571815W",
+    "alt": "Cover of The Ministry of Time",
+    "matchTitle": "The Ministry of Time",
+    "matchedAuthors": [
+      "Kaliane Bradley"
+    ],
+    "coverId": 14621125,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Ministry of Time",
+    "sourceAuthors": [
+      "Kaliane Bradley"
+    ],
+    "sourceFingerprint": "6793217a3cab60ead828a973fc9f2b968adafe5d23f607e7b1438cac38bf791b"
+  },
+  "2ce44a4243d181a0ad08dd6e697edbdf": {
+    "src": "https://covers.openlibrary.org/b/id/4363243-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1822241W",
+    "alt": "Cover of The Naked and The Dead",
+    "matchTitle": "The Naked and the Dead",
+    "matchedAuthors": [
+      "Norman Mailer"
+    ],
+    "coverId": 4363243,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Naked and The Dead",
+    "sourceAuthors": [
+      "Norman Mailer"
+    ],
+    "sourceFingerprint": "b74fcfa965aeca994c6b9e6b652c1b94154e15cefe2efb86b8f2081aac3f6ebf"
+  },
+  "2ce44a4243d18152bf8bd289eb9ffde1": {
+    "src": "https://covers.openlibrary.org/b/id/7372277-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL16489867W",
+    "alt": "Cover of The Nightmare",
+    "matchTitle": "The nightmare",
+    "matchedAuthors": [
+      "Lars Kepler"
+    ],
+    "coverId": 7372277,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Nightmare",
+    "sourceAuthors": [
+      "Lars Kepler"
+    ],
+    "sourceFingerprint": "a8c1aabfa8cf94a2e9356db758b1f9577037bdda325e875939e31076bc722a7a"
+  },
+  "2ce44a4243d181958f24f4fe256381dd": {
+    "src": "https://covers.openlibrary.org/b/id/11412999-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17937105W",
+    "alt": "Cover of The outsider",
+    "matchTitle": "The Outsider",
+    "matchedAuthors": [
+      "Stephen King"
+    ],
+    "coverId": 11412999,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The outsider",
+    "sourceAuthors": [
+      "Stephen King"
+    ],
+    "sourceFingerprint": "547977682317a6b8838463e7b32260b6b95367e61be9a3b1a7fc3e3a198aba2f"
+  },
+  "2ce44a4243d1816980ade3e356340dc3": {
+    "src": "https://covers.openlibrary.org/b/id/226471-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5956196W",
+    "alt": "Cover of The piano tuner",
+    "matchTitle": "The piano tuner",
+    "matchedAuthors": [
+      "Daniel Mason"
+    ],
+    "coverId": 226471,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The piano tuner",
+    "sourceAuthors": [
+      "Daniel Mason"
+    ],
+    "sourceFingerprint": "8726a9cb3845830af40c21c6c6535b9be5dae9f5159194622e328d83a02008f2"
+  },
+  "2ce44a4243d181809e9ac4b46d199121": {
+    "src": "https://covers.openlibrary.org/b/id/12726168-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1089297W",
+    "alt": "Cover of The Prince",
+    "matchTitle": "The Prince",
+    "matchedAuthors": [
+      "Niccolò Machiavelli"
+    ],
+    "coverId": 12726168,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Prince",
+    "sourceAuthors": [
+      "Niccolo Machiavelli"
+    ],
+    "sourceFingerprint": "2cbb6a38a3143d067eb2ba85eb9ee29127c2c63c1fd7871c114d61446a2b3754"
+  },
+  "2df44a4243d18097a33ad52fb28cb781": {
+    "src": "https://covers.openlibrary.org/b/id/105814-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL245401W",
+    "alt": "Cover of The Prisoner of Zenda",
+    "matchTitle": "The Prisoner of Zenda",
+    "matchedAuthors": [
+      "Anthony Hope",
+      "Gary Hoppenstand",
+      "Diane Mowat",
+      "Alan Marks",
+      "Francesc Ràfols",
+      "Andrew Pugsley",
+      "Summer M. Hogan",
+      "Summer Hogan",
+      "Smidgen Press",
+      "Charles Dana Gibson",
+      "Daniel Lanza Barba",
+      "Javier Fornell Fernandez",
+      "Stephen Colbourn",
+      "Katy Jackson",
+      "James Wilby",
+      "Robinson, M."
+    ],
+    "coverId": 105814,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Prisoner of Zenda",
+    "sourceAuthors": [
+      "Anthony Hope"
+    ],
+    "sourceFingerprint": "e35ea277265555948587618216a06e37a91083fe34d2df1e422de402969f024a"
+  },
+  "2ce44a4243d181a99b60dc09198f39fc": {
+    "src": "https://covers.openlibrary.org/b/id/14913446-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL43044097W",
+    "alt": "Cover of The Rebel",
+    "matchTitle": "The Rebel ",
+    "matchedAuthors": [
+      "Albert Camus",
+      "Vipsania Rivas"
+    ],
+    "coverId": 14913446,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Rebel",
+    "sourceAuthors": [
+      "Albert Camus"
+    ],
+    "sourceFingerprint": "3af67fd0d6e2cfae94ecf9573f67e5cc104b896c4d56d29cc90e37a1868ecef5"
+  },
+  "2ce44a4243d1810a890af427b0326b4c": {
+    "src": "https://covers.openlibrary.org/b/id/15050012-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL41132226W",
+    "alt": "Cover of The Red and the Black",
+    "matchTitle": "Red and the Black",
+    "matchedAuthors": [
+      "Stendhal",
+      "C. K. Scott Moncrieff"
+    ],
+    "coverId": 15050012,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Red and the Black",
+    "sourceAuthors": [
+      "Stendhal"
+    ],
+    "sourceFingerprint": "4a4f75cbc6967e5023bcdd365981165858996bc58957863e3fb3c8272268f4ea"
+  },
+  "2ce44a4243d181d4abcfcefdcc6008ad": {
+    "src": "https://covers.openlibrary.org/b/id/14627062-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL27455W",
+    "alt": "Cover of The return of the king",
+    "matchTitle": "The Return of the King",
+    "matchedAuthors": [
+      "J.R.R. Tolkien"
+    ],
+    "coverId": 14627062,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The return of the king",
+    "sourceAuthors": [
+      "J.R.R Tolkien"
+    ],
+    "sourceFingerprint": "e29cb61df24ea104745383893ff5899e37c6645c9eb9ee5637d6c98761b70cbc"
+  },
+  "2ce44a4243d1811eae69c1e0174718d4": {
+    "src": "https://covers.openlibrary.org/b/id/198120-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL40873W",
+    "alt": "Cover of The Road",
+    "matchTitle": "The Road",
+    "matchedAuthors": [
+      "Cormac McCarthy"
+    ],
+    "coverId": 198120,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Road",
+    "sourceAuthors": [
+      "Cormac McCarthy"
+    ],
+    "sourceFingerprint": "1e2b0c856b097b90a8384aed63c3f86b518fb4b89e87c1bfbdcb82d494d65847"
+  },
+  "2ce44a4243d181a2be08d86973007703": {
+    "src": "https://covers.openlibrary.org/b/id/133936-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1966488W",
+    "alt": "Cover of The Selfish Gene",
+    "matchTitle": "The Selfish Gene",
+    "matchedAuthors": [
+      "Richard Dawkins"
+    ],
+    "coverId": 133936,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Selfish Gene",
+    "sourceAuthors": [
+      "Richard Dawkins"
+    ],
+    "sourceFingerprint": "edea77b3771dd57cb8908aaf5cef60c505b9e96f49916528bb2f6deedc4e3fb3"
+  },
+  "2ce44a4243d181b78689f79b58f227ef": {
+    "src": "https://covers.openlibrary.org/b/id/400407-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1190226W",
+    "alt": "Cover of The shadow of young girls in flower",
+    "matchTitle": "In the Shadow of Young Girls in Flower",
+    "matchedAuthors": [
+      "Marcel Proust"
+    ],
+    "coverId": 400407,
+    "titleMatch": 0.86,
+    "authorMatch": 1,
+    "sourceTitle": "The shadow of young girls in flower",
+    "sourceAuthors": [
+      "Marcel Proust"
+    ],
+    "sourceFingerprint": "03e79c4d3cab01ac8b1e83dcabee156573c267ac50f7225699bd7843ec6ab17a"
+  },
+  "2ce44a4243d1819490edc443c8d24aa4": {
+    "src": "https://covers.openlibrary.org/b/id/12376585-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL81633W",
+    "alt": "Cover of The Shining",
+    "matchTitle": "The Shining",
+    "matchedAuthors": [
+      "Stephen King"
+    ],
+    "coverId": 12376585,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Shining",
+    "sourceAuthors": [
+      "Stephen King"
+    ],
+    "sourceFingerprint": "c6929d501cc1576cc770d668dc92139c089389fdb6b1836717f550596a430c70"
+  },
+  "2ce44a4243d181fa918dd862ff05851b": {
+    "src": "https://covers.openlibrary.org/b/id/9407338-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19096402W",
+    "alt": "Cover of The Silent Patient",
+    "matchTitle": "The Silent Patient",
+    "matchedAuthors": [
+      "Alex Michaelides"
+    ],
+    "coverId": 9407338,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Silent Patient",
+    "sourceAuthors": [
+      "Alex Michaelides"
+    ],
+    "sourceFingerprint": "18392cad0225e2fa9bdd9ffef8076812bfcdb519c61e531438846863634adead"
+  },
+  "2ce44a4243d1819f8a6cd7ca8f65edf7": {
+    "src": "https://covers.openlibrary.org/b/id/8963642-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19666939W",
+    "alt": "Cover of The Silk Roads",
+    "matchTitle": "The Silk Roads",
+    "matchedAuthors": [
+      "Peter Frankopan"
+    ],
+    "coverId": 8963642,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Silk Roads",
+    "sourceAuthors": [
+      "Peter Frankopan"
+    ],
+    "sourceFingerprint": "6292a1760b7df40a6eca953f5dee9b5e8b3c8fb5eed34c047c588ac57525b930"
+  },
+  "2ce44a4243d18131a71fdc1f9cc51215": {
+    "src": "https://covers.openlibrary.org/b/id/9255992-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL81618W",
+    "alt": "Cover of The Stand",
+    "matchTitle": "The Stand",
+    "matchedAuthors": [
+      "Stephen King"
+    ],
+    "coverId": 9255992,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Stand",
+    "sourceAuthors": [
+      "Stephen King"
+    ],
+    "sourceFingerprint": "95cf1a714046655664893343f48a01c07084aeed2d9d0769cce69f53826b39ef"
+  },
+  "2ce44a4243d18113bdd8e13eae5e74f4": {
+    "src": "https://covers.openlibrary.org/b/id/8723460-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15443090W",
+    "alt": "Cover of The strangest man",
+    "matchTitle": "The strangest man",
+    "matchedAuthors": [
+      "Graham Farmelo"
+    ],
+    "coverId": 8723460,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "The strangest man",
+    "sourceAuthors": [
+      "Farmelo"
+    ],
+    "sourceFingerprint": "353e18dc50df40f07866238d09b238cec6a30991fa59e9e2fc4e4b8c83becc3b"
+  },
+  "2ce44a4243d181149653d9c67305311e": {
+    "src": "https://covers.openlibrary.org/b/id/8137160-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17841244W",
+    "alt": "Cover of The Tartar Steppe",
+    "matchTitle": "THE TARTAR STEPPE",
+    "matchedAuthors": [
+      "Dino Buzzati"
+    ],
+    "coverId": 8137160,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Tartar Steppe",
+    "sourceAuthors": [
+      "Dino Buzzati"
+    ],
+    "sourceFingerprint": "37a70e4d84054712c412124699bb416c2627ef6bbaaaa519b1ee4ba0b4156be9"
+  },
+  "2ce44a4243d1810ebdddc90416a463ff": {
+    "src": "https://covers.openlibrary.org/b/id/10201431-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20878311W",
+    "alt": "Cover of The Thursday Murder Club",
+    "matchTitle": "The Thursday Murder Club",
+    "matchedAuthors": [
+      "Richard Osman"
+    ],
+    "coverId": 10201431,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Thursday Murder Club",
+    "sourceAuthors": [
+      "Richard Osman"
+    ],
+    "sourceFingerprint": "1b80142765f4fcd397fab1547d2d5eb7a9c70116792bafe265f104f3acd71b37"
+  },
+  "2ce44a4243d181a3a685c0ef41578447": {
+    "src": "https://covers.openlibrary.org/b/id/401441-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL892023W",
+    "alt": "Cover of The Tortilla Curtain",
+    "matchTitle": "The tortilla curtain",
+    "matchedAuthors": [
+      "T. Coraghessan Boyle"
+    ],
+    "coverId": 401441,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "The Tortilla Curtain",
+    "sourceAuthors": [
+      "T. C. Boyle"
+    ],
+    "sourceFingerprint": "9e18fb66bb10f93d90b201bee174aac50a92cf7c0dd31ac1f493135bc04af564"
+  },
+  "2ce44a4243d181118055d1d854912ddb": {
+    "src": "https://covers.openlibrary.org/b/id/1532442-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15110877W",
+    "alt": "Cover of The Train Was on Time",
+    "matchTitle": "The train was on time",
+    "matchedAuthors": [
+      "Heinrich Böll"
+    ],
+    "coverId": 1532442,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Train Was on Time",
+    "sourceAuthors": [
+      "Heinrich Böll"
+    ],
+    "sourceFingerprint": "f657975915511b51fd826c8fb679e452551ea13a878a67e33ca81944482ec150"
+  },
+  "2ce44a4243d181b88cdbd45a859e9644": {
+    "src": "https://covers.openlibrary.org/b/id/14910748-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL43043884W",
+    "alt": "Cover of The trial",
+    "matchTitle": "The Trial",
+    "matchedAuthors": [
+      "Franz Kafka"
+    ],
+    "coverId": 14910748,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "The trial",
+    "sourceAuthors": [
+      "Kafka"
+    ],
+    "sourceFingerprint": "9a5b4736a29121a43e1576a0ceb707989f5fe4c2587bdbd4ffb80b163e2ff61a"
+  },
+  "2ce44a4243d18102b33bedbd678eb4a4": {
+    "src": "https://covers.openlibrary.org/b/id/14627564-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL27479W",
+    "alt": "Cover of The two towers",
+    "matchTitle": "The Two Towers",
+    "matchedAuthors": [
+      "J.R.R. Tolkien"
+    ],
+    "coverId": 14627564,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The two towers",
+    "sourceAuthors": [
+      "J.R.R Tolkien"
+    ],
+    "sourceFingerprint": "98273b9cce5c04acefb409563f515d52b7bd2549954fb061f9ec6092262c02c5"
+  },
+  "2ce44a4243d181c89675eec53f267042": {
+    "src": "https://covers.openlibrary.org/b/id/182770-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL14871974W",
+    "alt": "Cover of The Urth of the new sun",
+    "matchTitle": "The Urth of the new sun",
+    "matchedAuthors": [
+      "Gene Wolfe"
+    ],
+    "coverId": 182770,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Urth of the new sun",
+    "sourceAuthors": [
+      "Gene Wolfe"
+    ],
+    "sourceFingerprint": "5fa97a6055bbaf2958b5b6ca510c93516596e155761675a97da6d6fb4b963abf"
+  },
+  "2ce44a4243d1817fb45ef6ee8b563f7a": {
+    "src": "https://covers.openlibrary.org/b/id/14323500-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20059598W",
+    "alt": "Cover of The Wicked Go to Hell",
+    "matchTitle": "The wicked go to hell",
+    "matchedAuthors": [
+      "Frédéric Dard"
+    ],
+    "coverId": 14323500,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Wicked Go to Hell",
+    "sourceAuthors": [
+      "Frédéric Dard"
+    ],
+    "sourceFingerprint": "a7425402019808cb032725d0c329cf3f04a18050f7b3e07cb4da9605e81fbccf"
+  },
+  "2ce44a4243d181e2b57fc789a537088d": {
+    "src": "https://covers.openlibrary.org/b/id/10439789-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21311069W",
+    "alt": "Cover of The woman in cabin 10",
+    "matchTitle": "The Woman in Cabin 10",
+    "matchedAuthors": [
+      "Ruth Ware"
+    ],
+    "coverId": 10439789,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The woman in cabin 10",
+    "sourceAuthors": [
+      "Ruth Ware"
+    ],
+    "sourceFingerprint": "901b6de79fc6058a9ab2971ff5c8954e1aec91caca1c35438c5a90626647906e"
+  },
+  "30444a4243d180f09288c789c57aa46e": {
+    "src": "https://covers.openlibrary.org/b/id/652029-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2772007W",
+    "alt": "Cover of The Yellow Wallpaper",
+    "matchTitle": "The Yellow Wallpaper",
+    "matchedAuthors": [
+      "Charlotte Perkins Gilman"
+    ],
+    "coverId": 652029,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Yellow Wallpaper",
+    "sourceAuthors": [
+      "Charlotte Perkins Gilman"
+    ],
+    "sourceFingerprint": "eec6c7a78bb433aff10a3d692f14bb699342735dde6bcb9c9e3416a080fb22cc"
+  },
+  "2ce44a4243d181928ea0c5f4ee4bf7b0": {
+    "src": "https://covers.openlibrary.org/b/id/10939021-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL24399721W",
+    "alt": "Cover of Thinking as a science",
+    "matchTitle": "Thinking as a Science",
+    "matchedAuthors": [
+      "Henry Hazlitt"
+    ],
+    "coverId": 10939021,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Thinking as a science",
+    "sourceAuthors": [
+      "Henry Hazlitt"
+    ],
+    "sourceFingerprint": "4294b481c006d814e0a1679b91182a57b9d90dae1cbe00e70f3355bfc0190c49"
+  },
+  "2ce44a4243d181b5815cfcc0f0df1736": {
+    "src": "https://covers.openlibrary.org/b/id/7021556-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15723131W",
+    "alt": "Cover of Tinker, Tailor, soldier, spy",
+    "matchTitle": "Tinker Tailor Soldier Spy",
+    "matchedAuthors": [
+      "John le Carré"
+    ],
+    "coverId": 7021556,
+    "titleMatch": 1,
+    "authorMatch": 0.67,
+    "sourceTitle": "Tinker, Tailor, soldier, spy",
+    "sourceAuthors": [
+      "John Le"
+    ],
+    "sourceFingerprint": "f7f750f1ad87d1b0ca031897069d0729a93936ac2c2b1c382e0a9eec48449ff7"
+  },
+  "2ce44a4243d181e1bfa5f90fba9eb89c": {
+    "src": "https://covers.openlibrary.org/b/id/14351077-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3140822W",
+    "alt": "Cover of To Kill a Mockingbird",
+    "matchTitle": "To Kill a Mockingbird",
+    "matchedAuthors": [
+      "Harper Lee"
+    ],
+    "coverId": 14351077,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "To Kill a Mockingbird",
+    "sourceAuthors": [
+      "Harper Lee"
+    ],
+    "sourceFingerprint": "363a1cc7f3349b710399b115c8462e2bb47a2b4e9789774725e215ad05f53314"
+  },
+  "2ce44a4243d18168824dfda479df150a": {
+    "src": "https://covers.openlibrary.org/b/id/1024279-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL9075592W",
+    "alt": "Cover of Topos of music",
+    "matchTitle": "The Topos of Music",
+    "matchedAuthors": [
+      "Guerino Mazzola"
+    ],
+    "coverId": 1024279,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Topos of music",
+    "sourceAuthors": [
+      "Guerino Mazzola"
+    ],
+    "sourceFingerprint": "43d299cc2c609c411c70d55944a420098f6ff99770cfe00cc87223ffc090b800"
+  },
+  "2ce44a4243d18188a680c08b1d0eeb71": {
+    "src": "https://covers.openlibrary.org/b/id/883146-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL2888312W",
+    "alt": "Cover of Transmetropolitan",
+    "matchTitle": "Transmetropolitan",
+    "matchedAuthors": [
+      "Warren Ellis"
+    ],
+    "coverId": 883146,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Transmetropolitan",
+    "sourceAuthors": [
+      "Warren Ellis"
+    ],
+    "sourceFingerprint": "9100995bbc8014d89044134861691997692e73e99c2e6e88c11822aeff8d1a4b"
+  },
+  "2ce44a4243d181b8a7dbcbc8e94e997f": {
+    "src": "https://covers.openlibrary.org/b/id/12636977-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL4334043W",
+    "alt": "Cover of Venom",
+    "matchTitle": "Venom",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 12636977,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Venom",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "bd7ad4df1e340a5e99d61e705ced4d040fabc1d6aee996a20bc04eb4dfc1eadd"
+  },
+  "2ce44a4243d181c4ab02e9b7380923c1": {
+    "src": "https://covers.openlibrary.org/b/id/12621906-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL267171W",
+    "alt": "Cover of War and peace",
+    "matchTitle": "War and Peace",
+    "matchedAuthors": [
+      "Leo Tolstoy"
+    ],
+    "coverId": 12621906,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "War and peace",
+    "sourceAuthors": [
+      "Leo Tolstoy"
+    ],
+    "sourceFingerprint": "7276099953071bd1b35159cef81ee8c8ac2868d790322924dc9d28dc59954d79"
+  },
+  "2ce44a4243d1818aab6ee33901d1ab08": {
+    "src": "https://covers.openlibrary.org/b/id/222919-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL983056W",
+    "alt": "Cover of Watermark",
+    "matchTitle": "Watermark",
+    "matchedAuthors": [
+      "Joseph Brodsky"
+    ],
+    "coverId": 222919,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Watermark",
+    "sourceAuthors": [
+      "Joseph Brodsky"
+    ],
+    "sourceFingerprint": "0d0cec5c1a0d731c9b8074dc18c53a0cf6af89fbddda2a2cb61c32f35cee75ff"
+  },
+  "32844a4243d180bfbd04c83ed57bc301": {
+    "src": "https://covers.openlibrary.org/b/id/914747-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1865851W",
+    "alt": "Cover of What we talk about when we talk about love",
+    "matchTitle": "What We Talk About When We Talk About Love",
+    "matchedAuthors": [
+      "Raymond Carver"
+    ],
+    "coverId": 914747,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "What we talk about when we talk about love",
+    "sourceAuthors": [
+      "Raymond Carver"
+    ],
+    "sourceFingerprint": "67100afff000383ef868875e029c00c37aee9c2f1744a2b4afff6df394dc1bc8"
+  },
+  "2ce44a4243d18110a613f80e2cd1d61e": {
+    "src": "https://covers.openlibrary.org/b/id/390435-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL4334040W",
+    "alt": "Cover of When we were Gods",
+    "matchTitle": "When we were gods",
+    "matchedAuthors": [
+      "Colin Falconer"
+    ],
+    "coverId": 390435,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "When we were Gods",
+    "sourceAuthors": [
+      "Colin Falconer"
+    ],
+    "sourceFingerprint": "26f2ba5d5d4b9d340335ad070f98ef1f9e4f50964c2020e0e6a53779724a9309"
+  },
+  "2ce44a4243d18170808bc7ed2f106f6f": {
+    "src": "https://covers.openlibrary.org/b/id/376601-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL65295W",
+    "alt": "Cover of Wise Blood",
+    "matchTitle": "Wise blood",
+    "matchedAuthors": [
+      "Flannery O'Connor"
+    ],
+    "coverId": 376601,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Wise Blood",
+    "sourceAuthors": [
+      "Flannery O'Connor"
+    ],
+    "sourceFingerprint": "f024cfee820cf87f48d9399f1968116f7e300cbd5d8d9a3d4c6b004a85d9fff7"
+  },
+  "2ce44a4243d181a89028dfa726483960": {
+    "src": "https://covers.openlibrary.org/b/id/12818862-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21177W",
+    "alt": "Cover of Wuthering Heights",
+    "matchTitle": "Wuthering Heights",
+    "matchedAuthors": [
+      "Emily Brontë"
+    ],
+    "coverId": 12818862,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Wuthering Heights",
+    "sourceAuthors": [
+      "Emily Brontë"
+    ],
+    "sourceFingerprint": "e6411ed2c0dcbda4adf767c171fee921012ea1d5cd5be6f21ecf338956255cc3"
+  },
+  "2ce44a4243d181f7bc27f726a2698fb9": {
+    "src": "https://covers.openlibrary.org/b/id/13195421-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL29050559W",
+    "alt": "Cover of Yellowface",
+    "matchTitle": "Yellowface",
+    "matchedAuthors": [
+      "R. F. Kuang"
+    ],
+    "coverId": 13195421,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Yellowface",
+    "sourceAuthors": [
+      "R. F. Kuang"
+    ],
+    "sourceFingerprint": "fbf2113089674a250d7a2fc4c1007cb8f23da3dad9a7157d758711523d4db818"
+  },
+  "2ce44a4243d1813398d4c202bc0a65a5": {
+    "src": "https://covers.openlibrary.org/b/id/14817133-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL267933W",
+    "alt": "Cover of Gone with the wind",
+    "matchTitle": "Gone With the Wind",
+    "matchedAuthors": [
+      "Margaret Mitchell"
+    ],
+    "coverId": 14817133,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Gone with the wind",
+    "sourceAuthors": [
+      "Margaret Mitchel"
+    ],
+    "sourceFingerprint": "c17a9c8e279441e81052ad8dc5b6c543014f2fccdc7f6dcd95338e9cdcde9419"
+  },
+  "2ce44a4243d1816ca2a6d6f9d029cc8f": {
+    "src": "https://covers.openlibrary.org/b/id/8269274-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL55238W",
+    "alt": "Cover of The Book of Daniel",
+    "matchTitle": "The book of Daniel",
+    "matchedAuthors": [
+      "E. L. Doctorow"
+    ],
+    "coverId": 8269274,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "The Book of Daniel",
+    "sourceAuthors": [
+      "Edgar Lawrence Doctorow"
+    ],
+    "sourceFingerprint": "044974223853edeaf41602ba1eb64a5ca71f43a719e4a21ba81676946babd816"
+  },
+  "2ce44a4243d181f9bcded1a9ed1e4e70": {
+    "src": "https://covers.openlibrary.org/b/id/8579790-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5782000W",
+    "alt": "Cover of A thousand splendid suns",
+    "matchTitle": "A Thousand Splendid Suns",
+    "matchedAuthors": [
+      "Khaled Hosseini"
+    ],
+    "coverId": 8579790,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "A thousand splendid suns",
+    "sourceAuthors": [
+      "Khaled Hoseini"
+    ],
+    "sourceFingerprint": "1b223413a23fcf219cc1471d684f5a2d3aed7d0b8b69cfeb8c2a13b5bec8b81a"
+  },
+  "2ce44a4243d181f48ab3fc9e07ac3efa": {
+    "src": "https://covers.openlibrary.org/b/id/8494659-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL679360W",
+    "alt": "Cover of American Gods",
+    "matchTitle": "American Gods",
+    "matchedAuthors": [
+      "Neil Gaiman"
+    ],
+    "coverId": 8494659,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "American Gods",
+    "sourceAuthors": [
+      "Neil Gaeiman"
+    ],
+    "sourceFingerprint": "4de4d008f7365e684f66b270566785d21cb1cfa0243e6c604fe88feb374b1406"
+  },
+  "2ce44a4243d181b6a4a1d265829f6d8e": {
+    "src": "https://covers.openlibrary.org/b/id/5984628-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL8134931W",
+    "alt": "Cover of Asterios Polyp",
+    "matchTitle": "Asterios polyp",
+    "matchedAuthors": [
+      "David Mazzucchelli"
+    ],
+    "coverId": 5984628,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "Asterios Polyp",
+    "sourceAuthors": [
+      "David John Mazzucchelli"
+    ],
+    "sourceFingerprint": "6effbc2ae5ed7cc5bf0caaee87eada50d74d8bd6fb53ff4bb24b8253755cedf3"
+  },
+  "2ce44a4243d1810aa81cd8084f14f863": {
+    "src": "https://covers.openlibrary.org/b/id/10172565-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20749794W",
+    "alt": "Cover of Blacktop Wasteland",
+    "matchTitle": "Blacktop Wasteland",
+    "matchedAuthors": [
+      "S. A. Cosby"
+    ],
+    "coverId": 10172565,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "Blacktop Wasteland",
+    "sourceAuthors": [
+      "SA Cosby"
+    ],
+    "sourceFingerprint": "d7cdbd4dc27027d202f3a1f5519a8c2328635afbb6bdc6ae8c838047936c2e08"
+  },
+  "2ce44a4243d181eb811fea4e1070e483": {
+    "src": "https://covers.openlibrary.org/b/id/14171421-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL679358W",
+    "alt": "Cover of Coraline",
+    "matchTitle": "Coraline",
+    "matchedAuthors": [
+      "Neil Gaiman"
+    ],
+    "coverId": 14171421,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Coraline",
+    "sourceAuthors": [
+      "Neil Gaeiman"
+    ],
+    "sourceFingerprint": "cbfff98f8ce7615226614790e212a1247ae83b8a97a07cb38962d74709af4141"
+  },
+  "2ce44a4243d181ca9b47dce99c75e9bf": {
+    "src": "https://covers.openlibrary.org/b/id/15183762-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL45018229W",
+    "alt": "Cover of Crime and Punishment",
+    "matchTitle": "Crime and Punishment",
+    "matchedAuthors": [
+      "Fyodor Dostoevsky"
+    ],
+    "coverId": 15183762,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "Crime and Punishment",
+    "sourceAuthors": [
+      "Fyodor Mikhailovich Dostoevsky"
+    ],
+    "sourceFingerprint": "d2ba3d0287dd5ec32533b09393e39eac2343cbe28fc3a4b9d5704ffb4546ccd5"
+  },
+  "2ce44a4243d181b2a5d8d4a857669464": {
+    "src": "https://covers.openlibrary.org/b/id/14896503-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL38068744W",
+    "alt": "Cover of Doctor Zhivago",
+    "matchTitle": "Doctor Zhivago",
+    "matchedAuthors": [
+      "Boris Pasternak"
+    ],
+    "coverId": 14896503,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "Doctor Zhivago",
+    "sourceAuthors": [
+      "Boris Pasternak"
+    ],
+    "sourceFingerprint": "4e54707b4384a7d0ba4a2794ccfbd6bb5fe0145c30a33c62e406f22bdb50590c"
+  },
+  "2ce44a4243d181c68f2ed48b3d1b4a01": {
+    "src": "https://covers.openlibrary.org/b/id/8315188-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1673261W",
+    "alt": "Cover of Fools die",
+    "matchTitle": "Fools Die",
+    "matchedAuthors": [
+      "Mario Puzo"
+    ],
+    "coverId": 8315188,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Fools die",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "c57ed9939bbc5321972994b28859e0a9343344fffee37fb158686dc695641174"
+  },
+  "2ce44a4243d181f795e7fa3e4a8b858b": {
+    "src": "https://covers.openlibrary.org/b/id/14368453-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL716850W",
+    "alt": "Cover of Gödel, Escher, Bach",
+    "matchTitle": "Gödel, Escher, Bach",
+    "matchedAuthors": [
+      "Douglas R. Hofstadter"
+    ],
+    "coverId": 14368453,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Gödel, Escher, Bach",
+    "sourceAuthors": [
+      "Douglas R. Hofstadtaer"
+    ],
+    "sourceFingerprint": "e8db013237560d64b4a073aa25fc17dbc4f2f77604a8cf5aec38e7f295ab9719"
+  },
+  "2ce44a4243d181168603d5fb8d36586c": {
+    "src": "https://covers.openlibrary.org/b/id/8235363-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1095427W",
+    "alt": "Cover of Jane Eyre",
+    "matchTitle": "Jane Eyre",
+    "matchedAuthors": [
+      "Charlotte Brontë"
+    ],
+    "coverId": 8235363,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Jane Eyre",
+    "sourceAuthors": [
+      "Charlotte Bonte"
+    ],
+    "sourceFingerprint": "0c70b638a07530c4adb7eaa46b8e6a39e564680035bcf1307cf6a55117662125"
+  },
+  "2d344a4243d1807a83fad0698702e0dc": {
+    "src": "https://covers.openlibrary.org/b/id/8480115-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL19363285W",
+    "alt": "Cover of Nausea",
+    "matchTitle": "Nausea",
+    "matchedAuthors": [
+      "Jean-Paul. Satre"
+    ],
+    "coverId": 8480115,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Nausea",
+    "sourceAuthors": [
+      "Jean-Paul Sartre"
+    ],
+    "sourceFingerprint": "b000c90169d4fd56c0aece816fc0a2ba052566c94081f5ac5ec4a829927c856f"
+  },
+  "2ce44a4243d181af9532db148329dbfc": {
+    "src": "https://covers.openlibrary.org/b/id/977940-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL8551795W",
+    "alt": "Cover of Oblomov",
+    "matchTitle": "Oblomov",
+    "matchedAuthors": [
+      "Ivan Gontcharov"
+    ],
+    "coverId": 977940,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Oblomov",
+    "sourceAuthors": [
+      "Ivan Goncharov"
+    ],
+    "sourceFingerprint": "ed0c33cf0ed16373b798bf6ac0d5ff8f442a485a049c34828d59fc64b277ace1"
+  },
+  "2ce44a4243d18156b76fd25a46904d9f": {
+    "src": "https://covers.openlibrary.org/b/id/3233429-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1673230W",
+    "alt": "Cover of Omerta",
+    "matchTitle": "Omerta",
+    "matchedAuthors": [
+      "Mario Puzo"
+    ],
+    "coverId": 3233429,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Omerta",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "8b3b5f62566446b042a51d7e8cef0c2c81dd3d0050e90d485da0bf8845582d94"
+  },
+  "2ce44a4243d181e2a547cf8da67318cf": {
+    "src": "https://covers.openlibrary.org/b/id/34655-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL65906W",
+    "alt": "Cover of On the Road",
+    "matchTitle": "On The Road",
+    "matchedAuthors": [
+      "Jack Kerouac"
+    ],
+    "coverId": 34655,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "On the Road",
+    "sourceAuthors": [
+      "Jack Keroua"
+    ],
+    "sourceFingerprint": "4118800911c57f68841c1b23a94c664411dccc1ffe97883c1550c5edeb313675"
+  },
+  "2ce44a4243d181eb916fc6a3fa4eec51": {
+    "src": "https://covers.openlibrary.org/b/id/10480276-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL22589599W",
+    "alt": "Cover of Razorblade Tears",
+    "matchTitle": "Razorblade Tears",
+    "matchedAuthors": [
+      "S. A. Cosby"
+    ],
+    "coverId": 10480276,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "Razorblade Tears",
+    "sourceAuthors": [
+      "SA Cosby"
+    ],
+    "sourceFingerprint": "3b39f01f692db87f6f61f9f1924068e1f7bdbb81e92950e80172641177fec744"
+  },
+  "2ce44a4243d181ac9585ea4770ceb100": {
+    "src": "https://covers.openlibrary.org/b/id/13987090-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL21905557W",
+    "alt": "Cover of Sandman",
+    "matchTitle": "Sandman",
+    "matchedAuthors": [
+      "Neil Gaiman",
+      "Sam Kieth",
+      "J. H. Williams III",
+      "Chris Bachalo"
+    ],
+    "coverId": 13987090,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Sandman",
+    "sourceAuthors": [
+      "Neil Gaeiman"
+    ],
+    "sourceFingerprint": "b4bcb4ed11bf45d1e8f37c358a73514b71cc95782fc1948c3badefab5c66542f"
+  },
+  "2ce44a4243d18140bd21cd1b9c6e354c": {
+    "src": "https://covers.openlibrary.org/b/id/6378375-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15682841W",
+    "alt": "Cover of Six Graves to Munich",
+    "matchTitle": "Six Graves to Munich",
+    "matchedAuthors": [
+      "Mario Puzo",
+      "LUIS MURILLO FORT"
+    ],
+    "coverId": 6378375,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Six Graves to Munich",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "ff0665355221f33f1ac98b0dc6518776e034d144772c4109bc1381cd7beaccfe"
+  },
+  "2ce44a4243d18103ad21c0ba7a35a918": {
+    "src": "https://covers.openlibrary.org/b/id/6378375-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL15682841W",
+    "alt": "Cover of Six graves to Munich",
+    "matchTitle": "Six Graves to Munich",
+    "matchedAuthors": [
+      "Mario Puzo",
+      "LUIS MURILLO FORT"
+    ],
+    "coverId": 6378375,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "Six graves to Munich",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "ed877cc5ec599f75ac72ee90ccbf36ad6a73edce70370b5dc9bcdc7d63fd1056"
+  },
+  "2ce44a4243d181ad9b28c50d779b5c3a": {
+    "src": "https://covers.openlibrary.org/b/id/14889167-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL26803918W",
+    "alt": "Cover of The Brothers Karamazov",
+    "matchTitle": "Brothers Karamazov",
+    "matchedAuthors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "coverId": 14889167,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The Brothers Karamazov",
+    "sourceAuthors": [
+      "Fyodor Mikhailovich Dostoevsky"
+    ],
+    "sourceFingerprint": "1bde1fd540a071bff2d19fe081cbd0acf80fafeddf3d709f89daa7f045b9fcb3"
+  },
+  "2ce44a4243d181f98d28ff7c3eaafde9": {
+    "src": "https://covers.openlibrary.org/b/id/6714077-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL482454W",
+    "alt": "Cover of The Cloud Atlas",
+    "matchTitle": "Cloud Atlas",
+    "matchedAuthors": [
+      "David Mitchell"
+    ],
+    "coverId": 6714077,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Cloud Atlas",
+    "sourceAuthors": [
+      "David Mitchell"
+    ],
+    "sourceFingerprint": "5f435056e79f98e6f33367056f874adec86d4a7ccd8faa2237a90afa85c2c663"
+  },
+  "2ce44a4243d181fe8535dbce347df34b": {
+    "src": "https://covers.openlibrary.org/b/id/14920459-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL42545468W",
+    "alt": "Cover of The divine comedy",
+    "matchTitle": "Divine Comedy",
+    "matchedAuthors": [
+      "Dante Alighieri",
+      "Gustave Dore",
+      "Henry Wadsworth  Longfellow"
+    ],
+    "coverId": 14920459,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The divine comedy",
+    "sourceAuthors": [
+      "Dante Alighieri"
+    ],
+    "sourceFingerprint": "aaf92b12ed0f5201738f4921feafa60b2e72ee1aa00be2cbe1555d83702df755"
+  },
+  "2ce44a4243d1812a8fb8ce1313ee14bf": {
+    "src": "https://covers.openlibrary.org/b/id/419184-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1673262W",
+    "alt": "Cover of The Fortunate Pilgrim",
+    "matchTitle": "The fortunate pilgrim",
+    "matchedAuthors": [
+      "Mario Puzo"
+    ],
+    "coverId": 419184,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The Fortunate Pilgrim",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "816b9e1798d8439023b3ce3243814352fa65dae56a04a9a564095bc7394cbc30"
+  },
+  "2ce44a4243d18153bab7e9cc8a84f92c": {
+    "src": "https://covers.openlibrary.org/b/id/419184-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1673262W",
+    "alt": "Cover of The fortunate pilgrim",
+    "matchTitle": "The fortunate pilgrim",
+    "matchedAuthors": [
+      "Mario Puzo"
+    ],
+    "coverId": 419184,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The fortunate pilgrim",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "2a0db1bb72050bacd2405bd832fee63d75d3fcd14cb237add5322cfee4712df1"
+  },
+  "2ce44a4243d181be8f24c79d377a9913": {
+    "src": "https://covers.openlibrary.org/b/id/10307103-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL20636244W",
+    "alt": "Cover of The Giver Quartet",
+    "matchTitle": "Giver Quartet",
+    "matchedAuthors": [
+      "Lois Lowry"
+    ],
+    "coverId": 10307103,
+    "titleMatch": 1,
+    "authorMatch": 1,
+    "sourceTitle": "The Giver Quartet",
+    "sourceAuthors": [
+      "Lois Lowry"
+    ],
+    "sourceFingerprint": "b87cc5794d2cc19f0c9d35fd12b12a2dfba37e72dcf70fae7c3ab69435d01de6"
+  },
+  "2ce44a4243d18165b1c6cf674b92da50": {
+    "src": "https://covers.openlibrary.org/b/id/8804569-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL3243765W",
+    "alt": "Cover of The House on Mango Street",
+    "matchTitle": "The House on Mango Street",
+    "matchedAuthors": [
+      "Sandra Cisneros"
+    ],
+    "coverId": 8804569,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The House on Mango Street",
+    "sourceAuthors": [
+      "Sandra Cisnero"
+    ],
+    "sourceFingerprint": "bf6eca51dc5be02046f13b009f0677801cff638cb2e507d6575cd3a6dffe3562"
+  },
+  "2ce44a4243d181fea4fee9fbae917939": {
+    "src": "https://covers.openlibrary.org/b/id/14846827-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL5781992W",
+    "alt": "Cover of The Kite Runner",
+    "matchTitle": "The Kite Runner",
+    "matchedAuthors": [
+      "Khaled Hosseini"
+    ],
+    "coverId": 14846827,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The Kite Runner",
+    "sourceAuthors": [
+      "Khaled Hoseini"
+    ],
+    "sourceFingerprint": "f9f4a468751da742d1c99a991b48ce54e78a4310430a45c90df314099130b77f"
+  },
+  "2ce44a4243d181159930c01195b82895": {
+    "src": "https://covers.openlibrary.org/b/id/12820198-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL498556W",
+    "alt": "Cover of The Metamorphosis",
+    "matchTitle": "Metamorphosis",
+    "matchedAuthors": [
+      "Franz Kafka"
+    ],
+    "coverId": 12820198,
+    "titleMatch": 1,
+    "authorMatch": 0.9,
+    "sourceTitle": "The Metamorphosis",
+    "sourceAuthors": [
+      "Kafka"
+    ],
+    "sourceFingerprint": "ed8f3691e052c90f31515d79a0fce4c9d66fa0654c1bfa09bc018c03df9384d2"
+  },
+  "2ce44a4243d181b28256d99334c21cd7": {
+    "src": "https://covers.openlibrary.org/b/id/7865905-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL17582597W",
+    "alt": "Cover of The Nazi and the Psychiatrist",
+    "matchTitle": "The Nazi and the Psychiatrist",
+    "matchedAuthors": [
+      "Jack El"
+    ],
+    "coverId": 7865905,
+    "titleMatch": 1,
+    "authorMatch": 0.67,
+    "sourceTitle": "The Nazi and the Psychiatrist",
+    "sourceAuthors": [
+      "Jack El-Hai"
+    ],
+    "sourceFingerprint": "2b4af6d64da4216067392bb803aa1b634cb62755d4e90fd80fd7c8044fd94f85"
+  },
+  "2ce44a4243d181dbbddfed4bcc950a6d": {
+    "src": "https://covers.openlibrary.org/b/id/15089651-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL11674781W",
+    "alt": "Cover of The Second Sex",
+    "matchTitle": "The Second Sex",
+    "matchedAuthors": [
+      "Simone de Beauvior"
+    ],
+    "coverId": 15089651,
+    "titleMatch": 1,
+    "authorMatch": 0.5,
+    "sourceTitle": "The Second Sex",
+    "sourceAuthors": [
+      "Simone de Beauvoir"
+    ],
+    "sourceFingerprint": "08869e82ca9ab7f719f5b4a844225c0e20716fca68f7f7b3b81308c023d7e9a4"
+  },
+  "2ce44a4243d18191904ef90abf43989e": {
+    "src": "https://covers.openlibrary.org/b/id/210076-M.jpg?default=false",
+    "sourceUrl": "https://openlibrary.org/works/OL1673260W",
+    "alt": "Cover of The Sicilian",
+    "matchTitle": "The Sicilian",
+    "matchedAuthors": [
+      "Mario Puzo"
+    ],
+    "coverId": 210076,
+    "titleMatch": 1,
+    "authorMatch": 0.86,
+    "sourceTitle": "The Sicilian",
+    "sourceAuthors": [
+      "Mario Puzzo"
+    ],
+    "sourceFingerprint": "8fec8d9ca6aae133a3759146ad1b969db6458afe2d2c27ce0c80733463c7cfc4"
+  }
+}

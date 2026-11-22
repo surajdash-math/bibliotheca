@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.cache/
+.bibliotheca-source/
+.env*
+.DS_Store
+
+node_modules
+
+.github/workflows/
