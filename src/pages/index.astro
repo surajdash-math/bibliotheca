@@ -7,6 +7,7 @@ import ReadingQuotes from "../components/ReadingQuotes.astro";
 
 import catalogue from "../data/bibliotheca.json";
 import shelfLabels from "../data/bibliotheca-shelves.json";
+import coverAssets from "../data/bibliotheca-cover-assets.json";
 
 interface Book {
   id: string;
@@ -17,6 +18,13 @@ interface Book {
   notesHtml: string;
   links: { label: string; url: string }[];
 }
+
+const assetsBySource: Record<string, { file: string }> = coverAssets;
+const coverSource = (cover: Book["cover"]) => {
+  if (!cover) return undefined;
+  const asset = assetsBySource[cover.src];
+  return asset ? `${import.meta.env.BASE_URL}${asset.file}` : cover.src;
+};
 
 const labels: Record<string, string | null> = shelfLabels;
 const entries: Book[] = catalogue.entries.map(book => ({
@@ -49,9 +57,6 @@ const shelves = groups.map(([name, books], index) => ({
     <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
-    <link rel="preconnect" href="https://covers.openlibrary.org" />
-    <link rel="dns-prefetch" href="https://dynamic.indigoimages.ca" />
-    <link rel="dns-prefetch" href="https://is1-ssl.mzstatic.com" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" />
     <ThemeInit />
     <title>Bibliotheca | Suraj Dash</title>
@@ -96,7 +101,7 @@ const shelves = groups.map(([name, books], index) => ({
                   <button type="button" class="book" aria-haspopup="dialog">
                     <span class:list={["cover-frame", { "cover-unavailable": !book.cover }]} aria-hidden="true">
                       <span class="cover-fallback"><span>{book.title}</span>{book.authors.length > 0 && <small>{book.authors.join(", ")}</small>}</span>
-                      {book.cover && <img src={book.cover.src} alt="" loading={index < 6 ? "eager" : "lazy"} fetchpriority={index < 6 ? "high" : "auto"} decoding="async" width="120" height="174" />}
+                      {book.cover && <img src={coverSource(book.cover)} alt="" loading={index < 6 ? "eager" : "lazy"} fetchpriority={index < 6 ? "high" : "auto"} decoding="async" width="120" height="174" />}
                     </span>
                     <span class="book-caption">
                       <span class="book-title">{book.title}</span>
@@ -120,7 +125,7 @@ const shelves = groups.map(([name, books], index) => ({
     {entries.map(book => (
       <div id={`record-${book.id}`} hidden>
         <div class="detail-heading">
-          {book.cover && <img src={book.cover.src} alt={book.cover.alt || ""} loading="lazy" width="120" height="174" />}
+          {book.cover && <img src={coverSource(book.cover)} alt={book.cover.alt || ""} loading="lazy" width="120" height="174" />}
           <div><h2 data-dialog-title>{book.title}</h2>
           {book.authors.length > 0 && <p>{book.authors.join(", ")}</p>}
           {book.genres.length > 0 && <p class="detail-genres">{book.genres.join(" · ")}</p>}</div>

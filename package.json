@@ -11,10 +11,14 @@
     "preview": "astro preview",
     "bibliotheca:import": "node scripts/import-bibliotheca.mjs",
     "bibliotheca:covers": "node scripts/resolve-bibliotheca-covers.mjs",
-    "bibliotheca:check": "node --test tests/bibliotheca.test.mjs"
+    "bibliotheca:check": "node --test tests/bibliotheca.test.mjs",
+    "bibliotheca:cache-covers": "node scripts/cache-book-covers.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^6.4.7"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
   }
 }
