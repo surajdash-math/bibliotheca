@@ -49,6 +49,9 @@ const shelves = groups.map(([name, books], index) => ({
     <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://covers.openlibrary.org" />
+    <link rel="dns-prefetch" href="https://dynamic.indigoimages.ca" />
+    <link rel="dns-prefetch" href="https://is1-ssl.mzstatic.com" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" />
     <ThemeInit />
     <title>Bibliotheca | Suraj Dash</title>
@@ -88,12 +91,12 @@ const shelves = groups.map(([name, books], index) => ({
               <p id="search-result" aria-live="polite">{entries.length} entries</p>
             </header>
             <ul class="books">
-              {entries.map(book => (
+              {entries.map((book, index) => (
                 <li data-book={book.id} data-genres={JSON.stringify(book.genres.length ? book.genres : ["Without a genre"])} data-search={[book.title,...book.authors,...book.genres].join(" ")}>
                   <button type="button" class="book" aria-haspopup="dialog">
                     <span class:list={["cover-frame", { "cover-unavailable": !book.cover }]} aria-hidden="true">
                       <span class="cover-fallback"><span>{book.title}</span>{book.authors.length > 0 && <small>{book.authors.join(", ")}</small>}</span>
-                      {book.cover && <img src={book.cover.src} alt="" loading="lazy" decoding="async" width="120" height="174" />}
+                      {book.cover && <img src={book.cover.src} alt="" loading={index < 6 ? "eager" : "lazy"} fetchpriority={index < 6 ? "high" : "auto"} decoding="async" width="120" height="174" />}
                     </span>
                     <span class="book-caption">
                       <span class="book-title">{book.title}</span>
@@ -141,6 +144,14 @@ const shelves = groups.map(([name, books], index) => ({
   const select = document.querySelector<HTMLSelectElement>("#shelf-select")!;
   const title = document.querySelector<HTMLElement>("#shelf-title")!;
   let activeShelf = "all";
+  const loadOpeningCovers = () => {
+    rows.filter(({row}) => !row.hidden).slice(0, 6).forEach(({row}) => {
+      const image = row.querySelector<HTMLImageElement>(".cover-frame img");
+      if (!image) return;
+      image.fetchPriority = "high";
+      image.loading = "eager";
+    });
+  };
   const refresh = () => {
     const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
     const active = choices.find(choice => choice.dataset.shelf === activeShelf)!;
@@ -160,6 +171,7 @@ const shelves = groups.map(([name, books], index) => ({
     results.textContent = `${visible} ${terms.length ? "matching " : ""}${visible === 1 ? "entry" : "entries"}`;
     document.querySelector<HTMLElement>("#no-results")!.hidden = visible > 0;
     select.value = activeShelf;
+    loadOpeningCovers();
   };
   search.addEventListener("input", refresh);
   choices.forEach(choice => choice.addEventListener("click", () => {
