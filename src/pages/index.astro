@@ -65,7 +65,7 @@ const shelves = groups.map(([name, books], index) => ({
   </head>
   <body>
     <main class="page-shell">
-      <header class="library-topbar"><span>Suraj Dash</span><ThemeToggle /></header>
+      <header class="library-topbar"><a class="site-home" href="https://surajdash-math.github.io/" aria-label="Suraj Dash — Home">Suraj Dash</a><ThemeToggle /></header>
       <article class="catalogue">
         <header class="masthead">
           <h1>Bibliotheca</h1>
@@ -249,7 +249,8 @@ const shelves = groups.map(([name, books], index) => ({
   :global(:focus-visible) { outline: 2px solid var(--link); outline-offset: 4px; }
   .page-shell { width: min(1440px,100%); margin: auto; padding: 24px clamp(20px,4vw,60px) 0; }
   .library-topbar { display: flex; align-items: center; justify-content: space-between; min-height: 44px; border-bottom: 1px solid var(--line); padding-bottom: 16px; margin-bottom: 30px; }
-  .library-topbar > span { font: 400 1.3rem/1.3 var(--serif); color: var(--heading); }
+  .library-topbar > .site-home:hover { text-decoration: underline; text-underline-offset: .2em; }
+  .library-topbar > .site-home { text-decoration: none; font: 400 1.3rem/1.3 var(--serif); color: var(--heading); }
   .catalogue { margin-bottom: 40px; }
   h1,h2 { color: var(--heading); font-family: var(--serif); font-weight: 400; margin: 0; }
   h1 { font-size: clamp(2.9rem,5vw,3.9rem); line-height: 1.05; letter-spacing: -.03em; }
