@@ -5,6 +5,7 @@ import SiteVersion from "../components/SiteVersion.astro";
 import SiteFooter from "../components/SiteFooter.astro";
 import ReadingQuotes from "../components/ReadingQuotes.astro";
 
+import publicationYears from "../data/publication-years.json";
 import catalogue from "../data/bibliotheca.json";
 import shelfLabels from "../data/bibliotheca-shelves.json";
 import coverAssets from "../data/bibliotheca-cover-assets.json";
@@ -19,6 +20,7 @@ interface Book {
   links: { label: string; url: string }[];
 }
 
+const yearsById: Record<string, {year: number; source: string}> = publicationYears;
 const assetsBySource: Record<string, { file: string }> = coverAssets;
 const coverSource = (cover: Book["cover"]) => {
   if (!cover) return undefined;
@@ -93,11 +95,15 @@ const shelves = groups.map(([name, books], index) => ({
           <section class="shelf" aria-labelledby="shelf-title">
             <header class="shelf-heading">
               <h2 id="shelf-title">All titles</h2>
+              <label class="book-sort"><span class="sr-only">Sort books</span><select id="book-sort" aria-label="Sort books">
+                <option value="title">Title A–Z</option><option value="year-asc">Year: oldest</option><option value="year-desc">Year: newest</option>
+              </select></label>
               <p id="search-result" aria-live="polite">{entries.length} entries</p>
             </header>
+            <p id="year-sort-note" hidden>First publication year where available; undated entries appear last.</p>
             <ul class="books">
               {entries.map((book, index) => (
-                <li data-book={book.id} data-genres={JSON.stringify(book.genres.length ? book.genres : ["Without a genre"])} data-search={[book.title,...book.authors,...book.genres].join(" ")}>
+                <li data-title={book.title} data-year={yearsById[book.id]?.year} data-book={book.id} data-genres={JSON.stringify(book.genres.length ? book.genres : ["Without a genre"])} data-search={[book.title,...book.authors,...book.genres].join(" ")}>
                   <button type="button" class="book" aria-haspopup="dialog">
                     <span class:list={["cover-frame", { "cover-unavailable": !book.cover }]} aria-hidden="true">
                       <span class="cover-fallback"><span>{book.title}</span>{book.authors.length > 0 && <small>{book.authors.join(", ")}</small>}</span>
@@ -140,6 +146,8 @@ const shelves = groups.map(([name, books], index) => ({
 
 <script>
   const search = document.querySelector<HTMLInputElement>("#book-search")!;
+  const sort = document.querySelector<HTMLSelectElement>("#book-sort")!;
+  const alphabetical = new Intl.Collator("en", {sensitivity:"base",numeric:true});
   const results = document.querySelector<HTMLElement>("#search-result")!;
   const dialog = document.querySelector<HTMLDialogElement>("#book-dialog")!;
   const content = document.querySelector<HTMLElement>("#dialog-content")!;
@@ -176,9 +184,20 @@ const shelves = groups.map(([name, books], index) => ({
     results.textContent = `${visible} ${terms.length ? "matching " : ""}${visible === 1 ? "entry" : "entries"}`;
     document.querySelector<HTMLElement>("#no-results")!.hidden = visible > 0;
     select.value = activeShelf;
+    rows.sort((a,b) => {
+      if(sort.value !== "title") {
+        const ay=a.row.dataset.year ? Number(a.row.dataset.year):null, by=b.row.dataset.year ? Number(b.row.dataset.year):null;
+        if(ay===null&&by!==null)return 1;if(ay!==null&&by===null)return -1;
+        if(ay!==null&&by!==null&&ay!==by)return sort.value==="year-desc"?by-ay:ay-by;
+      }
+      return alphabetical.compare(a.row.dataset.title||"",b.row.dataset.title||"");
+    });
+    document.querySelector(".books")!.append(...rows.map(({row})=>row));
+    document.querySelector<HTMLElement>("#year-sort-note")!.hidden=sort.value==="title";
     loadOpeningCovers();
   };
   search.addEventListener("input", refresh);
+  sort.addEventListener("change", refresh);
   choices.forEach(choice => choice.addEventListener("click", () => {
     activeShelf = choice.dataset.shelf!;
     refresh();
@@ -249,6 +268,10 @@ const shelves = groups.map(([name, books], index) => ({
   .shelf { min-width: 0; scroll-margin-top: 22px; }
   .shelf-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 22px; }
   .shelf-heading h2 { font-size: 1.75rem; line-height: 1.2; overflow-wrap: anywhere; }
+  .shelf-heading { flex-wrap: wrap; }
+  .book-sort { margin-left: auto; }
+  .book-sort select { max-width: 100%; padding: 6px; background: var(--surface); color: var(--text); border: 1px solid var(--line); font: inherit; font-size: .9rem; }
+  #year-sort-note { color: var(--muted); font-size: .85rem; margin: 0 0 18px; }
   #search-result { margin: 0; color: var(--muted); font-size: .9rem; white-space: nowrap; }
   .books { display: grid; grid-template-columns: repeat(auto-fill,minmax(130px,1fr)); align-items: start; gap: 30px 22px; list-style: none; padding: 0; margin: 0; }
   .books li { min-width: 0; }
